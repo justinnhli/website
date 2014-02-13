@@ -1,5 +1,5 @@
 default:
-	pelican src -o html -s settings.py
+	pelican -v -o html -s settings.py src
 
 clean:
 	rm -rf html/*
