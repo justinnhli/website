@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>{% block title %}{{ SITENAME }}{%endblock%}</title>
+		<meta content='text/html; charset=utf-8' http-equiv='Content-Type'/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link href="http://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css" rel="stylesheet">
+		<link href='http://fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet' type='text/css'/>
+		<link rel="shortcut icon" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/owl-016t.png" type="image/x-icon">
+        <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/{{ CSS_FILE }}" />
+        {% if FEED_ALL_ATOM %}
+        <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
+        {% endif %}
+        {% if FEED_ALL_RSS %}
+        <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
+        {% endif %}
+		<style type="text/css">
+
+			h2, p, .vitae-list {margin-left:1em; margin-right:1em;}
+			.vitae-list li {list-style-type:none; margin:0 0 15pt 0;}
+
+			div.top {margin-right:1em; text-align:right;}
+			.me {font-weight:bold; line-height:15pt;}
+			.title {color:#C4A000;}
+			.booktitle {font-style:italic;}
+			#validators {display:none; text-align:center;}
+
+			@media print {
+				body {font-size:12pt; line-height:12pt;}
+				.me {font-weight:bold; line-height:12pt;}
+				a {text-decoration:none;}
+				a[href]:after {content:none;}
+			}
+
+		</style>
+	</head>
+
+	<body class="light">
+		<div class="container">
+			<div class="row">
+				<div id="content" class="col-md-6 col-md-offset-3">
+
+					<h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1>
+
+					<nav class="hidden-print">
+						<ul class="list-inline" id="navbar">
+						{% if DISPLAY_PAGES_ON_MENU -%}
+						{% for pg in PAGES %}
+							<li{% if pg == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title }}</a></li>
+						{% endfor %}
+						{% endif %}
+						{% for title, link in MENUITEMS %}
+							<li><a href="{{ link }}">{{ title }}</a></li>
+						{% endfor %}
+						</ul>
+					</nav>
+
+					<hr>
+
+					{% block content %}
+					{% endblock %}
+
+					<div class="hidden-print">
+						<hr>
+						
+						<div id="validators">
+							<a href="http://validator.w3.org/check?uri=referer">HTML</a>
+							<a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+
+	</body>
+
+</html>
