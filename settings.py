@@ -3,7 +3,7 @@ SITENAME = "Justin Li"
 SITEURL = "http://justinnhli.com"
 
 MENUITEMS = (
-    ("Essays", "/archives.html"),
+    ("Essays", SITEURL + "/archives.html"),
     ("Code", "https://github.com/justinnhli?tab=repositories"),
     ("Twitter", "https://twitter.com/justinnhli/"),
 )
