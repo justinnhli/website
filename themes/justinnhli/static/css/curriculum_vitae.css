@@ -1,0 +1,9 @@
+.cv-vitae-list {margin-left:1em; margin-right:1em;}
+.cv-vitae-list li {list-style-type:none; margin:0 0 15pt 0;}
+.cv-me {font-weight:bold; line-height:15pt;}
+.cv-title {color:#C4A000;}
+.cv-booktitle {font-style:italic;}
+
+@media print {
+	.cv-me {line-height:12pt;}
+}
