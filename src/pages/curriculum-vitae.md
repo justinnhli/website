@@ -4,7 +4,6 @@ title: Curriculum Vitae
 <p class="visible-print">Website: <a href="http://www.umich.edu/~justinnh/">http://www.umich.edu/~justinnh/</a></p>
 
 ### Education ###
-
 <ul class="cv-vitae-list">
     <li>PhD in Computer Science. Expected June 2015. <a href="http://www.umich.edu/">University of Michigan</a>, Ann Arbor, MI.</li>
     <li>BS in Computer Science, <em>cum laude</em>. June 2009. <a href="http://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.</li>
