@@ -15,25 +15,6 @@
         {% if FEED_ALL_RSS %}
         <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
         {% endif %}
-		<style type="text/css">
-
-			h2, p, .vitae-list {margin-left:1em; margin-right:1em;}
-			.vitae-list li {list-style-type:none; margin:0 0 15pt 0;}
-
-			div.top {margin-right:1em; text-align:right;}
-			.me {font-weight:bold; line-height:15pt;}
-			.title {color:#C4A000;}
-			.booktitle {font-style:italic;}
-			#validators {display:none; text-align:center;}
-
-			@media print {
-				body {font-size:12pt; line-height:12pt;}
-				.me {font-weight:bold; line-height:12pt;}
-				a {text-decoration:none;}
-				a[href]:after {content:none;}
-			}
-
-		</style>
 	</head>
 
 	<body class="light">
@@ -44,7 +25,7 @@
 					<h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1>
 
 					<nav class="hidden-print">
-						<ul class="list-inline" id="navbar">
+						<ul class="list-inline">
 						{% if DISPLAY_PAGES_ON_MENU -%}
 						{% for pg in PAGES %}
 							<li{% if pg == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title }}</a></li>
@@ -56,7 +37,7 @@
 						</ul>
 					</nav>
 
-					<hr>
+					<hr class="hidden-print">
 
 					{% block content %}
 					{% endblock %}
