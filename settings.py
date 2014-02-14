@@ -9,15 +9,19 @@ MENUITEMS = (
 )
 
 STATIC_PATHS = (
-    'files/',
+    "files/",
 )
 
-ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
-ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
+IGNORE_FILES = (
+    ".un~",
+)
+
+ARTICLE_URL = "posts/{date:%Y}/{date:%m}/{date:%d}/{slug}.html"
+ARTICLE_SAVE_AS = "posts/{date:%Y}/{date:%m}/{date:%d}/{slug}.html"
 
 RELATIVE_URLS = True
 
-DATE_FORMATS = {'en':"%Y-%m-%d",}
+DATE_FORMATS = {"en":"%Y-%m-%d",}
 TIMEZONE = "America/Detroit"
 
 THEME = "themes/justinnhli"
@@ -29,10 +33,10 @@ FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
-DIRECT_TEMPLATES = ('archives',)
+DIRECT_TEMPLATES = ("archives",)
 
 AUTHORS_SAVE_AS = False
-AUTHOR_SAVE_AS = ''
-CATEGORY_SAVE_AS = ''
+AUTHOR_SAVE_AS = ""
+CATEGORY_SAVE_AS = ""
 TAGS_SAVE_AS = False
 TAG_SAVE_AS = False
