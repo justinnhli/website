@@ -19,7 +19,7 @@ body {font-family:'EB Garamond',Garamond,serif; font-size:12pt; line-height:15pt
 
 h1, h2, h3, h4 {font-family:"Hoefler Text","Cambria","Georgia","Times New Roman","Times",serif; font-variant:small-caps; margin:0;}
 h1 {color:#73D216; font-size:18pt; font-weight:bold; line-height:30pt; text-align:center;}
-h1:first-child {margin:15pt 0;}
+h1:first-child {margin:15pt 0 5pt 0;}
 h2 {color:#73D216; font-size:16pt; font-weight:bold; line-height:30pt;}
 h3 {font-size:12pt; font-weight:bold; line-height:15pt;}
 h4 {font-size:12pt; font-weight:bold; font-variant:normal; line-height:15pt;}
