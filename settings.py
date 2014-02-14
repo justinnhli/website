@@ -8,6 +8,10 @@ MENUITEMS = (
     ("Twitter", "https://twitter.com/justinnhli/"),
 )
 
+STATIC_PATHS = [
+    'src/pages/files',
+]
+
 RELATIVE_URLS = True
 
 DATE_FORMATS = {'en':"%Y-%m-%d, %a",}
