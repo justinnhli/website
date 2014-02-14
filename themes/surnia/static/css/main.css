@@ -44,21 +44,5 @@ th:last-child, td:last-child {border-right-style:none;}
 nav ul.list-inline {display:table; width:100%;}
 nav ul.list-inline li {display:table-cell; width:1%; text-align:center;}
 
-#validators {text-align:center;}
-
-/* PAGE SPECIFIC CSS */
-
-/* CV */
-.cv-vitae-list {margin-left:1em; margin-right:1em;}
-.cv-vitae-list li {list-style-type:none; margin:0 0 15pt 0;}
-.cv-me {font-weight:bold; line-height:15pt;}
-.cv-title {color:#C4A000;}
-.cv-booktitle {font-style:italic;}
-
-@media print {
-	body {font-size:12pt; line-height:12pt;}
-	h2 {text-align:center;}
-	.cv-me {line-height:12pt;}
-	a {text-decoration:none;}
-	a[href]:after {content:none;}
-}
+#footer {text-align:center;}
+#license {font-size:smaller;}
