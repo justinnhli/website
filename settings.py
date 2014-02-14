@@ -12,9 +12,12 @@ STATIC_PATHS = (
     'files/',
 )
 
+ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
+ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
+
 RELATIVE_URLS = True
 
-DATE_FORMATS = {'en':"%Y-%m-%d, %a",}
+DATE_FORMATS = {'en':"%Y-%m-%d",}
 TIMEZONE = "America/Detroit"
 
 THEME = "themes/justinnhli"
