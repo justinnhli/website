@@ -3,10 +3,9 @@
 {% block content %}
     <h2>Essay Archives</h2>
 
-    <dl>
+    <ul id="articles">
     {% for article in dates %}
-        <dt>{{ article.locale_date }}</dt>
-        <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
+		<li>{{ article.locale_date }}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></li>
     {% endfor %}
-    </dl>
+    </ul>
 {% endblock %}

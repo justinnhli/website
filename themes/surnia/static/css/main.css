@@ -23,8 +23,10 @@ h1:first-child {margin:15pt 0 5pt 0;}
 h2 {color:#73D216; font-size:16pt; font-weight:bold; line-height:30pt;}
 h3 {font-size:12pt; font-weight:bold; line-height:15pt;}
 h4 {font-size:12pt; font-weight:bold; font-variant:normal; line-height:15pt;}
+h1 a, h1 a:active, h1 a:hover, h1 a:visited {color:inherit; text-decoration:none;}
+h2 a, h2 a:active, h2 a:hover, h2 a:visited {color:inherit; text-decoration:none;}
+h3 a, h3 a:active, h3 a:hover, h3 a:visited {color:inherit; text-decoration:none;}
 a, a:active, a:visited {color:inherit; text-decoration:underline;}
-h1 a, h1 a:active, h1 a:visited {color:inherit; text-decoration:none;}
 p {margin:0 0 15pt 0;}
 blockquote {margin:0 0 15pt 0; padding-top:0; padding-bottom:0;}
 blockquote p {font-size:12pt; font-weight:normal; line-height:15pt; margin:0 0 15pt 0;}
@@ -39,10 +41,19 @@ th, td {padding:7.5pt; vertical-align:top;}
 th:first-child, td:first-child {border-left-style:none;}
 th:last-child, td:last-child {border-right-style:none;}
 
+@media print {
+	body {font-size:12pt; line-height:12pt;}
+	h2 {text-align:center;}
+	a {text-decoration:none;}
+	a[href]:after {content:none;}
+}
+
 /* SITE ELEMENTS */
 
 nav ul.list-inline {display:table; width:100%;}
 nav ul.list-inline li {display:table-cell; width:1%; text-align:center;}
+
+#articles {list-style-type:none;}
 
 #footer {text-align:center;}
 #license {font-size:smaller;}
