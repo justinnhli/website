@@ -8,9 +8,9 @@ MENUITEMS = (
     ("Twitter", "https://twitter.com/justinnhli/"),
 )
 
-STATIC_PATHS = [
-    'src/pages/files',
-]
+STATIC_PATHS = (
+    'files/',
+)
 
 RELATIVE_URLS = True
 
