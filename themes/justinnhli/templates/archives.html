@@ -3,14 +3,20 @@
 {% block content %}
     <h2>Essay Archives</h2>
 
-    <ul id="articles">
-    {% for article in dates %}
-		<li>{{ article.locale_date }}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></li>
-    {% endfor %}
-    </ul>
+	<p>
+		These are selected blog posts that I find particularly meaningful.
+	</p>
 
 	<p>
-	This list is still being populated.
-	For more thoughts and other trivialities, please visit <a href="http://justinnhli.blogspot.com/">my blog</a>.
+		This list is still being populated.
+		For more thoughts and other trivialities, please visit <a href="http://justinnhli.blogspot.com/">my blog</a>.
 	</p>
+
+	<table id="archives">
+    {% for article in dates %}
+		<tr>
+			<th>{{ article.locale_date }}</th><td><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></td>
+		</tr>
+    {% endfor %}
+    </table>
 {% endblock %}
