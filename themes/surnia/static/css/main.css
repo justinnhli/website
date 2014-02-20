@@ -55,5 +55,4 @@ nav ul.list-inline li {display:table-cell; width:1%; text-align:center;}
 
 #articles {list-style-type:none;}
 
-#footer {text-align:center;}
-#license {font-size:smaller;}
+#footer {font-size:smaller; text-align:center;}
