@@ -14,13 +14,13 @@ title: Curriculum Vitae
     <li><span>
         <span class="cv-me">Li, J.</span>; and <a class="coauthor" href="http://ai.eecs.umich.edu/people/laird/">Laird, J. E.</a> (2013).
         <a class="cv-title" href="papers/Li2013TheComputationalProblem.pdf">The Computational Problem of Prospective Memory Retrieval</a>.
-        In <span class="cv-booktitle">Proceedings of the 12<sup>th</sup> International Conference on Cogntive Modeling (ICCM)</span><!-- FIXME , 193-199 -->.
+        In <span class="cv-booktitle">Proceedings of the 12<sup>th</sup> International Conference on Cogntive Modeling (ICCM)</span>, 155-160.
         Ottawa, Canada.
     </span></li>
     <li><span>
         <span class="cv-me">Li, J.</span>; and <a class="coauthor" href="http://ai.eecs.umich.edu/people/laird/">Laird, J. E.</a> (2013).
         <a class="cv-title" href="papers/Li2013PreemptiveStrategiesFor.pdf">Preemptive Strategies for Overcoming the Forgetting of Goals</a>.
-        In <span class="cv-booktitle">Proceedings of the 27<sup>th</sup> AAAI Conference on Artificial Intelligence (AAAI)</span><!-- FIXME , 193-199 -->.
+        In <span class="cv-booktitle">Proceedings of the 27<sup>th</sup> AAAI Conference on Artificial Intelligence (AAAI)</span>, 1234-1240.
         Bellevue, WA.
     </span></li>
     <li><span>
