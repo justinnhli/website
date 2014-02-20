@@ -53,6 +53,8 @@ th:last-child, td:last-child {border-right-style:none;}
 nav ul.list-inline {display:table; width:100%;}
 nav ul.list-inline li {display:table-cell; width:1%; text-align:center;}
 
-#articles {list-style-type:none;}
+#archives {width:100%;}
+#archives th {border-style:none; font-weight:normal; padding:1.5pt 0; width:20%;}
+#archives td {border-style:none; font-weight:normal; padding:1.5pt 2em;}
 
 #footer {font-size:smaller; text-align:center;}
