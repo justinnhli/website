@@ -3,9 +3,9 @@ SITENAME = "Justin Li"
 SITEURL = "http://justinnhli.com"
 
 MENUITEMS = (
+    ("Tweets", "https://twitter.com/justinnhli/"),
     ("Writings", "https://justinnhli.blogspot.com/"),
     ("Code", "https://github.com/justinnhli?tab=repositories"),
-    ("Twitter", "https://twitter.com/justinnhli/"),
 )
 
 STATIC_PATHS = (
