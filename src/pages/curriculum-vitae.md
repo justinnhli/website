@@ -1,7 +1,9 @@
 title: Curriculum Vitae
 
-<p class="visible-print">Email: <a href="mailto:justinnh@umich.edu">justinnh@umich.edu</a></p>
-<p class="visible-print">Website: <a href="http://www.umich.edu/~justinnh/">http://www.umich.edu/~justinnh/</a></p>
+<div class="visible-print">
+	<p style="float:right"><a href="http://www.umich.edu/~justinnh/">http://www.umich.edu/~justinnh/</a></p>
+	<p><a href="mailto:justinnh@umich.edu">justinnh@umich.edu</a></p>
+</div>
 
 ### Education ###
 <ul class="cv-vitae-list">
