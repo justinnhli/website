@@ -13,57 +13,57 @@ title: Curriculum Vitae
 
 ### Publications ###
 <ul class="cv-vitae-list">
-    <li><span>
-        <span class="cv-me">Li, J.</span>; and <a class="coauthor" href="http://ai.eecs.umich.edu/people/laird/">Laird, J. E.</a> (2013).
-        <a class="cv-title" href="papers/Li2013TheComputationalProblem.pdf">The Computational Problem of Prospective Memory Retrieval</a>.
+    <li>
+        <span class="cv-me">Li, J.</span>; and <a href="http://ai.eecs.umich.edu/people/laird/">Laird, J. E.</a> (2013).
+        <a class="cv-title" href="files/Li2013TheComputationalProblem.pdf">The Computational Problem of Prospective Memory Retrieval</a>.
         In <span class="cv-booktitle">Proceedings of the 12<sup>th</sup> International Conference on Cogntive Modeling (ICCM)</span>, 155-160.
         Ottawa, Canada.
-    </span></li>
-    <li><span>
-        <span class="cv-me">Li, J.</span>; and <a class="coauthor" href="http://ai.eecs.umich.edu/people/laird/">Laird, J. E.</a> (2013).
-        <a class="cv-title" href="papers/Li2013PreemptiveStrategiesFor.pdf">Preemptive Strategies for Overcoming the Forgetting of Goals</a>.
+    </li>
+    <li>
+        <span class="cv-me">Li, J.</span>; and <a href="http://ai.eecs.umich.edu/people/laird/">Laird, J. E.</a> (2013).
+        <a class="cv-title" href="files/Li2013PreemptiveStrategiesFor.pdf">Preemptive Strategies for Overcoming the Forgetting of Goals</a>.
         In <span class="cv-booktitle">Proceedings of the 27<sup>th</sup> AAAI Conference on Artificial Intelligence (AAAI)</span>, 1234-1240.
         Bellevue, WA.
-    </span></li>
-    <li><span>
-        <a class="coauthor" href="http://www.umich.edu/~nlderbin/">Derbinsky, N.</a>; <span class="cv-me">Li, J.</span>; and <a class="coauthor" href="http://ai.eecs.umich.edu/people/laird/">Laird, J. E.</a> (2012).
-        <a class="cv-title" href="papers/Derbinsky2012AlgorithmsForScaling.pdf">Algorithms for Scaling in a General Episodic Memory (Extended Abstract)</a>.
+    </li>
+    <li>
+        <a href="http://www.umich.edu/~nlderbin/">Derbinsky, N.</a>; <span class="cv-me">Li, J.</span>; and <a href="http://ai.eecs.umich.edu/people/laird/">Laird, J. E.</a> (2012).
+        <a class="cv-title" href="files/Derbinsky2012AlgorithmsForScaling.pdf">Algorithms for Scaling in a General Episodic Memory (Extended Abstract)</a>.
         In <span class="cv-booktitle">Proceedings of the 11<sup>th</sup> International Conference on Autonomous Agents and Multiagent Systems (AAMAS)</span>, 1387-1388.
         Valencia, Spain.
-    </span></li>
-    <li><span>
-        <a class="coauthor" href="http://www.umich.edu/~nlderbin/">Derbinsky, N.</a>; <span class="cv-me">Li, J.</span>; and <a class="coauthor" href="http://ai.eecs.umich.edu/people/laird/">Laird, J. E.</a> (2012).
-        <a class="cv-title" href="papers/Derbinsky2012AMultiDomain.pdf">A Multi-Domain Evaluation of Scaling in a General Episodic Memory.</a>
+    </li>
+    <li>
+        <a href="http://www.umich.edu/~nlderbin/">Derbinsky, N.</a>; <span class="cv-me">Li, J.</span>; and <a href="http://ai.eecs.umich.edu/people/laird/">Laird, J. E.</a> (2012).
+        <a class="cv-title" href="files/Derbinsky2012AMultiDomain.pdf">A Multi-Domain Evaluation of Scaling in a General Episodic Memory.</a>
         In <span class="cv-booktitle">Proceedings of the 26<sup>th</sup> AAAI Conference on Artificial Intelligence (AAAI)</span>, 193-199.
         Toronto, Canada.
-    </span></li>
-    <li><span>
-        <span class="cv-me">Li, J.</span>; <a class="coauthor" href="http://www.umich.edu/~nlderbin/">Derbinsky, N.</a>; and <a class="coauthor" href="http://ai.eecs.umich.edu/people/laird/">Laird, J. E.</a> (2012).
-        <a class="cv-title" href="papers/Li2012FunctionalInteractionsBetween.pdf">Functional Interactions between Memory and Recognition Judgments.</a>
+    </li>
+    <li>
+        <span class="cv-me">Li, J.</span>; <a href="http://www.umich.edu/~nlderbin/">Derbinsky, N.</a>; and <a href="http://ai.eecs.umich.edu/people/laird/">Laird, J. E.</a> (2012).
+        <a class="cv-title" href="files/Li2012FunctionalInteractionsBetween.pdf">Functional Interactions between Memory and Recognition Judgments.</a>
         In <span class="cv-booktitle">Proceedings of the 26<sup>th</sup> AAAI Conference on Artificial Intelligence (AAAI)</span>, 228-234.
         Toronto, Canada.
-    </span></li>
-    <li><span>
-        <span class="cv-me">Li, J.</span> and <a class="coauthor" href="http://ai.eecs.umich.edu/people/laird/">Laird, J. E.</a> (2011).
-        <a class="cv-title" href="papers/Li2011PreliminaryEvaluationOf.pdf">Preliminary Evaluation of Long-term Memories for Fulfilling Delayed Intentions</a>.
+    </li>
+    <li>
+        <span class="cv-me">Li, J.</span> and <a href="http://ai.eecs.umich.edu/people/laird/">Laird, J. E.</a> (2011).
+        <a class="cv-title" href="files/Li2011PreliminaryEvaluationOf.pdf">Preliminary Evaluation of Long-term Memories for Fulfilling Delayed Intentions</a>.
         In <span class="cv-booktitle">Papers from the 2011 AAAI Fall Symposium Series: Advances in Cognitive Systems (ACS)</span>, 170-177.
         Arlington, VA.
-    </span></li>
-    <li><span>
-        <span class="cv-me">Li, J.</span> and <a class="coauthor" href="http://ccl.northwestern.edu/uri/">Wilensky, U.</a> (2009).
+    </li>
+    <li>
+        <span class="cv-me">Li, J.</span> and <a href="http://ccl.northwestern.edu/uri/">Wilensky, U.</a> (2009).
         <a class="cv-title" href="http://ccl.northwestern.edu/netlogo/models/Sugarscape1ImmediateGrowback">NetLogo Sugarscape 1 Immediate Growback model</a>.
         <a href="http://ccl.northwestern.edu/">Center for Connected Learning and Computer-Based Modeling</a>, <a href="http://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.
-    </span></li>
-    <li><span>
-        <span class="cv-me">Li, J.</span> and <a class="coauthor" href="http://ccl.northwestern.edu/uri/">Wilensky, U.</a> (2009).
+    </li>
+    <li>
+        <span class="cv-me">Li, J.</span> and <a href="http://ccl.northwestern.edu/uri/">Wilensky, U.</a> (2009).
         <a class="cv-title" href="http://ccl.northwestern.edu/netlogo/models/Sugarscape2ConstantGrowback">NetLogo Sugarscape 2 Constant Growback model</a>.
         <a href="http://ccl.northwestern.edu/">Center for Connected Learning and Computer-Based Modeling</a>, <a href="http://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.
-    </span></li>
-    <li><span>
-        <span class="cv-me">Li, J.</span> and <a class="coauthor" href="http://ccl.northwestern.edu/uri/">Wilensky, U.</a> (2009).
+    </li>
+    <li>
+        <span class="cv-me">Li, J.</span> and <a href="http://ccl.northwestern.edu/uri/">Wilensky, U.</a> (2009).
         <a class="cv-title" href="http://ccl.northwestern.edu/netlogo/models/Sugarscape3WealthDistribution">NetLogo Sugarscape 3 Wealth Distribution model</a>.
         <a href="http://ccl.northwestern.edu/">Center for Connected Learning and Computer-Based Modeling</a>, <a href="http://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.
-    </span></li>
+    </li>
 </ul>
 
 ### Teaching ###
