@@ -43,7 +43,6 @@ th:last-child, td:last-child {border-right-style:none;}
 
 @media print {
 	body {font-size:12pt; line-height:16pt;}
-	h1 {font-size:14pt; line-height:16pt;}
 	h2 {text-align:center;}
 	a {text-decoration:none;}
 	a[href]:after {content:none;}
