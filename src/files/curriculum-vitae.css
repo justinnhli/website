@@ -3,7 +3,3 @@
 .cv-me {font-weight:bold; line-height:15pt;}
 .cv-title {color:#C4A000;}
 .cv-booktitle {font-style:italic;}
-
-@media print {
-	.cv-me {line-height:12pt;}
-}
