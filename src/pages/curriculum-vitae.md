@@ -79,7 +79,7 @@ title: Curriculum Vitae
 <ul class="cv-vitae-list">
 	<!-- FIXME CRLT workshops (office hours, seven teaching strategies, teaching problem solving -->
 	<li><a href="http://crlt.umich.edu/">CRLT</a> <a href="http://crlt.umich.edu/programs-services/graduate-students-post-docs">Graduate Student Teaching Orientation</a> Practice Teaching Facilitator</li>
-	<li><a href="http://crlt.umich.edu/">CRLT</a> <a href="http://crlte.engin.umich.edu/workshops/">Workshop Facilitator</a></li>
+	<li><a href="http://crlt.umich.edu/">CRLT</a> <a href="http://crlte.engin.umich.edu/workshops/">Workshop and Seminar Facilitator</a></li>
     <li><a href="http://cseg.eecs.umich.edu/">CSEG</a> Secretary (2012-2013), <a href="http://www.umich.edu/">University of Michigan</a></li>
 </ul>
 
