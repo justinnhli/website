@@ -1,7 +1,7 @@
 title: Curriculum Vitae
 
 <div class="visible-print">
-	<p style="float:right"><a href="http://www.umich.edu/~justinnh/">http://www.umich.edu/~justinnh/</a></p>
+	<p style="float:right"><a href="http://justinnhli.com/">http://www.umich.edu/~justinnh/</a></p>
 	<p><a href="mailto:justinnh@umich.edu">justinnh@umich.edu</a></p>
 </div>
 
