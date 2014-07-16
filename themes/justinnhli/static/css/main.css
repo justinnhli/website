@@ -50,8 +50,8 @@ th:last-child, td:last-child {border-right-style:none;}
 
 /* SITE ELEMENTS */
 
-nav ul.list-inline {display:table; width:100%;}
-nav ul.list-inline li {display:table-cell; width:1%; text-align:center;}
+#nav.list-inline {display:table; width:100%;}
+#nav.list-inline li {display:table-cell; width:1%; text-align:center;}
 
 #archives {width:100%; margin:0 0 20pt 0;}
 #archives th {border-style:none; font-weight:normal; padding:1.5pt 0; width:20%;}
