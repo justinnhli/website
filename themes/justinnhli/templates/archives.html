@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 {% block title %}Essay Archives{% endblock %}
 {% block content %}
-    <h2>Essay Archives</h2>
+	<h2>Essay Archives</h2>
 
 	<p>
 		These are selected blog posts that I find particularly meaningful.
@@ -13,10 +13,10 @@
 	</p>
 
 	<table id="archives">
-    {% for article in dates %}
+	{% for article in dates %}
 		<tr>
 			<th>{{ article.locale_date }}</th><td><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></td>
 		</tr>
-    {% endfor %}
-    </table>
+	{% endfor %}
+	</table>
 {% endblock %}
