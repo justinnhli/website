@@ -4,7 +4,7 @@ SITEURL = "http://justinnhli.com"
 
 MENUITEMS = (
     ("Tweets", "https://twitter.com/justinnhli/"),
-    ("Writings", "https://justinnhli.blogspot.com/"),
+    ("Writings", "http://justinnhli.com/writings.html"),
     ("Code", "https://github.com/justinnhli?tab=repositories"),
 )
 
@@ -16,7 +16,7 @@ IGNORE_FILES = (
     ".un~",
 )
 
-ARCHIVES_SAVE_AS = ''
+ARCHIVES_SAVE_AS = 'writings.html'
 
 ARTICLE_URL = "posts/{date:%Y}/{date:%m}/{date:%d}/{slug}.html"
 ARTICLE_SAVE_AS = "posts/{date:%Y}/{date:%m}/{date:%d}/{slug}.html"
