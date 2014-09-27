@@ -1,6 +1,5 @@
 Title: Buhbye Hong Kong
 Date: 2007-09-18 23:08
-Author: justinnhli
 Slug: buhbye-hong-kong
 
 Well, this is the first time I've overslept for a flight for a very long

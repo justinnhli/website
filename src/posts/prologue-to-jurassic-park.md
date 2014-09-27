@@ -1,13 +1,12 @@
 Title: Prologue to Jurassic Park
 Date: 2010-05-11 04:17
-Author: justinnhli
 Slug: prologue-to-jurassic-park
 
 I've only written once about the environment and environmental causes,
 although that was in reference to [a larger
-issue](http://justinnhli.blogspot.com/2008/01/survival-of-fittest.html).
+issue](http://justinnhli.com/posts/2008/01/survival-of-fittest.html).
 My apathy is mentioned in passing
-[elsewhere](http://justinnhli.blogspot.com/2008/12/big-race_19.html) as
+[elsewhere](http://justinnhli.com/posts/2008/12/big-race_19.html) as
 well. I might have eventually written more on the subject, but I just
 discovered that the prologue to Michael Crichton's Jurassic Park (now a
 major motion picture) very articulately explains my views. It is copied

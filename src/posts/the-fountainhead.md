@@ -1,6 +1,5 @@
 Title: The Fountainhead
 Date: 2009-08-11 00:37
-Author: justinnhli
 Slug: the-fountainhead
 
 I have been collecting and clarifying the thoughts I have about the book
@@ -38,7 +37,7 @@ of *The Fountainhead*, then show how the thoughts are tied together by
 the ideas in the book.
 
 The first idea is one I’ve expressed for a while, [even on this
-blog](http://justinnhli.blogspot.com/2009/03/smile.html): it is the idea
+blog](http://justinnhli.com/posts/2009/03/smile.html): it is the idea
 that work and play does not have to be separate. I just finished six
 weeks of working for a summer camp, where I wake up at 07:00, spent at
 least 7 hours a day with middle school kids (more often closer to 8 or

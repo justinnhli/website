@@ -1,6 +1,5 @@
 Title: Effing the Ineffable
 Date: 2013-09-12 01:57
-Author: justinnhli
 Slug: effing-the-ineffable
 
 I think it’s interesting that language, despite it being a powerful way
@@ -16,11 +15,11 @@ Same with art, which people can only know it when they see it (or
 That’s not the same as saying that language cannot lead to such things.
 We may not be able to describe love, but we can tell stories about it,
 and depend on our [shared neuron
-structure](http://justinnhli.blogspot.com/2013/05/reflection-on-wittgenstein.html)
+structure](http://justinnhli.com/posts/2013/05/reflection-on-wittgenstein.html)
 for the reader to get in the character’s shoes. More indirectly,
 language can express instructions that leads to the reader to have
 unexpressable feelings. We may not be able to [tell someone how to be
-effortless](http://justinnhli.blogspot.com/2013/08/unteachables.html) or
+effortless](http://justinnhli.com/posts/2013/08/unteachables.html) or
 be spontaneous, but we can tell them to do things that will eventually
 lead them to be effortless or spontaneous.
 

@@ -1,6 +1,5 @@
 Title: Combining Logic and Stocastic Methods
 Date: 2007-10-09 20:42
-Author: justinnhli
 Slug: combining-logic-and-stocastic-methods
 
 This is a computer science heavy post, so if you don't have the stomach

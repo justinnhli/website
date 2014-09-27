@@ -1,6 +1,5 @@
 Title: Ant Wars
 Date: 2007-09-23 17:54
-Author: justinnhli
 Slug: ant-wars
 
 I want to build a game based on emergence/complexity principles. I'm

@@ -1,6 +1,5 @@
 Title: Cycling
 Date: 2008-04-14 03:36
-Author: justinnhli
 Slug: cycling
 
 Cycling's tiring.

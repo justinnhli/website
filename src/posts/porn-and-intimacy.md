@@ -1,6 +1,5 @@
 Title: Porn and Intimacy
 Date: 2009-07-06 05:00
-Author: justinnhli
 Slug: porn-and-intimacy
 
 It is rare that I talk about something so personal on my blog. My life

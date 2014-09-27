@@ -1,6 +1,5 @@
 Title: Fire Alarms
 Date: 2007-10-05 16:22
-Author: justinnhli
 Slug: fire-alarms
 
 I think it's normal for some idiot college student to not know how to

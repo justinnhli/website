@@ -1,6 +1,5 @@
 Title: Communication Problems
 Date: 2008-02-26 19:38
-Author: justinnhli
 Slug: communication-problems
 
 I think one of the sillier problems people can have are communication

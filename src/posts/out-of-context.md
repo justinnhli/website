@@ -1,6 +1,5 @@
 Title: Out of Context
 Date: 2007-10-22 17:40
-Author: justinnhli
 Slug: out-of-context
 
 Yesterday while crossing Sheridan Road, a driver stopped at the light

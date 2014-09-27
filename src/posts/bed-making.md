@@ -1,6 +1,5 @@
 Title: Bed Making
 Date: 2007-10-23 17:45
-Author: justinnhli
 Slug: bed-making
 
 You will need a large piece of wood, four poles, hammers, nails...

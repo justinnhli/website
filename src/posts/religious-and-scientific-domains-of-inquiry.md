@@ -1,6 +1,5 @@
 Title: Religious and Scientific Domains of Inquiry
 Date: 2009-01-02 06:00
-Author: justinnhli
 Slug: religious-and-scientific-domains-of-inquiry
 
 I want to write something short about the difference between religious

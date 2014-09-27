@@ -1,6 +1,5 @@
 Title: My Research
 Date: 2010-05-21 04:40
-Author: justinnhli
 Slug: my-research
 
 I've wanted to write this post for a while, but have never found the
@@ -182,7 +181,7 @@ some intuition as to what might work and what won't.
 Post script: to people not in computer science or perhaps in but not in
 AI, the problem of action hierarchies might sound insignificant. Despite
 [my previous
-misgivings](http://justinnhli.blogspot.com/2009/03/academic-typecasting.html)
+misgivings](http://justinnhli.com/posts/2009/03/academic-typecasting.html)
 about being limited to too specific a field, I find this problem
 genuinely interesting. Although it may not change the world (yet), I do
 think its solution will contribute to an understanding of humans and

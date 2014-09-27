@@ -1,6 +1,5 @@
 Title: Snow off your Shoe
 Date: 2008-01-24 06:26
-Author: justinnhli
 Slug: snow-off-your-shoe
 
 In Chicago with its damnable conditions, one's sole will inevitably be

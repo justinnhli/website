@@ -1,6 +1,5 @@
 Title: The Data Experience
 Date: 2009-05-13 05:00
-Author: justinnhli
 Slug: the-data-experience
 
 I've been thinking a lot about the task of rapidly conveying vast

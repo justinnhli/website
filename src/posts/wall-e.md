@@ -1,6 +1,5 @@
 Title: WALL-E
 Date: 2007-11-27 18:37
-Author: justinnhli
 Slug: wall-e
 
 Sometimes I think I don't write spontaneously enough, but this might

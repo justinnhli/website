@@ -1,6 +1,5 @@
 Title: Computer as a Container
 Date: 2008-01-07 14:33
-Author: justinnhli
 Slug: computer-as-a-container
 
 I came across a [New York Times

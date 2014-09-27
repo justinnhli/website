@@ -1,6 +1,5 @@
 Title: Pascal's Wager
 Date: 2008-10-29 23:47
-Author: justinnhli
 Slug: pascals-wager
 
 NOTE: I wrote this around the end of October, but I never finished it. I

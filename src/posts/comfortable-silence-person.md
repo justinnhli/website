@@ -1,6 +1,5 @@
 Title: Comfortable Silence Person
 Date: 2007-11-21 05:12
-Author: justinnhli
 Slug: comfortable-silence-person
 
 Although I'm taking a break from my personal journal, I still write in

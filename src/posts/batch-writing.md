@@ -1,10 +1,9 @@
 Title: Batch Writing
 Date: 2007-11-09 02:43
-Author: justinnhli
 Slug: batch-writing
 
 A while back I posted about how I [sit and write multiple posts at
-once](http://ninghui48.blogspot.com/2007/10/blogging-habits.html). I
+once](http://justinnhli.com/posts/2007/10/blogging-habits.html). I
 just realized that it's actually equivalent to me batch processing my
 posts. It's somewhat more efficient, which is cool.
 

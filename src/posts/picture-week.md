@@ -1,6 +1,5 @@
 Title: Picture Week!
 Date: 2009-04-15 05:00
-Author: justinnhli
 Slug: picture-week
 
 Lately I've been getting lazier about actually *writing* content. Every

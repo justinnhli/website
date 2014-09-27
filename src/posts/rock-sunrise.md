@@ -1,6 +1,5 @@
 Title: Rock Sunrise
 Date: 2008-06-01 17:43
-Author: justinnhli
 Slug: rock-sunrise
 
 I was supposed to guard the rock today/this morning, but someone beat me

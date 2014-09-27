@@ -1,6 +1,5 @@
 Title: Global Warming and Religion
 Date: 2008-04-21 23:57
-Author: justinnhli
 Slug: global-warming-and-religion
 
 Two highly unrelated subjects, but today I came across a newspaper
@@ -20,6 +19,6 @@ attractive enough... although, I must say the mileage on the bike looks
 pretty darn impressive.
 
 But then, of course, I [don't really
-care](http://ninghui48.blogspot.com/2008/01/survival-of-fittest.html)
+care](http://justinnhli.com/posts/2008/01/survival-of-fittest.html)
 about this issue. We'll (speaking for all live here) survive.
 

@@ -1,6 +1,5 @@
 Title: Frosting
 Date: 2008-01-19 14:58
-Author: justinnhli
 Slug: frosting
 
 Chicago's kind of cold these days. Because of that, I sleep with my

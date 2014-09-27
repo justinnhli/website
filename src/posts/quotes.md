@@ -1,6 +1,5 @@
 Title: Quotes
 Date: 2009-02-20 15:11
-Author: justinnhli
 Slug: quotes
 
 Sorry for the late post. I'm feeling kinda lazy, so I'm just going to

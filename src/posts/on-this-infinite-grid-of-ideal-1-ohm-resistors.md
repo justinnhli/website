@@ -1,6 +1,5 @@
 Title: On This Infinite Grid of Ideal 1-ohm Resistors...
 Date: 2007-12-21 19:27
-Author: justinnhli
 Slug: on-this-infinite-grid-of-ideal-1-ohm-resistors
 
 This is from one of [xkcd's recent comics](http://www.xkcd.com/356/),

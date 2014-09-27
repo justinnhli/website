@@ -1,6 +1,5 @@
 Title: Confession
 Date: 2007-09-29 03:23
-Author: justinnhli
 Slug: confession
 
 I've got a confession to make:

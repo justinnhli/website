@@ -1,6 +1,5 @@
 Title: Abductive Inference
 Date: 2008-03-05 06:32
-Author: justinnhli
 Slug: abductive-inference
 
 So it turns out I was very wrong in my conclusions from stalking.

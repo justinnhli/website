@@ -1,6 +1,5 @@
 Title: Twitter Wordle
 Date: 2011-03-05 19:36
-Author: justinnhli
 Slug: twitter-wordle
 
 A summary of my tweets (created with [Wordle](http://www.wordle.net/)):

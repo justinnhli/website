@@ -1,6 +1,5 @@
 Title: Linux Apps
 Date: 2007-09-17 17:19
-Author: justinnhli
 Slug: linux-apps
 
 I had the time to install a few more Linux apps on my laptop, to sort of

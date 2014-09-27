@@ -1,6 +1,5 @@
 Title: The Fountain
 Date: 2008-01-13 03:55
-Author: justinnhli
 Slug: the-fountain
 
 I didn't feel like doing work tonight, and so I randomly picked a film

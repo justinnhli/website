@@ -1,6 +1,5 @@
 Title: A Little Mathematical Proof
 Date: 2009-11-06 18:02
-Author: justinnhli
 Slug: a-little-mathematical-proof
 
 Did you know that if you take any non-negative integer, then subtract

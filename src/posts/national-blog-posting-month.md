@@ -1,6 +1,5 @@
 Title: National Blog Posting Month
 Date: 2013-11-01 23:40
-Author: justinnhli
 Slug: national-blog-posting-month
 
 Because I’m trying to propose my thesis topic and have so much time on
@@ -19,7 +18,7 @@ amassed some notes for; others are fillers, fun things I’ve encountered
 in the last year or so.
 
 I’ve [written about
-writing](http://justinnhli.blogspot.com/2009/09/writing-about-writing.html)
+writing](http://justinnhli.com/posts/2009/09/writing-about-writing.html)
 before, and how it’s an outlet for me to sharpen my ideas. In the years
 since, I’ve also come to realize that I keep a blog in particular
 because I often want to share things I have learned. I’m surprised that

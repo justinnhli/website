@@ -1,6 +1,5 @@
 Title: Good People, Bad People
 Date: 2009-04-27 05:00
-Author: justinnhli
 Slug: good-people-bad-people
 
 Last week's question: How are rain, sleet, snow, and hail formed
@@ -36,7 +35,7 @@ questions come from. Some of them, like this one, are things I've always
 wanted to know but never took the time to find out. Posting them here is
 a promise to find the answer. Some are questions that other people have
 asked (such as the insane voter one:
-[Q](http://justinnhli.blogspot.com/2009/04/insane-voters.html)/[A](http://justinnhli.blogspot.com/2009/04/all-hail-rain-sleet-and-snow.html))
+[Q](http://justinnhli.com/posts/2009/04/insane-voters.html)/[A](http://justinnhli.com/posts/2009/04/all-hail-rain-sleet-and-snow.html))
 which piqued my curiosity. Others are thoughts I have, like this week's,
 and the rest... are usually just things I found out which I find
 interesting.

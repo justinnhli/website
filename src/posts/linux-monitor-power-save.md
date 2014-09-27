@@ -1,6 +1,5 @@
 Title: Linux Monitor Power Save
 Date: 2007-09-28 23:11
-Author: justinnhli
 Slug: linux-monitor-power-save
 
 Ever since I've been playing with Linux, I have tried to get it go turn

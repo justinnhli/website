@@ -1,6 +1,5 @@
 Title: If I were a CTY Robotics Instructor...
 Date: 2008-12-14 05:24
-Author: justinnhli
 Slug: if-i-were-a-cty-robotics-instructor
 
 ...This is what my curriculum would be like. I think the middle of the

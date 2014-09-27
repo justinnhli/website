@@ -1,6 +1,5 @@
 Title: If a Tree Falls in a Forest...
 Date: 2008-01-24 22:50
-Author: justinnhli
 Slug: if-a-tree-falls-in-a-forest
 
 ... and only deaf people are around, does it make a sound?

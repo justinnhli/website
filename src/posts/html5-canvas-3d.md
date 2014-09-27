@@ -1,6 +1,5 @@
 Title: HTML5 Canvas 3D
 Date: 2010-08-21 18:21
-Author: justinnhli
 Slug: html5-canvas-3d
 
 The [WebGL standard](http://en.wikipedia.org/wiki/WebGL) is developing

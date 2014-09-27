@@ -1,6 +1,5 @@
 Title: Flexibility and Ambiguity in Chinese
 Date: 2011-12-30 16:58
-Author: justinnhli
 Slug: flexibility-and-ambiguity-in-chinese
 
 I was surprised to find myself having a new appreciation of Chinese (the

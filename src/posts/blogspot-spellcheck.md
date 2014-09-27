@@ -1,6 +1,5 @@
 Title: Blogspot Spellcheck
 Date: 2010-03-09 18:49
-Author: justinnhli
 Slug: blogspot-spellcheck
 
 Those of you who read my previous post on <span

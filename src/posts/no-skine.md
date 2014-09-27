@@ -1,6 +1,5 @@
 Title: No-Skine
 Date: 2007-11-15 19:29
-Author: justinnhli
 Slug: no-skine
 
 My [Moleskine

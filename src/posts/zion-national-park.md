@@ -1,6 +1,5 @@
 Title: Zion National Park
 Date: 2008-02-14 04:07
-Author: justinnhli
 Slug: zion-national-park
 
 I reinstalled Google Earth today, for fun, after not having played with

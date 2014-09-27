@@ -1,6 +1,5 @@
 Title: The Evolution of Desire
 Date: 2010-10-19 03:48
-Author: justinnhli
 Slug: the-evolution-of-desire
 
 I finished David Buss' *[The Evolution of

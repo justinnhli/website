@@ -1,6 +1,5 @@
 Title: Circular Logic - "glow"
 Date: 2011-04-04 21:33
-Author: justinnhli
 Slug: circular-logic-glow
 
 The NYTimes [has a regular column on math
@@ -21,7 +20,7 @@ So I started wrote a little script in Python:
     #!/usr/bin/env python3import reif __name__ == "__main__":    src = open("/usr/share/dict/cracklib-small", "r")    words = set()    for word in src:        word = word.strip()        if len(word) == 1 or re.match('[^a-z]', word):            continue        words.add(word)    src.close()    for word in words:        mirror = "".join(chr(219-ord(c)) for c in word)        if mirror in words:            print(word, mirror)
 
 This script uses the computer's dictionary file (which I've used
-[before](http://justinnhli.blogspot.com/2011/03/herstory.html)), mutates
+[before](http://justinnhli.com/posts/2011/03/herstory.html)), mutates
 the letters, then checks if the result is in the dictionary. The script
 outputs:
 

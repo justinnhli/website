@@ -1,6 +1,5 @@
 Title: Font Fun
 Date: 2011-11-02 01:22
-Author: justinnhli
 Slug: font-fun
 
 I'm heading to DC tomorrow for the AAAI Fall Symposium on [Advances in

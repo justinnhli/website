@@ -1,6 +1,5 @@
 Title: Second Person Game
 Date: 2008-02-22 03:24
-Author: justinnhli
 Slug: second-person-game
 
 This seems like one of those things a genius would wonder about, and so

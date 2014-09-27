@@ -1,6 +1,5 @@
 Title: Keys
 Date: 2008-02-28 00:01
-Author: justinnhli
 Slug: keys
 
 So I'm safely in my room again, my keys in my pocket (I hope... yes).

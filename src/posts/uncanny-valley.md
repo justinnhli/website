@@ -1,6 +1,5 @@
 Title: Uncanny Valley
 Date: 2008-03-01 03:47
-Author: justinnhli
 Slug: uncanny-valley
 
 I just started reading Don Norman's (who teaches at Northwestern) <span

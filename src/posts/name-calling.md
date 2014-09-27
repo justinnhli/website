@@ -1,6 +1,5 @@
 Title: Name Calling
 Date: 2008-01-19 05:01
-Author: justinnhli
 Slug: name-calling
 
 I have had to write a lot of emails to people lately, some to my

@@ -1,6 +1,5 @@
 Title: I'm Leaving on a Jet Plane
 Date: 2007-12-15 13:20
-Author: justinnhli
 Slug: im-leaving-on-a-jet-plane
 
 It's lovely weather outside, calmly snowing. The perfect winter day.

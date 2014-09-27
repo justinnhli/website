@@ -1,10 +1,9 @@
 Title: A Guide to Stalking by Example
 Date: 2007-12-20 06:23
-Author: justinnhli
 Slug: a-guide-to-stalking-by-example
 
 In my last post I mentioned that I [found a journal entry in a
-pastebin](http://ninghui48.blogspot.com/2007/12/pastebins.html). My
+pastebin](http://justinnhli.com/posts/2007/12/pastebins.html). My
 curiosity was peaked, and so I took a little time trying to track down
 who posted it, and perhaps a little more on what actually is going on.
 When I thought of writing down my little adventure in this blog, it also

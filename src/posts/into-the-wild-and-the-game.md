@@ -1,6 +1,5 @@
 Title: Into the Wild and The Game
 Date: 2010-01-17 04:38
-Author: justinnhli
 Slug: into-the-wild-and-the-game
 
 I finished two books recently, [Into the

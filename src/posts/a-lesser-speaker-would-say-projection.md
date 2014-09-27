@@ -1,6 +1,5 @@
 Title: A Lesser Speaker Would Say, PROJECTion...
 Date: 2007-11-29 06:45
-Author: justinnhli
 Slug: a-lesser-speaker-would-say-projection
 
 I won't lie, today has been really busy for me. I only had an hour long

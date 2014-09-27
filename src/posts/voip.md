@@ -1,6 +1,5 @@
 Title: VOIP
 Date: 2007-10-03 18:43
-Author: justinnhli
 Slug: voip
 
 As many of you know (how many of you are there anyway?), I don't like

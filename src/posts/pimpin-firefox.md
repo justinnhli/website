@@ -1,6 +1,5 @@
 Title: Pimpin' Firefox
 Date: 2007-12-07 02:44
-Author: justinnhli
 Slug: pimpin-firefox
 
 Er... yeah.

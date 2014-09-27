@@ -1,6 +1,5 @@
 Title: List of Discarded Post Topics
 Date: 2009-08-24 04:11
-Author: justinnhli
 Slug: list-of-discarded-post-topics
 
 I have a large backlog of topics I want to blog about. Most of them were

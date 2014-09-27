@@ -1,6 +1,5 @@
 Title: Pictures
 Date: 2008-08-14 03:51
-Author: justinnhli
 Slug: pictures
 
 Some of you may also be interested in pictures from CTY (if you're in

@@ -1,6 +1,5 @@
 Title: Plane on a Plane
 Date: 2009-01-26 06:00
-Author: justinnhli
 Slug: plane-on-a-plane
 
 The URL of the third '???' post was indeed blog-post-19.html. [Science,

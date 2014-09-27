@@ -1,6 +1,5 @@
 Title: Can You Hear Me?
 Date: 2010-05-18 15:01
-Author: justinnhli
 Slug: can-you-hear-me
 
 I sang this song with the choir back in middle school. We got either

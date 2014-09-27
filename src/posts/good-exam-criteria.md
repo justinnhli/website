@@ -1,6 +1,5 @@
 Title: Good Exam Criteria
 Date: 2007-12-14 23:32
-Author: justinnhli
 Slug: good-exam-criteria
 
 I'm done with this quarter! I'm flying out tomorrow at noon. It'll be

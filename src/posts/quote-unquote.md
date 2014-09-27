@@ -1,6 +1,5 @@
 Title: Quote Unquote
 Date: 2009-08-23 16:38
-Author: justinnhli
 Slug: quote-unquote
 
 There are a number of things which I don't like about English

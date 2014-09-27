@@ -1,6 +1,5 @@
 Title: Primal Fear
 Date: 2009-02-16 06:00
-Author: justinnhli
 Slug: primal-fear
 
 Last week's question: What would a transportation system look like if

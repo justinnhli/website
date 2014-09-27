@@ -1,6 +1,5 @@
 Title: Hangboard
 Date: 2010-02-21 07:14
-Author: justinnhli
 Slug: hangboard
 
 My roommate and I bought a hangboard (aka [a

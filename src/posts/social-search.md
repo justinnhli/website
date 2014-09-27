@@ -1,11 +1,10 @@
 Title: Social Search
 Date: 2009-04-24 05:00
-Author: justinnhli
 Slug: social-search
 
 For one of my classes I recently had to suggest a new search engine
 feature then make a pitch about it. That was what started the [cree.pr
-project](http://justinnhli.blogspot.com/2009/04/stranger-appeal.html).
+project](http://justinnhli.com/posts/2009/04/stranger-appeal.html).
 Most of the pitches weren't that interesting (no offense to anyone in
 the class reading this), but after hearing a whole bunch of them I had a
 revelation: Social search is a crappy idea.

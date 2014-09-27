@@ -1,6 +1,5 @@
 Title: Distance Perception
 Date: 2009-03-16 05:00
-Author: justinnhli
 Slug: distance-perception
 
 Last week's question: How often does square root day, and other higher

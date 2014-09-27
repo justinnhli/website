@@ -1,6 +1,5 @@
 Title: Restless
 Date: 2009-06-12 17:57
-Author: justinnhli
 Slug: restless
 
 Although I only had one final this week, I had some grading to complete
@@ -21,7 +20,7 @@ to keep track of stories which I find inspiring and sentences of
 succinctly expressed great ideas. I write the quotes down afterwards,
 and they may eventually find themselves in blog posts - as the ones from
 Closing the American Mind
-[did](http://justinnhli.blogspot.com/2009/05/thoughts-on-being-student.html).
+[did](http://justinnhli.com/posts/2009/05/thoughts-on-being-student.html).
 
 I've always thought that the greatest contribution of religion to
 personal life is that it gives people a purpose. I believe in creating
@@ -37,7 +36,7 @@ sounds that this period of nothingness seems dull.
 
 I was once asked whether I will miss Northwestern. As a rather
 [unemotional
-person](http://justinnhli.blogspot.com/2009/02/rational-people.html), I
+person](http://justinnhli.com/posts/2009/02/rational-people.html), I
 replied that I don't think I will. "Missing" is not the right word to
 use. I am certainly sad to see friends depart, neither of us knowing
 when we'll see each other next. I also know that I have fond memories of

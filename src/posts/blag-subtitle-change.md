@@ -1,6 +1,5 @@
 Title: Blag Subtitle Change
 Date: 2007-09-16 08:27
-Author: justinnhli
 Slug: blag-subtitle-change
 
 Changed the subtitle from "random thoughts, occasional lengthy updates,

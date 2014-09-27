@@ -1,6 +1,5 @@
 Title: Blogs Blogs Blogs
 Date: 2007-10-23 05:14
-Author: justinnhli
 Slug: blogs-blogs-blogs
 
 I was bored (read: I didn't want to work) and so I clicked on the little

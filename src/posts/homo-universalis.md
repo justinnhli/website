@@ -1,6 +1,5 @@
 Title: Homo Universalis
 Date: 2008-12-01 16:56
-Author: justinnhli
 Slug: homo-universalis
 
 What do [Aristotle](http://en.wikipedia.org/wiki/Aristotle), [Leonardo

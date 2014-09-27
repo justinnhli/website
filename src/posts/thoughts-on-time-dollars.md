@@ -1,6 +1,5 @@
 Title: Thoughts on Time Dollars
 Date: 2008-12-24 06:00
-Author: justinnhli
 Slug: thoughts-on-time-dollars
 
 My mom does some community development type stuff, and she recently

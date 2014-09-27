@@ -1,6 +1,5 @@
 Title: Chicago Botanical Gardens
 Date: 2007-10-28 21:25
-Author: justinnhli
 Slug: chicago-botanical-gardens
 
 A day cycling trip to the Chicago Botanical Gardens. Again, the weather

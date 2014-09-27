@@ -1,6 +1,5 @@
 Title: Religion and Logic
 Date: 2009-02-13 06:00
-Author: justinnhli
 Slug: religion-and-logic
 
 This post is actually less blasphemous than my other posts about

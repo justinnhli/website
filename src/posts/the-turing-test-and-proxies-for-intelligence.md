@@ -1,6 +1,5 @@
 Title: The Turing Test and Proxies for Intelligence
 Date: 2007-11-09 19:39
-Author: justinnhli
 Slug: the-turing-test-and-proxies-for-intelligence
 
 In my language class, we have been talking about how to get at some

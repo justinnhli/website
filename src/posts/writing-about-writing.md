@@ -1,6 +1,5 @@
 Title: Writing About Writing
 Date: 2009-09-01 19:31
-Author: justinnhli
 Slug: writing-about-writing
 
 I have been writing recreationally for a while - I've been writing in my

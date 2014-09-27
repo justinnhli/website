@@ -1,6 +1,5 @@
 Title: Philosophy Game
 Date: 2008-01-02 05:57
-Author: justinnhli
 Slug: philosophy-game
 
 Last year I took a computer game programming class for a few weeks
@@ -89,7 +88,7 @@ It will be an exercise in creating a taxonomy of different philosophic
 viewpoints.
 
 When I [read Raph Koster's book A Theory of Fun for Game
-Design](http://ninghui48.blogspot.com/2007/11/fun-in-games.html), one of
+Design](http://justinnhli.com/posts/2007/11/fun-in-games.html), one of
 the things that struck a cord with me was his projection for how games
 can become an art. One of his complaints about current games is that
 they don't change the player. The player is not affected by the game,

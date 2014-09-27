@@ -1,6 +1,5 @@
 Title: Sound Analysis of Rain
 Date: 2008-02-25 21:18
-Author: justinnhli
 Slug: sound-analysis-of-rain
 
 It's raining outside, and I just walked past a tree with a lot of dead

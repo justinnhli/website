@@ -1,6 +1,5 @@
 Title: Recreational Programming
 Date: 2010-11-09 03:52
-Author: justinnhli
 Slug: recreational-programming
 
 The result of about 10 hours of recreational programming: a web

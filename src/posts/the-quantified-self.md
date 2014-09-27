@@ -1,6 +1,5 @@
 Title: The Quantified Self
 Date: 2013-11-11 15:27
-Author: justinnhli
 Slug: the-quantified-self
 
 This post means that I'm a third of the way through NaBloPoHaMo

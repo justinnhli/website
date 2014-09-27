@@ -1,6 +1,5 @@
 Title: Favourite Wikipedia Page
 Date: 2008-04-10 23:58
-Author: justinnhli
 Slug: favourite-wikipedia-page
 
 We all know that Wikipedia can be distracting at times, but never has it

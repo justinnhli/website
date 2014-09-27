@@ -1,6 +1,5 @@
 Title: Don't Shoot the Symptom
 Date: 2013-11-27 19:12
-Author: justinnhli
 Category: ifttt
 Slug: dont-shoot-the-symptom
 
@@ -57,7 +56,7 @@ again there is a question of whether it was unrealistic.
 Moving outside of fiction, complaining about realistic sentiments is
 actually quite common. I caught myself doing it for a couple weeks, when
 I noticed how infrequently the [asexual
-perspective](http://justinnhli.blogspot.com/2013/11/asexuality.html) is
+perspective](http://justinnhli.com/posts/2013/11/asexuality.html) is
 brought up. I was started to get annoyed at this, until I remembered
 that asexuality represents [maybe
 1%](http://en.wikipedia.org/wiki/Asexuality#Prevalence) of the

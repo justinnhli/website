@@ -1,6 +1,5 @@
 Title: Personal Responsibility
 Date: 2011-02-02 23:35
-Author: justinnhli
 Slug: personal-responsibility
 
 Author's note: I know this is pretty bad writing, but I've been

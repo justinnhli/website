@@ -1,6 +1,5 @@
 Title: Colored Language
 Date: 2009-05-04 05:00
-Author: justinnhli
 Slug: colored-language
 
 Last week's question: what answers do people give for the question "why

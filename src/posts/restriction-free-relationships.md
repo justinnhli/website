@@ -1,6 +1,5 @@
 Title: Restriction-free Relationships
 Date: 2013-11-09 18:00
-Author: justinnhli
 Slug: restriction-free-relationships
 
 I want to explore a curious trend in interpersonal relationships. For
@@ -13,7 +12,7 @@ missing pieces as well.
 
 What does it mean for two people to be acquaintances instead of
 strangers? The status of a relationship is, of course, [a
-Color](http://justinnhli.blogspot.com/2013/11/invisible-colors.html):
+Color](http://justinnhli.com/posts/2013/11/invisible-colors.html):
 there's nothing in the physical composition of two people which
 classifies them as acquaintances. This particular Color is determined by
 whether the two people have been introduced before or otherwise know

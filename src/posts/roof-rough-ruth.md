@@ -1,6 +1,5 @@
 Title: Roof! Rough! Ruth!
 Date: 2007-12-28 04:00
-Author: justinnhli
 Slug: roof-rough-ruth
 
 There's a lot of psychology surrounding jokes, and I mean more than the

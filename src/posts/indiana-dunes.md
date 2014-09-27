@@ -1,6 +1,5 @@
 Title: Indiana Dunes
 Date: 2007-10-21 05:21
-Author: justinnhli
 Slug: indiana-dunes
 
 So I spent the day at Indiana Dunes, as an Outing Club trip. Only me and

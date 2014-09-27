@@ -1,6 +1,5 @@
 Title: Blogger Trial
 Date: 2007-09-14 15:25
-Author: justinnhli
 Slug: blogger-trial
 
 I kind of like Blogger. It seems simpler to use than LiveJournal, and

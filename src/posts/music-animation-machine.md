@@ -1,6 +1,5 @@
 Title: Music Animation Machine
 Date: 2008-06-19 19:31
-Author: justinnhli
 Slug: music-animation-machine
 
 I was listening to Tommy Emmanuel's rendition of Classical Gas, and got

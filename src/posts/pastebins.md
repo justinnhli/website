@@ -1,6 +1,5 @@
 Title: Pastebins
 Date: 2007-12-19 20:34
-Author: justinnhli
 Slug: pastebins
 
 I came across this concept of pastebins the night before flying out,

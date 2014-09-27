@@ -1,10 +1,9 @@
 Title: Pascal's Wager, Part 2
 Date: 2010-05-04 03:18
-Author: justinnhli
 Slug: pascals-wager-part-2
 
 I have written about Pascal's Wager
-[before](http://justinnhli.blogspot.com/2008/10/pascals-wager.html), but
+[before](http://justinnhli.com/posts/2008/10/pascals-wager.html), but
 I never finished that post. A few days ago I came across a video, which
 finally closed the case on that argument for me.
 

@@ -1,6 +1,5 @@
 Title: Updates
 Date: 2010-04-28 04:19
-Author: justinnhli
 Slug: updates
 
 I clearly haven't written here for a while. I have a post halfway

@@ -1,6 +1,5 @@
 Title: Book Tracking
 Date: 2011-10-27 00:24
-Author: justinnhli
 Slug: book-tracking
 
 Those of you who follow me on [Twitter](https://twitter.com/justinnhli)

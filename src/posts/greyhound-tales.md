@@ -1,6 +1,5 @@
 Title: Greyhound Tales
 Date: 2008-06-28 13:30
-Author: justinnhli
 Slug: greyhound-tales
 
 Hello! I'm at Stanford, California! It's kind of amazing that I'm all

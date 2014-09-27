@@ -1,6 +1,5 @@
 Title: Thoughts on a Cognitive Sport
 Date: 2012-01-08 07:15
-Author: justinnhli
 Slug: thoughts-on-a-cognitive-sport
 
 **Note**: this post contains a lot of rock climbing jargon and may be

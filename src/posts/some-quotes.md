@@ -1,6 +1,5 @@
 Title: Some Quotes
 Date: 2009-08-24 04:00
-Author: justinnhli
 Slug: some-quotes
 
 I've stored up a lot of quote from books I've been reading. It's time to
@@ -11,7 +10,7 @@ well (like the Obama one about his daughters), and some are just
 Traditions in a Rootless World, Lynn Davidman  
 Note - required for class. Not that interesting, but at the time I was
 questioning [why sociologists need to be emersed in the culture they're
-studing](http://justinnhli.blogspot.com/2009/01/journalism-as-sociology-as-social.html).  
+studing](http://justinnhli.com/posts/2009/01/journalism-as-sociology-as-social.html).  
 
 > Contemporary ethnography is understood by its followers as a process
 > of interpretation rather than explanation. Phenomenological approaches

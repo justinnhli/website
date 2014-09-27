@@ -1,6 +1,5 @@
 Title: Lasers
 Date: 2007-10-02 06:14
-Author: justinnhli
 Slug: lasers
 
 Evanston is foggy tonight. Visibility is about 20 feet, max. It was a

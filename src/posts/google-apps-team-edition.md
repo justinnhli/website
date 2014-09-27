@@ -1,6 +1,5 @@
 Title: Google Apps Team Edition
 Date: 2008-02-07 23:21
-Author: justinnhli
 Slug: google-apps-team-edition
 
 Google [just

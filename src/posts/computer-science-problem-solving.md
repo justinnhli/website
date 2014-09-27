@@ -1,6 +1,5 @@
 Title: Computer Science Problem Solving
 Date: 2007-11-02 23:48
-Author: justinnhli
 Slug: computer-science-problem-solving
 
 Someone once asked me if studying computer science changes the way I

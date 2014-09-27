@@ -1,6 +1,5 @@
 Title: Comparative Vocabulary
 Date: 2007-11-08 04:23
-Author: justinnhli
 Slug: comparative-vocabulary
 
 Here's a fun one. Below is a list of my percentage certainty when I say

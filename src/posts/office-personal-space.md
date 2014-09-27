@@ -1,6 +1,5 @@
 Title: Office (Personal) Space
 Date: 2007-11-11 01:00
-Author: justinnhli
 Slug: office-personal-space
 
 I came across this cool little table a few days ago:

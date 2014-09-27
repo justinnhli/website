@@ -1,6 +1,5 @@
 Title: Aliens, therefore God
 Date: 2009-01-28 06:00
-Author: justinnhli
 Slug: aliens-therefore-god
 
 Something occurred to me over the weekend. This argument was inspired by

@@ -1,6 +1,5 @@
 Title: Predestination and/or determinism
 Date: 2008-12-19 14:32
-Author: justinnhli
 Slug: predestination-andor-determinism
 
 [Wikipedia](http://en.wikipedia.org/wiki/Predestination#Predestination_and_omniscience)tells
@@ -73,6 +72,6 @@ the chance has always been none.
 So do I believe in predestination? No. It's not provable, and since we
 can't use it to do other things, it's not helpful either (accept in
 faith). Kinda like the [existance of
-God](http://justinnhli.blogspot.com/2008/02/dinner-table-conversations.html),
+God](http://justinnhli.com/posts/2008/02/dinner-table-conversations.html),
 actually, now I think about it.
 

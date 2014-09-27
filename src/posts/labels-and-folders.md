@@ -1,6 +1,5 @@
 Title: Labels and Folders
 Date: 2009-05-08 05:00
-Author: justinnhli
 Slug: labels-and-folders
 
 In the last few years, the words "label" and "tag" have gotten a whole

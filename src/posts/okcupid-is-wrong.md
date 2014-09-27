@@ -1,6 +1,5 @@
 Title: OKCupid is Wrong
 Date: 2010-02-16 23:51
-Author: justinnhli
 Slug: okcupid-is-wrong
 
 I started reading [OKCupid's blog](http://blog.okcupid.com/) about a

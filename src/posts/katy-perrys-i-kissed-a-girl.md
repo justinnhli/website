@@ -1,6 +1,5 @@
 Title: Katy Perry's "I Kissed a Girl"
 Date: 2008-12-22 02:59
-Author: justinnhli
 Slug: katy-perrys-i-kissed-a-girl
 
 I've decided I will post on the xkcd schedule - every Monday, Wednesday,
@@ -14,5 +13,5 @@ controversial for both females and males to sing it?
 On a different note, I found
 [someone](http://ali-wildgoose.livejournal.com/364204.html) who shares
 [my view of homosexuality and
-polygamy](http://justinnhli.blogspot.com/2008/05/marriage-and-society.html).
+polygamy](http://justinnhli.com/posts/2008/05/marriage-and-society.html).
 

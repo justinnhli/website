@@ -1,6 +1,5 @@
 Title: Wrong Side of the Street
 Date: 2007-12-19 20:25
-Author: justinnhli
 Slug: wrong-side-of-the-street
 
 I have an observation I would like all of you to verify: is it just me,

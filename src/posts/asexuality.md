@@ -1,6 +1,5 @@
 Title: Asexuality
 Date: 2013-11-15 16:46
-Author: justinnhli
 Slug: asexuality
 
 *Author's note: Sunday's post will be delayed due to climbing.*
@@ -28,7 +27,7 @@ orientation and their romantic orientation; many people on
 [r/asexuality](http://www.reddit.com/r/asexuality), for example, are
 also aromantic (that is, they don't feel romantic attraction), although
 I remain heteromantic (contrary to [what I wrote several days
-ago](http://justinnhli.blogspot.com/2013/11/mental-objectification.html)).
+ago](http://justinnhli.com/posts/2013/11/mental-objectification.html)).
 There are also divides between people who will and will not have sex,
 people who find sex disgusting, and so on. Note that this definition of
 asexuality is silent on sexual arousal and libido. We can argue whether
@@ -81,9 +80,9 @@ that I discovered the asexual label, and found that it applied to me.
 Since recognizing myself as an asexual, I have often wondered how much
 this trait has (unconsciously) influenced my thinking. For example, my
 quibble with objectification
-([here](http://justinnhli.blogspot.com/2013/06/defining-objectification.html)
+([here](http://justinnhli.com/posts/2013/06/defining-objectification.html)
 and
-[here](http://justinnhli.blogspot.com/2013/11/mental-objectification.html))
+[here](http://justinnhli.com/posts/2013/11/mental-objectification.html))
 probably stems from my lack of sexual attraction. More than just a
 thought experiment, it's a way for me to explore how sexuals see and
 classify the world. Fundamentally, it's about whether and why someone's
@@ -143,7 +142,7 @@ myself. If I run with the idea of sexual attraction as a sense, then
 maybe my experience is comparable to someone with
 [synesthesia](http://en.wikipedia.org/wiki/Synesthesia). And since I
 have asked
-[questions](http://justinnhli.blogspot.com/2009/05/synesthesia.html) of
+[questions](http://justinnhli.com/posts/2009/05/synesthesia.html) of
 my synaesthetic friend, I suppose people should feel free to ask me
 questions too.
 

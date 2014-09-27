@@ -1,6 +1,5 @@
 Title: Interactive Environment
 Date: 2008-01-05 23:39
-Author: justinnhli
 Slug: interactive-environment
 
 We were talking about the car brand Lexus the other day, and how Lexuses

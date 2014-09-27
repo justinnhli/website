@@ -1,6 +1,5 @@
 Title: I have a midterm today...
 Date: 2009-04-29 05:00
-Author: justinnhli
 Slug: i-have-a-midterm-today
 
 ... so I'll be lazy and put some jokes.

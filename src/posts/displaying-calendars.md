@@ -1,14 +1,13 @@
 Title: Displaying Calendars
 Date: 2011-12-24 09:55
-Author: justinnhli
 Slug: displaying-calendars
 
 I've talked about my
-[small](http://justinnhli.blogspot.com/2007/10/calendars-and-to-do-lists.html)
+[small](http://justinnhli.com/posts/2007/10/calendars-and-to-do-lists.html)
 [obsession
-with](http://justinnhli.blogspot.com/2007/11/calendar-v20071106.html)
+with](http://justinnhli.com/posts/2007/11/calendar-v20071106.html)
 [digital
-calendars](http://justinnhli.blogspot.com/2007/11/calendar-v20071106.html)
+calendars](http://justinnhli.com/posts/2007/11/calendar-v20071106.html)
 before. I just want to mention that "logarithmic calendars" seem to be
 in
 [vogue](http://www.marco.org/2010/03/28/more-ideas-than-time-logarithmic-calendar-view)

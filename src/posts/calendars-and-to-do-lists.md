@@ -1,6 +1,5 @@
 Title: Calendars and To-Do Lists
 Date: 2007-10-12 18:19
-Author: justinnhli
 Slug: calendars-and-to-do-lists
 
 I don't know how many of you use Google Calendar, which is a great piece

@@ -1,6 +1,5 @@
 Title: Playing for the Greater Good
 Date: 2007-11-16 19:42
-Author: justinnhli
 Slug: playing-for-the-greater-good
 
 The website [FreeRice.com](http://www.freerice.com/) was launched only a

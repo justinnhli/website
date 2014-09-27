@@ -1,6 +1,5 @@
 Title: Complex Systems? Or Learning? Or...?
 Date: 2008-12-01 16:57
-Author: justinnhli
 Slug: complex-systems-or-learning-or
 
 As you probably know, I've been working on my statement of purpose over

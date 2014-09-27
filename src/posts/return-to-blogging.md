@@ -1,6 +1,5 @@
 Title: Return to Blogging
 Date: 2008-12-01 03:48
-Author: justinnhli
 Slug: return-to-blogging
 
 I'm in the middle of statement of purpose hell right now, but I'm

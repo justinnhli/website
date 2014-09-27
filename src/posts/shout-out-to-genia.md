@@ -1,6 +1,5 @@
 Title: Shout Out to Genia
 Date: 2008-12-10 04:56
-Author: justinnhli
 Slug: shout-out-to-genia
 
 I finished my grad school applications yesterday, but I want to thank

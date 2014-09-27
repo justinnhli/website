@@ -1,6 +1,5 @@
 Title: Prove of God
 Date: 2007-12-12 01:02
-Author: justinnhli
 Slug: prove-of-god
 
 This happened over half a year ago, but it recently popped into my mind,

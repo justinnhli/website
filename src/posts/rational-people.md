@@ -1,12 +1,11 @@
 Title: Rational People
 Date: 2009-02-18 06:00
-Author: justinnhli
 Slug: rational-people
 
 I'm one of the least emotional people you'll know.
 
 Things others often find sentimental value in, such as their country or
-[race](http://justinnhli.blogspot.com/2008/12/big-race_19.html), I find
+[race](http://justinnhli.com/posts/2008/12/big-race_19.html), I find
 nothing appealing at all. I don't enjoy much fiction, the rousing drama
 in the plot, and would rather read a good non-fiction book explaining
 some part of nature I don't yet understand. I think about crossing the

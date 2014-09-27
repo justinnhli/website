@@ -1,6 +1,5 @@
 Title: Spiral Staircases
 Date: 2009-09-10 02:29
-Author: justinnhli
 Slug: spiral-staircases
 
 The new Computer Science and Engineering building has a nice spiral

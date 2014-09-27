@@ -1,6 +1,5 @@
 Title: Getting Past Free Hosting Ads
 Date: 2007-09-17 15:02
-Author: justinnhli
 Slug: getting-past-free-hosting-ads
 
 My mom asked me to make a simple template of a website for her, so she

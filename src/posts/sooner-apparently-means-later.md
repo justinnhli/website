@@ -1,6 +1,5 @@
 Title: Sooner apparently means later
 Date: 2010-12-21 02:49
-Author: justinnhli
 Slug: sooner-apparently-means-later
 
 In the mean time, here's a [fun charge on spring
@@ -16,7 +15,7 @@ James Gleick's Genius - the author describes how Feynman perceives
 equations (he has grapheme-color
 [synesthesia](http://en.wikipedia.org/wiki/Synesthesia) specific to
 mathematical equations. I have written about the general form
-[before](http://justinnhli.blogspot.com/2009/05/synesthesia.html)). I
+[before](http://justinnhli.com/posts/2009/05/synesthesia.html)). I
 quote from the book:
 
 > In high school he had not solved Euclidean geometry problems by

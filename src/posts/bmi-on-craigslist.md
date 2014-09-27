@@ -1,6 +1,5 @@
 Title: BMI on Craigslist
 Date: 2010-06-16 03:33
-Author: justinnhli
 Slug: bmi-on-craigslist
 
 There was a post, w4m, on Craigslist. In it, the author listed that she

@@ -1,6 +1,5 @@
 Title: Flowers for Algernon
 Date: 2009-01-07 06:00
-Author: justinnhli
 Slug: flowers-for-algernon
 
 I just read Daniel Keyes' Flowers for Algernon. It's the first serious

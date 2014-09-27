@@ -1,6 +1,5 @@
 Title: Quick Updates
 Date: 2007-10-09 15:27
-Author: justinnhli
 Slug: quick-updates
 
 I'm slipping. Here's what has happened in my life since the last post:

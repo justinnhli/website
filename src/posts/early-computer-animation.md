@@ -1,6 +1,5 @@
 Title: Early Computer Animation
 Date: 2008-02-07 04:36
-Author: justinnhli
 Slug: early-computer-animation
 
 I just came back from a art cinema thing, where they showcased some

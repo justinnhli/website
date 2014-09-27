@@ -1,6 +1,5 @@
 Title: Spring Break
 Date: 2009-04-01 05:15
-Author: justinnhli
 Slug: spring-break
 
 I hope you all enjoyed my lolcat last week. I'm glad to say that the

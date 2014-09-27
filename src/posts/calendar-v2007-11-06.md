@@ -1,12 +1,11 @@
 Title: Calendar v2007.11.06
 Date: 2007-11-07 04:47
-Author: justinnhli
 Slug: calendar-v2007-11-06
 
 I finished [revamping my
 calendar](http://ninghui48.googlepages.com/calendar.html) today. The
 idea has been out [for a
-while](http://ninghui48.blogspot.com/2007/10/calendars-and-to-do-lists.html),
+while](http://justinnhli.com/posts/2007/10/calendars-and-to-do-lists.html),
 but I only recently got around to designing and coding the interface. I
 think the code is actually cleaner than what I started out with, despite
 having multiple extra rows that I didn't have before. The reason for

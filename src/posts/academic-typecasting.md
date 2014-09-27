@@ -1,6 +1,5 @@
 Title: Academic Typecasting
 Date: 2009-03-04 06:00
-Author: justinnhli
 Slug: academic-typecasting
 
 We often hear stories about actors who don't want to be typecasted.
@@ -16,7 +15,7 @@ movie).
 So I was thinking about grad school the other day, and how I will spent
 a chunk of my life solving one small problem. As an [aspiring
 renaissance
-man](http://justinnhli.blogspot.com/2008/12/homo-universalis.html), I am
+man](http://justinnhli.com/posts/2008/12/homo-universalis.html), I am
 a little apprehensive of the idea, but I understand that it's a
 necessary path to being an expert on anything. What I do want to avoid
 though is being typecast as someone who only does computer science.

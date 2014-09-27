@@ -1,6 +1,5 @@
 Title: Meritocracy vs. Diversity
 Date: 2009-04-22 05:00
-Author: justinnhli
 Slug: meritocracy-vs-diversity
 
 I recently finished Daniel Golden's book Price of Admission: How

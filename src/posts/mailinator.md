@@ -1,6 +1,5 @@
 Title: Mailinator
 Date: 2007-10-19 19:07
-Author: justinnhli
 Slug: mailinator
 
 No, it's not a pun, it's webpage.

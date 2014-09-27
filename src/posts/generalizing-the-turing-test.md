@@ -1,6 +1,5 @@
 Title: Generalizing the Turing Test
 Date: 2013-11-18 19:02
-Author: justinnhli
 Slug: generalizing-the-turing-test
 
 Are people familiar with the [Turing

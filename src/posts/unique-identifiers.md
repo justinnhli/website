@@ -1,6 +1,5 @@
 Title: Unique Identifiers
 Date: 2009-06-29 05:00
-Author: justinnhli
 Slug: unique-identifiers
 
 I was playing with [Twitter search](http://search.twitter.com/)

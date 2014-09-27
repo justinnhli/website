@@ -1,13 +1,12 @@
 Title: A Year in My Life
 Date: 2010-06-18 22:38
-Author: justinnhli
 Slug: a-year-in-my-life
 
 As most of you know, I keep a personal journal where I record my
 thoughts and significant daily happenings. Unlike most people who
 journal - but probably typical as a Linux guy - I keep my journal
 digitally as plain text. Because [it's
-searchable](http://justinnhli.blogspot.com/2008/01/journal-helper.html),
+searchable](http://justinnhli.com/posts/2008/01/journal-helper.html),
 I often include references to previous events and people that I am
 reminded of. I almost depend on it now as an integral part of my memory,
 and will sometimes be surprised when some incident I remember wasn't

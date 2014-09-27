@@ -1,6 +1,5 @@
 Title: Stranger Appeal
 Date: 2009-04-10 05:00
-Author: justinnhli
 Slug: stranger-appeal
 
 The [xkcd blag](http://blag.xkcd.com/2009/04/03/omegle/) recently

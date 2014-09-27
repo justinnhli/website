@@ -1,6 +1,5 @@
 Title: Instant Message, Instant Girlfriend
 Date: 2008-05-25 15:31
-Author: justinnhli
 Slug: instant-message-instant-girlfriend
 
 NYTimes Article, "[Instant Message, Instant

@@ -1,6 +1,5 @@
 Title: Evolution of Morals
 Date: 2008-01-19 05:17
-Author: justinnhli
 Slug: evolution-of-morals
 
 There was a [feature in NYTimes

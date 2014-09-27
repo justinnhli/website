@@ -1,6 +1,5 @@
 Title: Swinger Party
 Date: 2009-05-18 05:00
-Author: justinnhli
 Slug: swinger-party
 
 Last week's question: What is the legal status of the verdicts shown on

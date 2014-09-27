@@ -1,6 +1,5 @@
 Title: Drafting
 Date: 2009-03-23 05:00
-Author: justinnhli
 Slug: drafting
 
 Last week's question: Why do things appear smaller when they are further

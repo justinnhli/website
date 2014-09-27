@@ -1,6 +1,5 @@
 Title: The End of the World
 Date: 2007-10-31 16:21
-Author: justinnhli
 Slug: the-end-of-the-world
 
 For people who haven't seen it, this flash animation is highly

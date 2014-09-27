@@ -1,6 +1,5 @@
 Title: Efficient Transportation
 Date: 2009-02-09 06:00
-Author: justinnhli
 Slug: efficient-transportation
 
 Last week's question: Are outdoor ice rinks really made with water? Is

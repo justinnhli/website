@@ -1,6 +1,5 @@
 Title: Javascript Arguments
 Date: 2007-09-15 03:27
-Author: justinnhli
 Slug: javascript-arguments
 
 Why the `arguments` variable is not an Array in Javascript always

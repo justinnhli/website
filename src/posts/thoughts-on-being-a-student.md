@@ -1,6 +1,5 @@
 Title: Thoughts on Being a Student
 Date: 2009-05-29 05:00
-Author: justinnhli
 Slug: thoughts-on-being-a-student
 
 I recently read the first few chapters of The Closing of the American
@@ -89,7 +88,7 @@ learning with.
 Students, following only the common and mundane goals of money, fame,
 "success", are missing out from the greater enjoyment of life. Too few,
 and very often far too late, realize that they [don't like what they're
-doing](http://justinnhli.blogspot.com/2008/02/how-to-do-what-you-love.html).
+doing](http://justinnhli.com/posts/2008/02/how-to-do-what-you-love.html).
 "The most common student view lacks an awareness of the depths as well
 as the heights, and hence lacks gravity." There needs to be some energy,
 some driving force, whether from the reading of the classics or from

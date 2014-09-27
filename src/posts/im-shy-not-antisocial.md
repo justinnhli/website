@@ -1,6 +1,5 @@
 Title: I'm Shy, Not Antisocial
 Date: 2007-11-20 19:19
-Author: justinnhli
 Slug: im-shy-not-antisocial
 
 I know I'm behind. Let's call this the post for yesterday, and I'll

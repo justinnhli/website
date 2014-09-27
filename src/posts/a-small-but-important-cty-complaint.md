@@ -1,6 +1,5 @@
 Title: A Small But Important CTY Complaint
 Date: 2009-08-13 00:17
-Author: justinnhli
 Slug: a-small-but-important-cty-complaint
 
 <span class="Apple-style-span"

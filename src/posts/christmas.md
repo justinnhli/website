@@ -1,6 +1,5 @@
 Title: Christmas
 Date: 2007-12-26 01:37
-Author: justinnhli
 Slug: christmas
 
 Merry Christmas to everyone. I have two caro... songs :D to share.

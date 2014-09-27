@@ -1,6 +1,5 @@
 Title: I Miss CTY Bunches and Bunches
 Date: 2008-12-14 14:21
-Author: justinnhli
 Slug: i-miss-cty-bunches-and-bunches
 
 It's probably with grad school applications, and my parents talking

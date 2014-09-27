@@ -1,6 +1,5 @@
 Title: The Big Race
 Date: 2008-12-19 16:55
-Author: justinnhli
 Slug: the-big-race
 
 I was going to write a post telling secrets I've (for the most part)

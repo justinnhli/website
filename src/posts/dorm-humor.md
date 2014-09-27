@@ -1,6 +1,5 @@
 Title: Dorm Humor
 Date: 2008-01-13 04:19
-Author: justinnhli
 Slug: dorm-humor
 
 I would like to share two incidences of dorm humor.

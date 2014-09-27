@@ -1,6 +1,5 @@
 Title: Theremin
 Date: 2007-09-22 00:45
-Author: justinnhli
 Slug: theremin
 
 Here's something new: a musical instrument which requires no physical

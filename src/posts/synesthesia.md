@@ -1,6 +1,5 @@
 Title: Synesthesia
 Date: 2009-05-11 05:00
-Author: justinnhli
 Slug: synesthesia
 
 Last week's question: how do people with grapheme-color synesthesia

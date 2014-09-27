@@ -1,6 +1,5 @@
 Title: Linux in a Recession
 Date: 2009-01-30 06:00
-Author: justinnhli
 Slug: linux-in-a-recession
 
 I don't have much time this week, so this will be a short post. I also

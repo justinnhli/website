@@ -1,6 +1,5 @@
 Title: Challenges
 Date: 2009-11-20 15:46
-Author: justinnhli
 Slug: challenges
 
 This has been a hard week for me.

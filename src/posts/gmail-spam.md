@@ -1,6 +1,5 @@
 Title: Gmail Spam
 Date: 2008-12-08 04:14
-Author: justinnhli
 Slug: gmail-spam
 
 I just realized that Gmail, if it thinks something is spam, removes the

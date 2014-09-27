@@ -1,6 +1,5 @@
 Title: A little education can't not do nobody no good...
 Date: 2009-01-16 06:00
-Author: justinnhli
 Slug: a-little-education-cant-not-do-nobody-no-good
 
 ...wait, what?
@@ -12,7 +11,7 @@ entirely convinced by my position, I will attempt to make a stand, if
 only to help understand my thoughts better.
 
 I am a pretty liberal person (my [views of
-marriage](http://justinnhli.blogspot.com/2008/05/marriage-and-society.html)
+marriage](http://justinnhli.com/posts/2008/05/marriage-and-society.html)
 being the best evidence), and from working with complex systems I
 believe people are capable of self-organization without overt
 cooperation. The open source community is a great example, which one of

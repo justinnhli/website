@@ -1,6 +1,5 @@
 Title: Generative Protection (aka. Graduate School in Midsight)
 Date: 2012-11-08 03:29
-Author: justinnhli
 Slug: generative-protection-aka-graduate-school-in-midsight
 
 I feel like I should talk about grad school and how my fourth year has
@@ -33,7 +32,7 @@ in my chemistry exam and it was better than the scores they've heard so
 far, I wrote, "I knew, and I kind of felt sorry, like survivor's guilt,
 since every did so poorly but I was unscathed." This feeling was touched
 on in an earlier [blog post about grad
-school](http://justinnhli.blogspot.com/2009/11/challenges.html). A month
+school](http://justinnhli.com/posts/2009/11/challenges.html). A month
 later, a friend asked me why I think I'm not good at taking compliments,
 and I replied:
 
@@ -102,7 +101,7 @@ balance is easy is that, to be honest, work is fun. I enjoy separating
 theoretical confounds and laying down theory for my research, and to
 some extent am willing to spend "play" time doing so. I've previously
 mentioned the spars with my dad about the [work-play
-distinction](http://justinnhli.blogspot.com/2009/03/smile.html); my
+distinction](http://justinnhli.com/posts/2009/03/smile.html); my
 relative lack of such distinction greatly reduces how stressful I feel.
 Plus, as [Larry
 Birnbaum](http://infolab.northwestern.edu/people/larry-birnbaum/) said,
@@ -151,7 +150,7 @@ evenings are often spent sitting at coffee shops exploring the
 theoretical foundations of my work. Given that I do invest time in
 research (or climbing), why do I still feel shielded from the
 difficulties of life - that, to quote from [Atlas
-Shrugged](http://justinnhli.blogspot.com/2010/07/atlas-shrugged.html),
+Shrugged](http://justinnhli.com/posts/2010/07/atlas-shrugged.html),
 I've "never suffered"?
 
 I don't have a clear answer to that question, but I do have two related
@@ -196,7 +195,7 @@ another post.
 
 Postscript: There are at least two omissions in this essay, which were
 realized only in the process of writing (hence, an
-[*essay*](http://justinnhli.blogspot.com/2009/09/writing-about-writing.html)).
+[*essay*](http://justinnhli.com/posts/2009/09/writing-about-writing.html)).
 First, I realized that there are two ways to define the lack of
 suffering: that of not having worked hard, and that of not having
 encountered difficult external circumstances. This ambiguity in the

@@ -1,6 +1,5 @@
 Title: This Is MADness
 Date: 2007-11-13 16:02
-Author: justinnhli
 Slug: this-is-madness
 
 We were talking about mutual assured destruction (MAD) the other day,

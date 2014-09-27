@@ -1,6 +1,5 @@
 Title: Airplane Physics
 Date: 2007-09-19 05:57
-Author: justinnhli
 Slug: airplane-physics
 
 I just realized that I'm in a tube suspended by nothing but air. I know

@@ -1,6 +1,5 @@
 Title: Our Upcoming Digital World
 Date: 2010-09-01 00:00
-Author: justinnhli
 Slug: our-upcoming-digital-world
 
 Two converging sources led me to write this today.
@@ -176,7 +175,7 @@ concerns of monopoly and anti-trust for any company that gains control.
 
 This was my original topic, by the way: that an open source, transparent
 program would solve the problems of a Randian utopia I talked about
-[before](http://justinnhli.blogspot.com/2010/07/atlas-shrugged.html). I
+[before](http://justinnhli.com/posts/2010/07/atlas-shrugged.html). I
 believe that humanity will ultimately become the society described by
 Suarez, which inherently contains the values of production described by
 Rand, although policed in a very different form that what Rand

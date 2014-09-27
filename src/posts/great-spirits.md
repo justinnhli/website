@@ -1,6 +1,5 @@
 Title: Great Spirits
 Date: 2008-10-20 00:47
-Author: justinnhli
 Slug: great-spirits
 
 Great spirits have always encountered violent opposition from mediocre

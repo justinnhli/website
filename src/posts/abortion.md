@@ -1,15 +1,14 @@
 Title: Abortion
 Date: 2009-02-06 06:00
-Author: justinnhli
 Slug: abortion
 
 I recently had an online discussion about religion, gay marriage, and
 abortion with a bunch of strangers. It was an exhilarating experience.
 It occurred to me that while I've
-[written](http://justinnhli.blogspot.com/2007/10/religion-as-mind-body-paradox.html)
-[quite](http://justinnhli.blogspot.com/2007/12/prove-of-god.html)
-[a](http://justinnhli.blogspot.com/2008/05/marriage-and-society.html)
-[bit](http://justinnhli.blogspot.com/2008/10/social-interaction-russell-and-morals.html)
+[written](http://justinnhli.com/posts/2007/10/religion-as-mind-body-paradox.html)
+[quite](http://justinnhli.com/posts/2007/12/prove-of-god.html)
+[a](http://justinnhli.com/posts/2008/05/marriage-and-society.html)
+[bit](http://justinnhli.com/posts/2008/10/social-interaction-russell-and-morals.html)
 about the first two, I have yet to address the latter.
 
 I think my views are logically entailed by several facts/assumptions:

@@ -1,6 +1,5 @@
 Title: Software Development Wisdom
 Date: 2008-05-14 13:52
-Author: justinnhli
 Slug: software-development-wisdom
 
 Here are a few gems of wisdom imparted from a class I'm taking:

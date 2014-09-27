@@ -1,6 +1,5 @@
 Title: Bird
 Date: 2008-05-04 15:30
-Author: justinnhli
 Slug: bird
 
 Here's a bird. They're quite common at Northwestern, and probably all

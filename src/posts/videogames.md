@@ -1,6 +1,5 @@
 Title: Videogames
 Date: 2008-01-17 05:35
-Author: justinnhli
 Slug: videogames
 
 I've spotted a curious difference between people in Hong Kong and people

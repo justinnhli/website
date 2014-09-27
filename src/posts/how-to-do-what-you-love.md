@@ -1,6 +1,5 @@
 Title: How To Do What You Love
 Date: 2008-02-09 22:33
-Author: justinnhli
 Slug: how-to-do-what-you-love
 
 I was thinking about one of those personal trivia quiz thingies, and one

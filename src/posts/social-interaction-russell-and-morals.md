@@ -1,6 +1,5 @@
 Title: Social Interaction, Russell, and Morals
 Date: 2008-10-17 04:37
-Author: justinnhli
 Slug: social-interaction-russell-and-morals
 
 I haven't written anything of substance for a long time. There have been
@@ -100,7 +99,7 @@ bred other spieces, doesn't mean these things are bad.
 I want to give another example of convention, and my (and to my great
 surprise, Russel's) take on it, before talking about morals proper. I
 have [expressed
-before](http://ninghui48.blogspot.com/2008/05/marriage-and-society.html)
+before](http://justinnhli.com/posts/2008/05/marriage-and-society.html)
 that I'm uncertain where the idea of marriage came from, and it's
 usefulness in modern sociey. Then today I read Russell's essay, titled
 "Our Sexual Ethics". He wrote:  
@@ -172,5 +171,5 @@ result in a better world...
 
 Unless one's judgment of the world depends not on human happiness, but
 on satisfaction of deities - but that's a [different
-argument](http://ninghui48.blogspot.com/2008/03/problem-science-has-with-jesus-christ.html).
+argument](http://justinnhli.com/posts/2008/03/problem-science-has-with-jesus-christ.html).
 

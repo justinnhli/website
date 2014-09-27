@@ -1,6 +1,5 @@
 Title: Only a Theory
 Date: 2010-01-23 20:27
-Author: justinnhli
 Slug: only-a-theory
 
 I just finished Ken Miller's Only a Theory: Evolution and the Battle for
@@ -71,7 +70,7 @@ though, it would mean that we are indeed very special:
 
 The last idea I found intriguing in Miller's book was him mention Allan
 Bloom's book, The Closing of the American Mind (which I [wrote about
-briefly](http://justinnhli.blogspot.com/2009/05/thoughts-on-being-student.html)).
+briefly](http://justinnhli.com/posts/2009/05/thoughts-on-being-student.html)).
 Miller quoted Bloom writing:  
 
 > Openness used to be the virtue that permitted us to seek the good by

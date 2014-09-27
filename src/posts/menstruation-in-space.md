@@ -1,6 +1,5 @@
 Title: Menstruation in Space
 Date: 2009-02-23 06:10
-Author: justinnhli
 Slug: menstruation-in-space
 
 Last week's question: Do animals fear non-immediate, abstract things.

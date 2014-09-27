@@ -1,6 +1,5 @@
 Title: A Small Update
 Date: 2007-11-02 06:07
-Author: justinnhli
 Slug: a-small-update
 
 I was originally going to complete one of the 13 drafts I have waiting,

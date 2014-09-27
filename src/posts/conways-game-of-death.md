@@ -1,6 +1,5 @@
 Title: Conway's Game of Death
 Date: 2010-09-06 21:01
-Author: justinnhli
 Slug: conways-game-of-death
 
 Today's [Spiked Math](http://spikedmath.com/) gives an interesting twist

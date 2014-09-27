@@ -1,10 +1,9 @@
 Title: Re: Deserve Victory
 Date: 2009-03-13 05:00
-Author: justinnhli
 Slug: re-deserve-victory
 
 [A while
-back](http://justinnhli.blogspot.com/2008/01/deserve-victory.html) I
+back](http://justinnhli.com/posts/2008/01/deserve-victory.html) I
 wrote about this motto I have, "Deserve Victory". I recently read
 another one of Terry Goodkind's Sword of Truth series (Faith of the
 Fallen - "available"

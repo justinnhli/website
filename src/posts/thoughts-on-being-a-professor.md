@@ -1,6 +1,5 @@
 Title: Thoughts on Being a Professor
 Date: 2009-05-06 05:00
-Author: justinnhli
 Slug: thoughts-on-being-a-professor
 
 [Faye](http://fayezor.tumblr.com/)

@@ -1,6 +1,5 @@
 Title: Ars Technica: A biologist reviews textbook from ID camp
 Date: 2008-09-25 11:38
-Author: justinnhli
 Slug: ars-technica-a-biologist-reviews-textbook-from-id-camp
 
 http://arstechnica.com/reviews/other/discovery-textbook-review.ars  

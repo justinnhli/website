@@ -1,6 +1,5 @@
 Title: How my classes are going
 Date: 2008-10-09 17:01
-Author: justinnhli
 Slug: how-my-classes-are-going
 
 -   Independent study's gone its own way

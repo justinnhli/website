@@ -1,6 +1,5 @@
 Title: Parents
 Date: 2008-03-06 06:30
-Author: justinnhli
 Slug: parents
 
 Several days ago the university police came knocking on one of my

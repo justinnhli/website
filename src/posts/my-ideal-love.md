@@ -1,6 +1,5 @@
 Title: My Ideal Love
 Date: 2009-03-06 06:00
-Author: justinnhli
 Slug: my-ideal-love
 
 -   has long hair. I really like long hair.

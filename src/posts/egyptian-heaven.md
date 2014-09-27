@@ -1,6 +1,5 @@
 Title: Egyptian Heaven
 Date: 2008-02-02 03:46
-Author: justinnhli
 Slug: egyptian-heaven
 
 I just finished watching The Bucket List, starring Morgan Freeman and

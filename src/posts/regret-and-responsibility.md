@@ -1,6 +1,5 @@
 Title: Regret and Responsibility
 Date: 2013-08-07 16:56
-Author: justinnhli
 Slug: regret-and-responsibility
 
 A couple months ago I had a conversation with a friend. In that
