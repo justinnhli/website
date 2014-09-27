@@ -1,6 +1,5 @@
 Title: Deserve Victory
 Date: 2008-01-11 21:44
-Author: justinnhli
 Slug: deserve-victory
 
 I thought I will share a personal motto I had for... the past few

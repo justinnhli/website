@@ -1,6 +1,5 @@
 Title: iGod: Repenting Made Easy!
 Date: 2007-12-06 01:37
-Author: justinnhli
 Slug: igod-repenting-made-easy
 
 I first came across

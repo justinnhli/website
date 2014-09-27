@@ -1,6 +1,5 @@
 Title: Google Calendar Timezones
 Date: 2008-12-12 03:45
-Author: justinnhli
 Slug: google-calendar-timezones
 
 This is the first time I've used Google Calendar and traveled between

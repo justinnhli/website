@@ -1,6 +1,5 @@
 Title: The First Rule of Rock Climbing
 Date: 2014-05-14 23:04
-Author: justinnhli
 Slug: the-first-rule-of-rock-climbing
 
 1. Do not talk about climbing.

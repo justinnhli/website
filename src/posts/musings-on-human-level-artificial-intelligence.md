@@ -1,6 +1,5 @@
 Title: Musings on Human-Level Artificial Intelligence
 Date: 2009-01-23 06:00
-Author: justinnhli
 Slug: musings-on-human-level-artificial-intelligence
 
 I've been thinking a lot about human-level artificial intelligence (for

@@ -1,6 +1,5 @@
 Title: First Date?
 Date: 2009-05-01 05:00
-Author: justinnhli
 Slug: first-date
 
 I learned something cool in social psychology today. Psychologists Don

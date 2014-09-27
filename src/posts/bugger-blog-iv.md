@@ -1,6 +1,5 @@
 Title: Bugger Blog IV
 Date: 2008-01-22 00:50
-Author: justinnhli
 Slug: bugger-blog-iv
 
 I don't mean to always pick on Google (yeah, pick on someone your own
@@ -21,6 +20,6 @@ to</span>. That is, you cannot star multiple emails at the same time;
 you have to star, move down ('j'), star, move down, and repeat.
 
 Again, I wish Google would just [follow the
-rules](http://ninghui48.blogspot.com/2007/12/bugger-blog-3.html),
+rules](http://justinnhli.com/posts/2007/12/bugger-blog-3.html),
 instead of having different functions operate differently.
 

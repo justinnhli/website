@@ -1,6 +1,5 @@
 Title: Two Songs and Two Movies
 Date: 2008-02-20 19:11
-Author: justinnhli
 Slug: two-songs-and-two-movies
 
 I recently discovered two things about two movies I like.

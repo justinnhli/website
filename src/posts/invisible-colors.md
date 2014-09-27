@@ -1,6 +1,5 @@
 Title: Invisible Colors
 Date: 2013-11-05 14:51
-Author: justinnhli
 Slug: invisible-colors
 
 Often, when I have conversations with non-computer-science people, these

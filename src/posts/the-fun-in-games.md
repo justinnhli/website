@@ -1,6 +1,5 @@
 Title: The Fun in Games
 Date: 2007-11-24 02:40
-Author: justinnhli
 Slug: the-fun-in-games
 
 I've always liked text based adventure games, even though I haven't

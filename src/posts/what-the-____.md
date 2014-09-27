@@ -1,6 +1,5 @@
 Title: What The ____?
 Date: 2007-11-14 06:40
-Author: justinnhli
 Slug: what-the-____
 
 I don't get it: why do people bother to blank out swearing in songs? The

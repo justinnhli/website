@@ -1,6 +1,5 @@
 Title: Exams and Stuff
 Date: 2007-12-14 04:34
-Author: justinnhli
 Slug: exams-and-stuff
 
 Got two presentations done today. Just my stats exam left, then I'm

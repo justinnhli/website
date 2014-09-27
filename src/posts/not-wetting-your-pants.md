@@ -1,6 +1,5 @@
 Title: Not Wetting Your Pants.
 Date: 2008-01-11 00:10
-Author: justinnhli
 Slug: not-wetting-your-pants
 
 Walking in heavy rain with an over large waterproof jacket results in

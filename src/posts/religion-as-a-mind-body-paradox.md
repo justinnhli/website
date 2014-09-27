@@ -1,6 +1,5 @@
 Title: Religion as a Mind Body Paradox
 Date: 2007-10-25 23:48
-Author: justinnhli
 Slug: religion-as-a-mind-body-paradox
 
 I've never believed in a religion, even when I was younger and (I think)

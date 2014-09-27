@@ -1,6 +1,5 @@
 Title: Google Stuff
 Date: 2008-09-03 06:49
-Author: justinnhli
 Slug: google-stuff
 
 Google has been pretty busy this week:

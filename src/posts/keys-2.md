@@ -1,6 +1,5 @@
 Title: Keys
 Date: 2008-02-24 05:29
-Author: justinnhli
 Slug: keys-2
 
 Well, it would seem that I've lost my keys. This sucks.

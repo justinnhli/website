@@ -1,6 +1,5 @@
 Title: Daniel Dennet and Memes
 Date: 2008-11-02 19:32
-Author: justinnhli
 Slug: daniel-dennet-and-memes
 
 I just finished Daniel Dennett's book Breaking the Spell, and after
@@ -30,7 +29,7 @@ keeps his audience's attention.
 A lot of ideas were presented in his speech, and even more in his book,
 but one in particular stands out. I've explained before [Richard
 Dawkin's interpretation of
-evolution](http://ninghui48.blogspot.com/2008/02/supertheory-of-evolution.html),
+evolution](http://justinnhli.com/posts/2008/02/supertheory-of-evolution.html),
 and since Dennett makes use of memes in his explanation for religion,
 the same idea was expressed in his book. This was also mentioned in his
 speech, which was where this next idea came to me.

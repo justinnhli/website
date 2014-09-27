@@ -1,6 +1,5 @@
 Title: Mental Objectification
 Date: 2013-11-07 15:07
-Author: justinnhli
 Slug: mental-objectification
 
 *DISCLAIMER: I’m new to the discussion about objectification, and being
@@ -26,7 +25,7 @@ while the first one is repulsive and objectifying. The question is, why?
 One answer that comes up almost immediately is that the first scenario
 is objectifying, while the second one isn’t. For me, objectification [is
 not well defined
-enough](http://justinnhli.blogspot.com/2013/06/defining-objectification.html)
+enough](http://justinnhli.com/posts/2013/06/defining-objectification.html)
 to make this argument either way; specifically, I don’t see why we can’t
 have *mental* objectification. Consider the [criteria for
 objectification](http://en.wikipedia.org/wiki/Objectification). The

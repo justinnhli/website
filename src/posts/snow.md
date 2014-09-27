@@ -1,6 +1,5 @@
 Title: Snow!
 Date: 2007-12-02 06:20
-Author: justinnhli
 Slug: snow
 
 It snowed a lot in Chicago today. I learned a few things

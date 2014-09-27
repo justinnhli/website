@@ -1,6 +1,5 @@
 Title: I'm Back!
 Date: 2008-04-01 03:55
-Author: justinnhli
 Slug: im-back
 
 So I'm back from spring break. It's been a pretty incredibly week, and I

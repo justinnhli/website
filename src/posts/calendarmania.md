@@ -1,6 +1,5 @@
 Title: Calendarmania
 Date: 2007-12-04 07:00
-Author: justinnhli
 Slug: calendarmania
 
 Since college I've had an obsession with calendars. I guess before that
@@ -30,7 +29,7 @@ example, and therefore is a limited PIM. According to Wikipedia, a PIM
 may also include emails (which I use Thunderbird for), journals (mix of
 HTML and Bash script), contact information (Gmail; I'm working on
 consolidating it but Gmail's stubbornly [refusing to
-import](http://ninghui48.blogspot.com/2007/11/bugger-blog-2.html) my
+import](http://justinnhli.com/posts/2007/11/bugger-blog-2.html) my
 files correctly), news feeds (Google Reader), and even project
 management (I'm trying to integrate Gantt chart features into my
 calendar).

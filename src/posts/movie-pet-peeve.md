@@ -1,6 +1,5 @@
 Title: Movie Pet Peeve
 Date: 2008-12-15 20:05
-Author: justinnhli
 Slug: movie-pet-peeve
 
 Unlike a lot of my brethen (males, although probably less than most

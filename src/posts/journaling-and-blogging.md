@@ -1,6 +1,5 @@
 Title: Journaling and Blogging
 Date: 2007-10-10 19:02
-Author: justinnhli
 Slug: journaling-and-blogging
 
 Some people may ask (like "frequently asked questions"... no one ever

@@ -1,6 +1,5 @@
 Title: Question of the Week?
 Date: 2008-12-29 06:00
-Author: justinnhli
 Slug: question-of-the-week
 
 The answer to last week's question (Why is Katy Perry's "I Kissed a

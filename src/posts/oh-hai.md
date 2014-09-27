@@ -1,6 +1,5 @@
 Title: OH HAI
 Date: 2009-03-25 05:00
-Author: justinnhli
 Slug: oh-hai
 
 <span style="font-size:large;"></span>

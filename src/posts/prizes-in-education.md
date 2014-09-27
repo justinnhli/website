@@ -1,6 +1,5 @@
 Title: Prizes in Education
 Date: 2009-03-11 05:00
-Author: justinnhli
 Slug: prizes-in-education
 
 The New York Times recently had an article about [how rewards influence
@@ -22,7 +21,7 @@ and chairman of the [X Prize
 Foundation](http://en.wikipedia.org/wiki/X_Prize_Foundation), [gave a
 talk](http://fora.tv/2008/09/12/Peter_Diamandis-Long-Term_X_Prizes)
 about prizes as motivation at the Long Now Foundation, from which I've
-[quoted before](http://justinnhli.blogspot.com/2009/02/quotes.html). A
+[quoted before](http://justinnhli.com/posts/2009/02/quotes.html). A
 [summary](http://blog.longnow.org/2008/09/15/peter-diamandis-long-term-x-prizes/)
 is also available. His basic thesis is that having a substantial prize
 encourages competition, and the aim of getting that prize motivates the
@@ -86,7 +85,7 @@ used for tests*. With the debate on going about whether the SATs and
 GREs measure real education or test taking skills, it would be a great
 mistake to reward someone for being an excellent test taker. Tests are
 [only
-proxies](http://justinnhli.blogspot.com/2007/11/turing-test-and-proxies-for.html)
+proxies](http://justinnhli.com/posts/2007/11/turing-test-and-proxies-for.html)
 to measure the amount of learning. The prizes should instead be awarded
 based on how much extra effort someone put in. A presentation about what
 you learned in class is good, but the presentation which shows the

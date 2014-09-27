@@ -1,6 +1,5 @@
 Title: Journal Helper
 Date: 2008-01-06 04:49
-Author: justinnhli
 Slug: journal-helper
 
 I thought I would say a few things about my other journal.

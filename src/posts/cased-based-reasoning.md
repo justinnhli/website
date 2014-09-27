@@ -1,6 +1,5 @@
 Title: Cased-Based Reasoning
 Date: 2007-10-29 22:31
-Author: justinnhli
 Slug: cased-based-reasoning
 
 There are a lot of theories in artificial intelligence, attempting to

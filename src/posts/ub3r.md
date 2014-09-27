@@ -1,6 +1,5 @@
 Title: |\|U/\/\B3r$
 Date: 2007-12-29 17:13
-Author: justinnhli
 Slug: ub3r
 
 I've always been better at numbers than with words. That doesn't mean I

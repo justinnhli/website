@@ -1,6 +1,5 @@
 Title: Border Crossings, Linux, and Roaches
 Date: 2008-04-22 14:10
-Author: justinnhli
 Slug: border-crossings-linux-and-roaches
 
 Stories of people's laptops being

@@ -1,6 +1,5 @@
 Title: Trains and Skip Lists
 Date: 2009-03-20 05:00
-Author: justinnhli
 Slug: trains-and-skip-lists
 
 I was on the El to the airport the other day (for my Michigan visit,

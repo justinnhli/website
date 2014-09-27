@@ -1,6 +1,5 @@
 Title: Open Blogging
 Date: 2007-10-19 16:52
-Author: justinnhli
 Slug: open-blogging
 
 I've noticed that not only do I write more often (probably adding up to

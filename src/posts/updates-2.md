@@ -1,6 +1,5 @@
 Title: Updates!
 Date: 2008-04-28 02:48
-Author: justinnhli
 Slug: updates-2
 
 Haven't written about myself for a while.

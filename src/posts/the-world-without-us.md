@@ -1,6 +1,5 @@
 Title: The World Without Us
 Date: 2009-04-06 05:00
-Author: justinnhli
 Slug: the-world-without-us
 
 Last week's question: How are the arches at Arches formed?

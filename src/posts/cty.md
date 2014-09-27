@@ -1,13 +1,12 @@
 Title: CTY
 Date: 2009-08-13 19:07
-Author: justinnhli
 Slug: cty
 
 I’ve been tracking the presence of CTY online throughout the two
 sessions, especially [through
 Twitter](http://search.twitter.com/search?q=%23cty), but also through
 blogs. Last year [I found several
-blogs](http://justinnhli.blogspot.com/2008/09/cty.html) which expressed
+blogs](http://justinnhli.com/posts/2008/09/cty.html) which expressed
 their amazement at what CTY does for them and for children. I did the
 same this year, and found
 [this](http://perpetualdissent.wordpress.com/2009/07/25/cty-post-rewrite-this-time-wiith-100-added-coherence/):

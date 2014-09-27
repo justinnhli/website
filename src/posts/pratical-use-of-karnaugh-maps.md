@@ -1,6 +1,5 @@
 Title: Pratical Use of Karnaugh Maps
 Date: 2007-09-15 19:24
-Author: justinnhli
 Slug: pratical-use-of-karnaugh-maps
 
 I can't believe I just used a truth table and a Karnaugh Map to help

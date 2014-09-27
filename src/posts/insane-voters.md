@@ -1,6 +1,5 @@
 Title: Insane Voters
 Date: 2009-04-13 05:00
-Author: justinnhli
 Slug: insane-voters
 
 Last week's question: at what level of anthropomorphing can animals take

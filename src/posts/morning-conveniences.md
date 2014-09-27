@@ -1,6 +1,5 @@
 Title: Morning Conveniences
 Date: 2007-09-20 11:45
-Author: justinnhli
 Slug: morning-conveniences
 
 I think someone took a crap outside our dorm last night.

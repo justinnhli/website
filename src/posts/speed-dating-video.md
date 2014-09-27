@@ -1,6 +1,5 @@
 Title: Speed Dating Video
 Date: 2008-04-12 04:57
-Author: justinnhli
 Slug: speed-dating-video
 
 Northwestern recently started its own [Youtube

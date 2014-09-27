@@ -1,6 +1,5 @@
 Title: Car Seating
 Date: 2009-03-18 05:00
-Author: justinnhli
 Slug: car-seating
 
 We have 19 people going on spring break, including myself. I've been

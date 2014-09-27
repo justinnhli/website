@@ -1,6 +1,5 @@
 Title: Batch Quick Adding in Google Calendar
 Date: 2008-09-13 18:15
-Author: justinnhli
 Slug: batch-quick-adding-in-google-calendar
 
 I decided to switch to Google Calendar recently, despite my painfully

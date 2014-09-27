@@ -1,6 +1,5 @@
 Title: Classes! and other Big Things (TM)
 Date: 2007-09-29 01:00
-Author: justinnhli
 Slug: classes-and-other-big-things-tm
 
 Sorry I haven't updated in a while. I'm sort of slipping back into the

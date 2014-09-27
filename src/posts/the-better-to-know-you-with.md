@@ -1,6 +1,5 @@
 Title: The Better To Know You With
 Date: 2008-02-11 06:20
-Author: justinnhli
 Slug: the-better-to-know-you-with
 
 I took this one from a friend. Usually I have little regard for this

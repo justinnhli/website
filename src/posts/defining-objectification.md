@@ -1,6 +1,5 @@
 Title: Defining Objectification
 Date: 2013-06-21 22:17
-Author: justinnhli
 Slug: defining-objectification
 
 I want to discuss an interesting example of objectification. The point

@@ -1,6 +1,5 @@
 Title: In the Beginning... was the Command Line
 Date: 2007-11-23 05:29
-Author: justinnhli
 Slug: in-the-beginning-was-the-command-line
 
 Thanksgiving in a dorm room for the third year in a row. It's not that

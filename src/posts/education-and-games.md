@@ -1,6 +1,5 @@
 Title: Education and Games
 Date: 2009-07-24 02:20
-Author: justinnhli
 Slug: education-and-games
 
 I'm in the middle of CTY, and I'm having a grand time. If I come back

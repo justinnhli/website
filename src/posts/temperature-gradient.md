@@ -1,6 +1,5 @@
 Title: Temperature Gradient
 Date: 2008-01-31 02:35
-Author: justinnhli
 Slug: temperature-gradient
 
 I turned on the heater in my room for a good while today, while keeping

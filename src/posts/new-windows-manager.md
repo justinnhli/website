@@ -1,6 +1,5 @@
 Title: New Windows Manager
 Date: 2010-08-02 03:55
-Author: justinnhli
 Slug: new-windows-manager
 
 <div class="separator" style="clear:both;text-align:center;">

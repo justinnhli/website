@@ -1,6 +1,5 @@
 Title: Characteristics of Free Software Users
 Date: 2008-01-17 05:55
-Author: justinnhli
 Slug: characteristics-of-free-software-users
 
 This
@@ -8,7 +7,7 @@ This
 in my RSS feed a few days ago, and while it talks about free software
 users (of which I definitely am one; the only non-free software on my
 computer right now is Acrobat Reader, Java), it also reminded me of the
-[conversation](http://ninghui48.blogspot.com/2007/11/computer-science-problem-solving.html)
+[conversation](http://justinnhli.com/posts/2007/11/computer-science-problem-solving.html)
 about whether being a computer scientist changes the way I think.
 
 Of the 9 characteristics, I found the following 4 to be the most true:
@@ -30,7 +29,7 @@ about the system I'm using. I did
 [widgets](http://widgets.yahoo.com/widgets/notes) to make life easier,
 but that was the only major modification I made to the system. Compared
 to how I make my own Flubox themes and [heavily mod
-Firefox](http://ninghui48.blogspot.com/2007/12/pimpin-firefox.html),
+Firefox](http://justinnhli.com/posts/2007/12/pimpin-firefox.html),
 those widgets were only minor configurations. I now get easily annoyed
 when I have to run the command line to get the uptime of my laptop in
 Windows (I use conky for Linux). Picky.

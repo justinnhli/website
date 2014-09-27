@@ -1,6 +1,5 @@
 Title: In Defense of a Public Digital Life
 Date: 2014-08-22 14:27
-Author: justinnhli
 Slug: in-defense-of-a-public-digital-life
 
 I am a private person, but you wouldn't know that from looking at my
@@ -15,10 +14,10 @@ offensive](https://twitter.com/justinnhli/status/472743073316077568) and
 This content is also mirrored on Facebook, although on there it's
 visible only to friends of friends. And, of course, I keep a blog, which
 stretches back a good number of years and has covered the
-[same](http://justinnhli.blogspot.com/2010/07/some-shit.html)
-[range](http://justinnhli.blogspot.com/2013/11/mental-objectification.html)
-[of](http://justinnhli.blogspot.com/2013/11/asexuality.html)
-[topics](http://justinnhli.blogspot.com/2012/01/thoughts-on-cognitive-sport.html)
+[same](http://justinnhli.com/posts/2010/07/some-shit.html)
+[range](http://justinnhli.com/posts/2013/11/mental-objectification.html)
+[of](http://justinnhli.com/posts/2013/11/asexuality.html)
+[topics](http://justinnhli.com/posts/2012/01/thoughts-on-cognitive-sport.html)
 as my tweets, if about slightly more personal topics and in more words.
 
 I am about to enter the job market and, despite common sense and advice,

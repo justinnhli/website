@@ -1,6 +1,5 @@
 Title: My Digital Life
 Date: 2010-01-05 23:11
-Author: justinnhli
 Slug: my-digital-life
 
 I took some time over the weekend to collect the pieces of my digital
@@ -201,7 +200,7 @@ Calendar](http://www.google.com/calendar/embed?src=justinnhli@gmail.com)**
 
 <div style="text-align:left;">
 
-**[Blogspot](http://justinnhli.blogspot.com/)**
+**[Blogspot](http://justinnhli.com/posts/)**
 
 </div>
 

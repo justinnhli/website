@@ -1,6 +1,5 @@
 Title: Digital Object Permanence
 Date: 2008-02-04 21:26
-Author: justinnhli
 Slug: digital-object-permanence
 
 Of my four classes and research, philosophy and HCI makes me think the

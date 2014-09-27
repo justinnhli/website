@@ -1,6 +1,5 @@
 Title: Look Ma, No Hands!
 Date: 2008-04-20 17:20
-Author: justinnhli
 Slug: look-ma-no-hands
 
 As my twitter says, this exercise thing is getting to me.

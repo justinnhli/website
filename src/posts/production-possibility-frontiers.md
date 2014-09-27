@@ -1,6 +1,5 @@
 Title: Production-Possibility Frontiers
 Date: 2009-03-02 06:00
-Author: justinnhli
 Slug: production-possibility-frontiers
 
 Last week's question: How does a low gravity environment affect a
@@ -13,7 +12,7 @@ that I don't know a thing about this question. I know nothing about low
 gravity environments, and I know nothing about women's periods.
 
 So instead of giving an answer, I direct you to the
-[comments](http://justinnhli.blogspot.com/2009/02/menstruation-in-space.html#comments)
+[comments](http://justinnhli.com/posts/2009/02/menstruation-in-space.html#comments)
 of that post. There's also a [MetaFilter
 thread](http://ask.metafilter.com/60496/How-does-a-woman-menstruate-in-space)
 devoted to this topic.

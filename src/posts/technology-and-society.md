@@ -1,6 +1,5 @@
 Title: Technology and Society
 Date: 2012-04-13 05:31
-Author: justinnhli
 Slug: technology-and-society
 
 I have been meaning to write about this for a while, but have always

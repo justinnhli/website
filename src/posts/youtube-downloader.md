@@ -1,6 +1,5 @@
 Title: Youtube Downloader
 Date: 2007-12-08 19:35
-Author: justinnhli
 Slug: youtube-downloader
 
 Just a word: if you ever wanted to download a video from Youtube, you

@@ -1,6 +1,5 @@
 Title: Food and Emotion
 Date: 2007-11-05 14:27
-Author: justinnhli
 Slug: food-and-emotion
 
 Yesterday wasn't too good a day for the most part, which is why I

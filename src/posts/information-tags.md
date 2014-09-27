@@ -1,6 +1,5 @@
 Title: Information Tags
 Date: 2007-10-31 00:20
-Author: justinnhli
 Slug: information-tags
 
 I'm working on two big projects this quarter (and hopefully the quarter

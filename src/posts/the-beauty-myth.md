@@ -1,6 +1,5 @@
 Title: The Beauty Myth
 Date: 2008-04-12 06:07
-Author: justinnhli
 Slug: the-beauty-myth
 
 A while ago I wrote a [blog

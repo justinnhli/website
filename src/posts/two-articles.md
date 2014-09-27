@@ -1,6 +1,5 @@
 Title: Two Articles
 Date: 2008-02-29 05:12
-Author: justinnhli
 Slug: two-articles
 
 Read two articles through my feed aggregator, and I have two questions.

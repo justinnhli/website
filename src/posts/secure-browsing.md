@@ -1,6 +1,5 @@
 Title: Secure Browsing
 Date: 2007-10-20 01:38
-Author: justinnhli
 Slug: secure-browsing
 
 I came across a link today, with no context provided as to where it

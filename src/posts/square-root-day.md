@@ -1,6 +1,5 @@
 Title: Square Root Day
 Date: 2009-03-09 05:00
-Author: justinnhli
 Slug: square-root-day
 
 Last week's question: Why is [comparative

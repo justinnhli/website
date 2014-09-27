@@ -1,6 +1,5 @@
 Title: Ivan the Great
 Date: 2008-05-09 22:16
-Author: justinnhli
 Slug: ivan-the-great
 
 A recent article in Northwestern's newspaper:

@@ -1,6 +1,5 @@
 Title: CTY
 Date: 2008-09-08 15:23
-Author: justinnhli
 Slug: cty-2
 
 A lot of things happened during CTY... but first I want to say that I am

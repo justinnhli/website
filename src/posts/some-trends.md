@@ -1,10 +1,9 @@
 Title: Some Trends
 Date: 2011-02-13 01:53
-Author: justinnhli
 Slug: some-trends
 
 I've been playing with graph creators lately. No, not the [mathematical
-graphs](http://justinnhli.blogspot.com/2010/12/sooner-apparently-means-later.html)...
+graphs](http://justinnhli.com/posts/2010/12/sooner-apparently-means-later.html)...
 well, I mean... the *other* type of mathematical graphs (aka. *plots*).
 In particular, I was trying my hands at
 [gnuplot](http://en.wikipedia.org/wiki/Gnuplot), and of course I needed

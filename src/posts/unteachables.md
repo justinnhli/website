@@ -1,6 +1,5 @@
 Title: Unteachables
 Date: 2013-08-19 04:16
-Author: justinnhli
 Slug: unteachables
 
 A partial list of things that cannot be taught:

@@ -1,6 +1,5 @@
 Title: The Alarm Which Cried Fire
 Date: 2008-04-23 13:26
-Author: justinnhli
 Slug: the-alarm-which-cried-fire
 
 There once was a fire alarm who was bored as it sat in a college dorm

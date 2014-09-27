@@ -1,6 +1,5 @@
 Title: Python Bashing
 Date: 2009-05-22 05:00
-Author: justinnhli
 Slug: python-bashing
 
 As a computer science major, it is not surprising that I write a lot of

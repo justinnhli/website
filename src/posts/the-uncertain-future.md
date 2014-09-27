@@ -1,6 +1,5 @@
 Title: The Uncertain Future
 Date: 2008-09-24 18:09
-Author: justinnhli
 Slug: the-uncertain-future
 
 For the past few years, at least since I've entered college, I've always

@@ -1,6 +1,5 @@
 Title: Empty
 Date: 2009-04-08 05:00
-Author: justinnhli
 Slug: empty
 
 <div class="separator" style="clear:both;text-align:center;">

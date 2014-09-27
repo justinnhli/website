@@ -1,6 +1,5 @@
 Title: Vacations
 Date: 2008-09-13 18:56
-Author: justinnhli
 Slug: vacations
 
 -   <span style="font-weight:bold;">1987 - Yosemite</span>. Apparently

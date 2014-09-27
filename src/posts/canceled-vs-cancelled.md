@@ -1,6 +1,5 @@
 Title: Canceled vs. Cancelled
 Date: 2008-06-22 16:10
-Author: justinnhli
 Slug: canceled-vs-cancelled
 
 The first 9 years of my education was in a British setting, and so I

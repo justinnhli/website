@@ -1,6 +1,5 @@
 Title: St. Patty's Day
 Date: 2008-03-18 23:16
-Author: justinnhli
 Slug: st-pattys-day
 
 I was walking home this morning at 5-ish, after finishing a philosophy

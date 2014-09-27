@@ -1,6 +1,5 @@
 Title: Reflections on Teaching
 Date: 2009-08-29 21:02
-Author: justinnhli
 Slug: reflections-on-teaching
 
 I’m not sure when it became apparent to me that liked teaching. I

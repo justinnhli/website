@@ -1,6 +1,5 @@
 Title: Doodles
 Date: 2007-10-09 22:57
-Author: justinnhli
 Slug: doodles
 
 In my design class we were introduced to the free online tool

@@ -1,6 +1,5 @@
 Title: Journalism as Sociology as a Social Science
 Date: 2009-01-09 06:00
-Author: justinnhli
 Slug: journalism-as-sociology-as-a-social-science
 
 There's a trend in journalism which I've noticed in the past couple

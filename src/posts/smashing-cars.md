@@ -1,6 +1,5 @@
 Title: Smashing Cars
 Date: 2010-05-07 03:20
-Author: justinnhli
 Slug: smashing-cars
 
 I'm kinda unhappy with the [latest MythBusters

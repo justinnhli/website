@@ -1,6 +1,5 @@
 Title: Change is Good
 Date: 2007-10-25 17:55
-Author: justinnhli
 Slug: change-is-good
 
 Apparently all my other drafts require lots of writing, and since I have

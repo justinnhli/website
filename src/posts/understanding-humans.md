@@ -1,6 +1,5 @@
 Title: Understanding Humans
 Date: 2008-05-01 15:13
-Author: justinnhli
 Slug: understanding-humans
 
 I've been slowly reading material on multi-agent models of society,

@@ -1,6 +1,5 @@
 Title: Food Taboo
 Date: 2008-01-29 15:37
-Author: justinnhli
 Slug: food-taboo
 
 Here's an interesting thought I had at lunch the other day.

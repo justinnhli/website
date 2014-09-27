@@ -1,6 +1,5 @@
 Title: Nerd: A Retrospective
 Date: 2013-11-13 16:00
-Author: justinnhli
 Slug: nerd-a-retrospective
 
 One of the few instances of shopping I remember as a kid probably also

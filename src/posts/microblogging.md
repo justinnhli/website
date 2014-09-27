@@ -1,6 +1,5 @@
 Title: Microblogging
 Date: 2007-10-09 22:47
-Author: justinnhli
 Slug: microblogging
 
 Today's the first time I've heard of the term, from the news that Google

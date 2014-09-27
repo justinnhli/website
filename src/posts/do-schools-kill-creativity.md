@@ -1,6 +1,5 @@
 Title: Do Schools Kill Creativity?
 Date: 2009-08-30 01:46
-Author: justinnhli
 Slug: do-schools-kill-creativity
 
 I just watched this, and despite wanting to be the "whole purpose of

@@ -1,6 +1,5 @@
 Title: Journaling
 Date: 2008-04-10 06:10
-Author: justinnhli
 Slug: journaling
 
 I'm sorry I haven't updated this as often after spring break. I spent

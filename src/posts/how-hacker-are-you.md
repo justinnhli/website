@@ -1,6 +1,5 @@
 Title: How Hacker Are You?
 Date: 2008-12-31 06:00
-Author: justinnhli
 Slug: how-hacker-are-you
 
 The following is taken from [Appendix

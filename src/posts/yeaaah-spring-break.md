@@ -1,6 +1,5 @@
 Title: Yeaaah Spring Break
 Date: 2008-03-21 19:55
-Author: justinnhli
 Slug: yeaaah-spring-break
 
 I'll be in Tennessee/North Carolina Smoky Mountains National Park for a

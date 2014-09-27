@@ -1,6 +1,5 @@
 Title: Buying Books Episodically
 Date: 2008-02-17 06:40
-Author: justinnhli
 Slug: buying-books-episodically
 
 From [Ars

@@ -1,6 +1,5 @@
 Title: Arches' arches
 Date: 2009-03-30 05:00
-Author: justinnhli
 Slug: arches-arches
 
 Last week's question: what are the fluid dynamics of drafting?

@@ -1,10 +1,9 @@
 Title: Much Ado About Nothing
 Date: 2009-05-15 05:00
-Author: justinnhli
 Slug: much-ado-about-nothing
 
 I would like to offer a concrete example of my stoicism and
-[rationality](http://justinnhli.blogspot.com/2009/02/rational-people.html):
+[rationality](http://justinnhli.com/posts/2009/02/rational-people.html):
 
 I think birthdays are stupid.
 

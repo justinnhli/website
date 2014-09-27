@@ -1,6 +1,5 @@
 Title: Real Life Search Trees
 Date: 2007-10-21 22:17
-Author: justinnhli
 Slug: real-life-search-trees
 
 I've known this for a while, but was reminded of it when I visited the

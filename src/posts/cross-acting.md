@@ -1,6 +1,5 @@
 Title: Cross Acting
 Date: 2010-05-08 21:10
-Author: justinnhli
 Slug: cross-acting
 
 I don't get in trouble often, but I consider myself something of a

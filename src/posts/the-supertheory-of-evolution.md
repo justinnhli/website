@@ -1,6 +1,5 @@
 Title: The Supertheory of Evolution
 Date: 2008-02-25 21:18
-Author: justinnhli
 Slug: the-supertheory-of-evolution
 
 I recently started reading Richard Dawkins' The Selfish Gene. While

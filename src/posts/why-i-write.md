@@ -1,6 +1,5 @@
 Title: Why I Write
 Date: 2008-02-09 02:32
-Author: justinnhli
 Slug: why-i-write
 
 Sometimes I question why I write on this bloody thing, since only about

@@ -1,6 +1,5 @@
 Title: A Narrative of Externalization
 Date: 2008-01-29 15:25
-Author: justinnhli
 Slug: a-narrative-of-externalization
 
 The follow is a response I wrote for my Human Computer Interaction

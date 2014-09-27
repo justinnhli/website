@@ -1,6 +1,5 @@
 Title: Time and Space
 Date: 2007-12-25 05:57
-Author: justinnhli
 Slug: time-and-space
 
 I noticed something while having a conversation with some friends about

@@ -1,6 +1,5 @@
 Title: Dolphins!
 Date: 2009-04-17 05:00
-Author: justinnhli
 Slug: dolphins
 
 Some of you may recall I did a project last year where I had to design a

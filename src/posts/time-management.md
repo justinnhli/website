@@ -1,6 +1,5 @@
 Title: Time Management
 Date: 2008-01-27 05:59
-Author: justinnhli
 Slug: time-management
 
 This quarter is going pretty crazily so far. From high school up till

@@ -1,6 +1,5 @@
 Title: Time for Dinner!
 Date: 2007-12-08 19:32
-Author: justinnhli
 Slug: time-for-dinner
 
 A question for you to ponder: if the dining halls are open for dinner

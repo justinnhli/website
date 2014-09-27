@@ -1,6 +1,5 @@
 Title: Dinner Table Conversations
 Date: 2008-02-15 03:17
-Author: justinnhli
 Slug: dinner-table-conversations
 
 I had two philosophically deep conversations at two recent meals. Only

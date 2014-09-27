@@ -1,6 +1,5 @@
 Title: Survival of the Fittest
 Date: 2008-01-12 01:56
-Author: justinnhli
 Slug: survival-of-the-fittest
 
 This topic has been sitting in my drafts folder for over a month now,

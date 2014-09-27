@@ -1,6 +1,5 @@
 Title: Bugger Blog III
 Date: 2007-12-27 05:05
-Author: justinnhli
 Slug: bugger-blog-iii
 
 Blogger has changed a bit since I started using it, but I'm most annoyed

@@ -1,6 +1,5 @@
 Title: UNIX Nerd Sex
 Date: 2008-05-06 04:35
-Author: justinnhli
 Slug: unix-nerd-sex
 
 Had this in my collection for a while, but I thought I would share it.

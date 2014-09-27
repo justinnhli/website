@@ -1,6 +1,5 @@
 Title: The Problem Science Has with Jesus Christ
 Date: 2008-03-06 16:30
-Author: justinnhli
 Slug: the-problem-science-has-with-jesus-christ
 
 I came across this story multiple times in the past few days. First on

@@ -1,6 +1,5 @@
 Title: All Hail Rain, Sleet, and Snow
 Date: 2009-04-20 05:00
-Author: justinnhli
 Slug: all-hail-rain-sleet-and-snow
 
 Last week's question: are patients in mental institutions allowed to

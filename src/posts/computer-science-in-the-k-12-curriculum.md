@@ -1,6 +1,5 @@
 Title: Computer Science in the K-12 Curriculum
 Date: 2008-12-26 06:00
-Author: justinnhli
 Slug: computer-science-in-the-k-12-curriculum
 
 ACM recently made a statement to the Obama administration about

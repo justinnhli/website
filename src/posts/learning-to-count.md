@@ -1,6 +1,5 @@
 Title: Learning to Count
 Date: 2008-12-04 01:55
-Author: justinnhli
 Slug: learning-to-count
 
 Over dinner tonight I over heard a girl ask another, jokingly, "If it's

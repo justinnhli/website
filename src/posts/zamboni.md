@@ -1,6 +1,5 @@
 Title: Zamboni!!
 Date: 2009-02-02 06:00
-Author: justinnhli
 Slug: zamboni
 
 Last week's question: How can you estimate the speed of a passing plane?
@@ -167,7 +166,7 @@ thing, and after questioning her definitions, I have this:
 
 [![](http://justinnhli.files.wordpress.com/2009/02/e235a-p7010012.jpg?w=300)](http://justinnhli.files.wordpress.com/2009/02/e235a-p7010012.jpg)  
 This was taken while I was at
-[CTY](http://justinnhli.blogspot.com/2008/07/hello-from-stanford.html).
+[CTY](http://justinnhli.com/posts/2008/07/hello-from-stanford.html).
 We were walking back to Stanford from dinner, and passed by the Facebook
 headquarters. From left to right, we have Sam, Lizzy, Hina, Erin, and
 me; Erica's behind the camera. We're all TAs for different courses. You

@@ -1,6 +1,5 @@
 Title: The Labyrinth Called Tech
 Date: 2007-11-18 02:13
-Author: justinnhli
 Slug: the-labyrinth-called-tech
 
 I thought I should show you around the "home" of most of my classes for

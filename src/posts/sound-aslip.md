@@ -1,6 +1,5 @@
 Title: Sound Aslip
 Date: 2008-01-27 06:37
-Author: justinnhli
 Slug: sound-aslip
 
 Allow me to introduce to you my latest invention: Sound Aslip! Don't be

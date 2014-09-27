@@ -1,10 +1,9 @@
 Title: Re: Rational People
 Date: 2009-02-25 06:00
-Author: justinnhli
 Slug: re-rational-people
 
 There were two comments on my previous post [Rational
-People](http://justinnhli.blogspot.com/2009/02/rational-people.html).
+People](http://justinnhli.com/posts/2009/02/rational-people.html).
 
 [Yvonne](http://eyefight.blogspot.com/) wrote:  
 
@@ -114,7 +113,7 @@ the Gods want, is unprovable. To cut to the chase, it's the irrational
 portion of religion that is causing wars and violence.
 
 If you read my [post of
-logic](http://justinnhli.blogspot.com/2009/02/religion-and-logic.html),
+logic](http://justinnhli.com/posts/2009/02/religion-and-logic.html),
 the above statement can be cast as "if people believe in theology, then
 there will be wars". I want to be clear that I'm not denying the
 antecedent. I am not saying that if there's no theology, then there
@@ -134,7 +133,7 @@ there would be more progress in science, medicine, and other fields,
 which might have more immediate, practical effects on the world. Gene
 therapy and stem cell research are both blocked by what I think are
 irrational reasons (see my [abortion
-post](http://justinnhli.blogspot.com/2009/02/abortion.html)), and if it
+post](http://justinnhli.com/posts/2009/02/abortion.html)), and if it
 does lead to a cure for AIDS, that will save more people than religion
 can.
 

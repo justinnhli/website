@@ -1,6 +1,5 @@
 Title: Book Reviews
 Date: 2009-01-21 06:00
-Author: justinnhli
 Slug: book-reviews
 
 I finished 3 books in the last 2 weeks, and I would like to jot down
@@ -25,12 +24,12 @@ was not too bad a read (not including the mathematics part).
 *Flowers for Algernon*, by Daniel Keyes* *
 
 My first fiction book in a while. While I've felt [empathy with the
-character](http://justinnhli.blogspot.com/2009/01/flowers-for-algernon.html)
+character](http://justinnhli.com/posts/2009/01/flowers-for-algernon.html)
 on human relations, I also share his feelings on academia. On talking
 with some people at his local college, the protagonist finds that people
 take their fields too narrowly, and there's not enough overarching work
 being done. I really am afraid of falling into the mold of [Ziman's
-scientists](http://justinnhli.blogspot.com/2009/01/shape-of-educated-man.html),
+scientists](http://justinnhli.com/posts/2009/01/shape-of-educated-man.html),
 knowing "more and more about less and less". That aside, this book is
 worth a read.*  
 *

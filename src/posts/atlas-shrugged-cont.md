@@ -1,6 +1,5 @@
 Title: Atlas Shrugged (cont.)
 Date: 2010-08-06 02:08
-Author: justinnhli
 Slug: atlas-shrugged-cont
 
 I had forgotten about these two points last time. Also, Faye has [posted

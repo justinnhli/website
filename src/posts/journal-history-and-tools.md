@@ -1,6 +1,5 @@
 Title: Journal History and Tools
 Date: 2008-12-12 20:00
-Author: justinnhli
 Slug: journal-history-and-tools
 
 When I first started writing in my personal journal (not to be confused

@@ -1,6 +1,5 @@
 Title: Wizard's First Rule
 Date: 2009-04-03 05:00
-Author: justinnhli
 Slug: wizards-first-rule
 
 > Recently the developers have been discussing the possibility of adding

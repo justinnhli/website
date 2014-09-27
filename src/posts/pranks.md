@@ -1,6 +1,5 @@
 Title: Pranks
 Date: 2008-02-07 04:29
-Author: justinnhli
 Slug: pranks
 
 Two pranks I thought of in the past week.

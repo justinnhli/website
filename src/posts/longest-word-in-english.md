@@ -1,6 +1,5 @@
 Title: Longest Word in English
 Date: 2008-06-06 01:40
-Author: justinnhli
 Slug: longest-word-in-english
 
 I was working on my Speech to Text engine, and I needed a cutoff for the

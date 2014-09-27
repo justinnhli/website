@@ -1,6 +1,5 @@
 Title: Smile!
 Date: 2009-03-27 05:00
-Author: justinnhli
 Slug: smile
 
 I had this conversation more than once with a GSW student this quarter:  

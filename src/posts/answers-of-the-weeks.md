@@ -1,6 +1,5 @@
 Title: Answers of the Weeks
 Date: 2009-08-24 17:20
-Author: justinnhli
 Slug: answers-of-the-weeks
 
 **What is the difference between hurricanes, typhoons, and maelstroms?**

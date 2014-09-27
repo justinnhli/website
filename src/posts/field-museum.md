@@ -1,6 +1,5 @@
 Title: Field Museum
 Date: 2008-12-08 22:45
-Author: justinnhli
 Slug: field-museum
 
 Continuing my tradition of skipping campus during finals week, I want to

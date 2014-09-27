@@ -1,6 +1,5 @@
 Title: Computer Science in Epistemology
 Date: 2008-01-08 01:35
-Author: justinnhli
 Slug: computer-science-in-epistemology
 
 I had my first epistemology class today, and while we didn't talk about

@@ -1,6 +1,5 @@
 Title: Ginny Ryerson
 Date: 2008-02-13 21:54
-Author: justinnhli
 Slug: ginny-ryerson
 
 I watched Rocket Science this Sunday, at a free showing hosted by

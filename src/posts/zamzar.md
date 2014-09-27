@@ -1,6 +1,5 @@
 Title: Zamzar
 Date: 2007-10-23 04:18
-Author: justinnhli
 Slug: zamzar
 
 One problem I face constantly is that file formats do not necessarily

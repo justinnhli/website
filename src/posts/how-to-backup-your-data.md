@@ -1,10 +1,9 @@
 Title: How to Backup Your Data
 Date: 2007-12-18 17:04
-Author: justinnhli
 Slug: how-to-backup-your-data
 
 Remember how I managed to [fry my USB
-port](http://ninghui48.blogspot.com/2007/11/i-was-shocked.html) with a
+port](http://justinnhli.com/posts/2007/11/i-was-shocked.html) with a
 little ESD? The most immediate problem is that I could not use my USB
 mouse, and had to stay with my trackpad for a few weeks. I also knew at
 the time, however, that I would have a hard time backing up my data to a

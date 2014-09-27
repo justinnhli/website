@@ -1,12 +1,11 @@
 Title: Two Book Ethics
 Date: 2009-02-04 06:00
-Author: justinnhli
 Slug: two-book-ethics
 
 This has been sitting in my draft box for a while.
 
 I read Flowers for Algernon (FoA) [not too long
-ago](http://justinnhli.blogspot.com/2009/01/flowers-for-algernon.html),
+ago](http://justinnhli.com/posts/2009/01/flowers-for-algernon.html),
 and then read Ender's Shadow (ES) two weeks or so ago, and realized that
 both authors are playing off the same theme: that of giving up long life
 for extreme intelligence. There were some side effects too - a decreased
@@ -45,7 +44,7 @@ scientific progress.
 I see why this is attractive now: it's a very transhumanist idea.
 Valuing intelligence above many things and not caring if we are
 [displaced by
-others](http://justinnhli.blogspot.com/2008/01/survival-of-fittest.html),
+others](http://justinnhli.com/posts/2008/01/survival-of-fittest.html),
 the leadership of super-geniuses doesn't bother me at all.
 
 My only regret would probably be, after being brilliant for a short

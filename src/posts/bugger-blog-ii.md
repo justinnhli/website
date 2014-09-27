@@ -1,6 +1,5 @@
 Title: Bugger Blog II
 Date: 2007-12-01 04:56
-Author: justinnhli
 Slug: bugger-blog-ii
 
 I was setting up a new Gmail account today, and wanted import all my

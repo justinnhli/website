@@ -1,6 +1,5 @@
 Title: Understanding Privilege: An Attempt
 Date: 2013-11-19 14:51
-Author: justinnhli
 Slug: understanding-privilege-an-attempt
 
 *The usual disclaimers about not seeing outside my life experience
@@ -21,7 +20,7 @@ privileges](http://en.wikipedia.org/wiki/Heteronormativity) and
 privilege](http://en.wikipedia.org/wiki/Able-bodied_privilege).
 
 Coming from a technical background as a straight (if
-[asexual](http://justinnhli.blogspot.com/2013/11/asexuality.html)) Asian
+[asexual](http://justinnhli.com/posts/2013/11/asexuality.html)) Asian
 male, I have never quite understood the idea of privilege. To me, it
 seems like a mere reframing of the same issues around gender, race,
 sexuality, and disability discrimination. Maybe it makes the societal

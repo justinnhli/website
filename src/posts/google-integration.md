@@ -1,6 +1,5 @@
 Title: Google Integration
 Date: 2007-12-13 06:01
-Author: justinnhli
 Slug: google-integration
 
 I like Google, I really do. That I'm writing this on Blogger and not on

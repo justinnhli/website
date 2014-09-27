@@ -1,6 +1,5 @@
 Title: PostSecret Graphology
 Date: 2008-01-15 15:33
-Author: justinnhli
 Slug: postsecret-graphology
 
 The postcards on PostSecret, seeing that they contain secrets, are

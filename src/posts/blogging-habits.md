@@ -1,6 +1,5 @@
 Title: Blogging Habits
 Date: 2007-10-21 16:09
-Author: justinnhli
 Slug: blogging-habits
 
 I've been using Blogger for the past month, and I like it a lot.

@@ -1,6 +1,5 @@
 Title: The State of Things
 Date: 2008-06-19 01:31
-Author: justinnhli
 Slug: the-state-of-things
 
 Hi! I have written in a long while, so I thought I'd talk about what

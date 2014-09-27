@@ -1,11 +1,10 @@
 Title: Intermediate
 Date: 2010-05-15 23:38
-Author: justinnhli
 Slug: intermediate
 
 I have another post in the writing, but I want so share my discovery
 that my [experiment on
-Craigslist](http://justinnhli.blogspot.com/2010/05/cross-acting.html) is
+Craigslist](http://justinnhli.com/posts/2010/05/cross-acting.html) is
 no unique. At least two other people have done it before: [Simon
 Owens](http://bloggasm.com/you-chances-of-getting-laid-through-craigslist-a-bloggasm-case-study),
 whose results were "tame" like mine, and [Jason

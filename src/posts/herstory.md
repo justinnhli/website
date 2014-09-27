@@ -1,6 +1,5 @@
 Title: Herstory
 Date: 2011-03-23 22:31
-Author: justinnhli
 Slug: herstory
 
 I read a book recently (or maybe it was the internet; I don't remember)

@@ -1,6 +1,5 @@
 Title: One Hand Keyboard
 Date: 2007-11-15 02:16
-Author: justinnhli
 Slug: one-hand-keyboard
 
 A while (a <span style="font-style:italic;">long</span> while) back I
@@ -12,7 +11,7 @@ type as you would on a cellphone.
 
 There are several advantages to this over the mirrored keyboard. One is
 that there is no new mapping to learn; everyone (well, everyone [with a
-cell phone](http://ninghui48.blogspot.com/2007/10/voip.html)) would know
+cell phone](http://justinnhli.com/posts/2007/10/voip.html)) would know
 the configuration. The second advantage is that there would be less
 finger movements for each word, which (like the last point) amounts to
 the system being easier to learn. In the mirrored keyboard, each key

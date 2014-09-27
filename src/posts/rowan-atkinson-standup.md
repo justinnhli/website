@@ -1,6 +1,5 @@
 Title: Rowan Atkinson Standup
 Date: 2008-02-19 19:41
-Author: justinnhli
 Slug: rowan-atkinson-standup
 
 With regards to posting, it would seem that I'm a little behind. That

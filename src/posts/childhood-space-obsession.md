@@ -1,6 +1,5 @@
 Title: Childhood Space Obsession
 Date: 2007-09-15 15:03
-Author: justinnhli
 Slug: childhood-space-obsession
 
 I recently learned that Google Earth now has a Sky feature, where you

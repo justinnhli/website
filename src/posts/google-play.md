@@ -1,12 +1,11 @@
 Title: Google Play
 Date: 2007-12-23 06:10
-Author: justinnhli
 Slug: google-play
 
 Something about this being the 100th post.
 
 You should check out the comments to my [stalker
-post](http://ninghui48.blogspot.com/2007/12/guide-to-stalking-by-example.html).
+post](http://justinnhli.com/posts/2007/12/guide-to-stalking-by-example.html).
 
 Following Henry's example, I googled my username. Most of the sites I
 know, but I also found a link from
@@ -22,6 +21,6 @@ without quotes.
 
 Finally, [another funny
 video](http://www.youtube.com/watch?v=hedY97tVRCk) from
-[Courtney](http://ninghui48.blogspot.com/2007/11/wall-e.html). I
+[Courtney](http://justinnhli.com/posts/2007/11/wall-e.html). I
 personally think it's genius.
 

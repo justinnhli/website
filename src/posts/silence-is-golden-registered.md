@@ -1,6 +1,5 @@
 Title: Silence is Golden... Registered?
 Date: 2008-01-01 16:19
-Author: justinnhli
 Slug: silence-is-golden-registered
 
 Ah, I caught up. That was fast.

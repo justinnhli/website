@@ -1,6 +1,5 @@
 Title: Reflections on Wittgenstein
 Date: 2013-05-19 04:38
-Author: justinnhli
 Slug: reflections-on-wittgenstein
 
 I just finished [David Stern's

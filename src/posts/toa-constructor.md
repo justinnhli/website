@@ -1,6 +1,5 @@
 Title: ToA Constructor
 Date: 2007-11-22 01:38
-Author: justinnhli
 Slug: toa-constructor
 
 Now that I know what my natural language processing project is, I should

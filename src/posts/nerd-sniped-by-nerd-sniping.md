@@ -1,6 +1,5 @@
 Title: Nerd Sniped by Nerd Sniping
 Date: 2013-08-09 21:40
-Author: justinnhli
 Slug: nerd-sniped-by-nerd-sniping
 
 I got [nerd sniped](http://xkcd.com/356/) today reading [*Paul

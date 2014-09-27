@@ -1,6 +1,5 @@
 Title: Domain Mapping
 Date: 2009-02-11 06:00
-Author: justinnhli
 Slug: domain-mapping
 
 In my Sociology of Religion course we recently finished Christian

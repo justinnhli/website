@@ -1,6 +1,5 @@
 Title: The Future
 Date: 2007-11-06 06:45
-Author: justinnhli
 Slug: the-future
 
 Minority Report has been on my mind lately, probably because of that
@@ -55,5 +54,5 @@ again, allows the film to maintain internal consistency.
 
 So that's one reason why I like The Jacket more. And I suppose I should
 credit my attraction to [random and slightly awkward
-romances](http://ninghui48.blogspot.com/2007/09/confession.html).
+romances](http://justinnhli.com/posts/2007/09/confession.html).
 

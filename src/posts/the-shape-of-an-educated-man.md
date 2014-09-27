@@ -1,10 +1,9 @@
 Title: The Shape of an Educated Man
 Date: 2009-01-14 06:00
-Author: justinnhli
 Slug: the-shape-of-an-educated-man
 
 I wrote about [educating a universal
-man](http://justinnhli.blogspot.com/2008/12/homo-universalis.html) last
+man](http://justinnhli.com/posts/2008/12/homo-universalis.html) last
 time. Last week, I had the strange idea of representing the amount of
 knowledge on a graph.
 

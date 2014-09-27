@@ -1,6 +1,5 @@
 Title: Text Based Mind Map
 Date: 2007-10-21 17:59
-Author: justinnhli
 Slug: text-based-mind-map
 
 Last year for my learning and organizational change class I visited

@@ -1,6 +1,5 @@
 Title: Scattered Thoughts
 Date: 2011-09-12 03:04
-Author: justinnhli
 Slug: scattered-thoughts
 
 In lieu of writing single posts about each of these topics (which would

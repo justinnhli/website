@@ -1,6 +1,5 @@
 Title: Climbing Terms
 Date: 2010-07-12 20:31
-Author: justinnhli
 Slug: climbing-terms
 
 For future reference, if you climbed a route with one or more the first

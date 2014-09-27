@@ -1,6 +1,5 @@
 Title: Tracking Finances
 Date: 2008-06-20 01:27
-Author: justinnhli
 Slug: tracking-finances
 
 I was buying something the other day, and in the change was a five

@@ -1,6 +1,5 @@
 Title: Hello from Stanford
 Date: 2008-07-06 07:49
-Author: justinnhli
 Slug: hello-from-stanford
 
 Hello!

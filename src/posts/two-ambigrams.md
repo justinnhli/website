@@ -1,6 +1,5 @@
 Title: Two Ambigrams
 Date: 2013-11-21 14:26
-Author: justinnhli
 Slug: two-ambigrams
 
 Earlier this year I
@@ -14,7 +13,7 @@ ambigrams played a major role. Incidentally, the [ambigrams in that
 book](http://www.johnlangdon.net/angelsanddemons.php) were designed by
 [John Langdon](http://www.johnlangdon.net/), who commented on [my
 previous
-post](http://justinnhli.blogspot.com/2008/01/ambigrams-and-psychology.html)
+post](http://justinnhli.com/posts/2008/01/ambigrams-and-psychology.html)
 about ambigrams and psychology. I designed my first ambigram back in
 2004, and have done several more since, mostly as gifts to people.
 

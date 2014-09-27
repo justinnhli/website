@@ -1,6 +1,5 @@
 Title: I was Shocked
 Date: 2007-11-29 19:17
-Author: justinnhli
 Slug: i-was-shocked
 
 Well, it looks like I have managed to shock my laptop's internal USB hub

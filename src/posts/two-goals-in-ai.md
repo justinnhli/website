@@ -1,6 +1,5 @@
 Title: Two Goals in AI
 Date: 2007-12-03 01:16
-Author: justinnhli
 Slug: two-goals-in-ai
 
 This is just my opinion, and I haven't read anything to support it, but

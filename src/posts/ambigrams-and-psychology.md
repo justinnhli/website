@@ -1,6 +1,5 @@
 Title: Ambigrams and Psychology
 Date: 2008-01-02 05:29
-Author: justinnhli
 Slug: ambigrams-and-psychology
 
 I'm more than a little behind in posting.

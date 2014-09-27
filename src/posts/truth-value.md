@@ -1,6 +1,5 @@
 Title: Truth Value
 Date: 2009-02-27 06:00
-Author: justinnhli
 Slug: truth-value
 
 I used to lie a lot. For most of my elementary school education I was at

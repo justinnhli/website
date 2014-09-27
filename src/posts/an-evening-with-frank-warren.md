@@ -1,6 +1,5 @@
 Title: An Evening with Frank Warren
 Date: 2009-12-08 05:18
-Author: justinnhli
 Slug: an-evening-with-frank-warren
 
 Frank Warren, the guy behind
@@ -23,7 +22,7 @@ blog, as well as some email responses people have had.
 For his talks, he spends some time talking about the origins of the
 project, then sharing some secrets which were never posted or published
 in his books, and talks more about the [appeal of human
-connection](http://justinnhli.blogspot.com/2009/04/stranger-appeal.html).
+connection](http://justinnhli.com/posts/2009/04/stranger-appeal.html).
 At the end, people from the audience are encouraged to share their
 secrets on the spot.
 
@@ -54,7 +53,7 @@ Since I haven't had a complete post on PostSecret before, I thought I
 would also share some of the secrets which resonated with me from the
 blog. My old dorm did do a similar event, and you can [read some of what
 my (really) immediate neighbors
-wrote](http://justinnhli.blogspot.com/2007/11/cyberpunk.html). These are
+wrote](http://justinnhli.com/posts/2007/11/cyberpunk.html). These are
 from the official site:
 
 -   "I want to tell you that i love you, but I'm afraid of the silence

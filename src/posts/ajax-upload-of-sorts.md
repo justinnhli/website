@@ -1,6 +1,5 @@
 Title: AJAX Upload (Of Sorts)
 Date: 2008-03-09 08:25
-Author: justinnhli
 Slug: ajax-upload-of-sorts
 
 I've said before that I'm working on a project to put a graphical front

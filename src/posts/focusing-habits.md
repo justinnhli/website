@@ -1,6 +1,5 @@
 Title: Focusing Habits
 Date: 2008-02-04 01:43
-Author: justinnhli
 Slug: focusing-habits
 
 I had the opportunity to watch people work in the past few days (as I am

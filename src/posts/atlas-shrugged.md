@@ -1,6 +1,5 @@
 Title: Atlas Shrugged
 Date: 2010-07-25 07:06
-Author: justinnhli
 Slug: atlas-shrugged
 
 > Is a man not entitled to the sweat of his brow?
@@ -23,7 +22,7 @@ Shrugged. I myself finished the book last week, after my friend
 [Faye](http://fayezor.blogspot.com/) prompted me to read one chapter. It
 was the original book I wanted to read of Rand's, before its
 unavailability from the library forced me to read [The
-Fountainhead](http://justinnhli.blogspot.com/2009/08/fountainhead.html)
+Fountainhead](http://justinnhli.com/posts/2009/08/fountainhead.html)
 instead. I thought I would start my conversation with Faye by writing
 this post.
 

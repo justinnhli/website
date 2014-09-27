@@ -1,6 +1,5 @@
 Title: Art
 Date: 2008-08-11 10:05
-Author: justinnhli
 Slug: art
 
 Haven't posted in a while. CTY went well, but I'll save that for a bit

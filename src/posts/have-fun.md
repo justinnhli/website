@@ -1,6 +1,5 @@
 Title: Have Fun!
 Date: 2008-04-20 05:19
-Author: justinnhli
 Slug: have-fun
 
 I realized (some time ago) that I tend to use "have fun" as a goodbye,

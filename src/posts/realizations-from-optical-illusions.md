@@ -1,6 +1,5 @@
 Title: Realizations from Optical Illusions
 Date: 2007-10-05 04:53
-Author: justinnhli
 Slug: realizations-from-optical-illusions
 
 That's a mouthful. We were doing some sensory (mostly optical) illusions

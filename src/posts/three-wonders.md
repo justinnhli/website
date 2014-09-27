@@ -1,6 +1,5 @@
 Title: Three Wonders
 Date: 2008-01-25 03:33
-Author: justinnhli
 Slug: three-wonders
 
 I wonder if...

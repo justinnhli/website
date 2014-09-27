@@ -1,11 +1,10 @@
 Title: Real World Problem Solving
 Date: 2007-11-25 01:45
-Author: justinnhli
 Slug: real-world-problem-solving
 
 I had written before about how programmers often [use existing solutions
 and implement it
-digitally](http://ninghui48.blogspot.com/2007/11/computer-science-problem-solving.html)
+digitally](http://justinnhli.com/posts/2007/11/computer-science-problem-solving.html)
 for some cause. A few weeks ago in my design class we had a guest
 lecture on designing for the environment. One of the things the lecturer
 said (one of the two things I wrote down) was that the current model of

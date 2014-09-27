@@ -1,6 +1,5 @@
 Title: Bash
 Date: 2008-11-02 01:55
-Author: justinnhli
 Slug: bash
 
 No, not the [verb](http://en.wiktionary.org/wiki/bash), nor the

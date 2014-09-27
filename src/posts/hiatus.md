@@ -1,6 +1,5 @@
 Title: Hiatus
 Date: 2008-03-11 05:46
-Author: justinnhli
 Slug: hiatus
 
 Due the the amount of work, I will be taking a brief hiatus from

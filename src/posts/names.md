@@ -1,6 +1,5 @@
 Title: Names
 Date: 2008-04-03 22:29
-Author: justinnhli
 Slug: names
 
 Today my professor asked me for the name of another student. We were

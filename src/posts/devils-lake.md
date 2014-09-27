@@ -1,6 +1,5 @@
 Title: Devil's Lake
 Date: 2007-10-15 16:39
-Author: justinnhli
 Slug: devils-lake
 
 No, it's not filled with fire. [Devil's

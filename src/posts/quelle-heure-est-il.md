@@ -1,6 +1,5 @@
 Title: Quelle heure est-il?
 Date: 2007-10-29 15:32
-Author: justinnhli
 Slug: quelle-heure-est-il
 
 I don't own a watch, and don't have a clock in my room. If I'm out and

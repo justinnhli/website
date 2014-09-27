@@ -1,6 +1,5 @@
 Title: Google as a Social Force
 Date: 2010-01-13 03:49
-Author: justinnhli
 Slug: google-as-a-social-force
 
 Google has increasingly been involved in social and political issues,

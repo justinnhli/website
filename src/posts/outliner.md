@@ -1,6 +1,5 @@
 Title: Outliner
 Date: 2007-12-11 04:33
-Author: justinnhli
 Slug: outliner
 
 Since I'm basically done with my natural language processing project
@@ -8,7 +7,7 @@ this quarter, I thought I would write down an idea I have for my project
 next quarter for practicum.
 
 Either I would do the [ToA
-Constructor](http://ninghui48.blogspot.com/2007/11/toa-constructor.html),
+Constructor](http://justinnhli.com/posts/2007/11/toa-constructor.html),
 or I would write something which can extract the structure of a
 document.
 

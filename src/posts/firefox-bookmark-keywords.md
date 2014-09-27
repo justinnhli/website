@@ -1,6 +1,5 @@
 Title: Firefox Bookmark Keywords
 Date: 2008-03-03 05:23
-Author: justinnhli
 Slug: firefox-bookmark-keywords
 
 I had talked before about using Firefox's bookmark keywords, where you

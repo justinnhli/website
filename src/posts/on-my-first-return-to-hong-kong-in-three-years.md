@@ -1,6 +1,5 @@
 Title: On My First Return to Hong Kong in Three Years
 Date: 2011-11-21 04:34
-Author: justinnhli
 Slug: on-my-first-return-to-hong-kong-in-three-years
 
 Potential titles for travel books on Hong Kong

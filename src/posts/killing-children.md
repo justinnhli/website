@@ -1,6 +1,5 @@
 Title: Killing Children
 Date: 2009-05-20 05:00
-Author: justinnhli
 Slug: killing-children
 
 It is commonly known that a lot of computer jargon are tongue in cheek,

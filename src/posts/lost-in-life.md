@@ -1,6 +1,5 @@
 Title: Lost in Life
 Date: 2008-02-20 19:10
-Author: justinnhli
 Slug: lost-in-life
 
 I'm feeling a little lost right now.

@@ -1,10 +1,9 @@
 Title: Cyberpunk
 Date: 2007-11-21 17:11
-Author: justinnhli
 Slug: cyberpunk
 
 For some reason I kinda like the [genre of
-cyberpunk](http://ninghui48.blogspot.com/2007/11/in-beginning-was-command-line.html).
+cyberpunk](http://justinnhli.com/posts/2007/11/in-beginning-was-command-line.html).
 I haven't read a lot of literature or watched a lot of movies in the
 area, but I like the idea. The film the Matrix, the anime series Ghost
 in a Shell, books like the Neuromancer, all fall in this category. In my
@@ -12,7 +11,7 @@ in a Shell, books like the Neuromancer, all fall in this category. In my
 about humans in a world of machines and telecommunications.
 
 I had a thought about that today. I had [written about
-PostSecret](http://ninghui48.blogspot.com/2007/11/im-shy-not-antisocial.html)
+PostSecret](http://justinnhli.com/posts/2007/11/im-shy-not-antisocial.html)
 before; recently my dorm did a similar event, with residents writing on
 cards and the cards being posted in our lobby. I would like to share
 some of them:

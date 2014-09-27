@@ -1,6 +1,5 @@
 Title: Michigan Updates
 Date: 2009-09-25 04:51
-Author: justinnhli
 Slug: michigan-updates
 
 Alright, I've finally decided to sit down and write in more detail about
@@ -85,7 +84,7 @@ after the first day, when I think back to see what I could improve, I
 didn't see anything that I needed to adapt to the new format. Actually,
 this is now not entirely true - I think I need to do a better job of
 emphasizing [why these concepts are
-important](http://justinnhli.blogspot.com/2009/08/reflections-on-teaching.html),
+important](http://justinnhli.com/posts/2009/08/reflections-on-teaching.html),
 in the world of computer science. It's much harder to keep a room of 30
 college students than a room of 14 6th graders engaged, especially when
 you don't have much flexibility on what to teach.

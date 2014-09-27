@@ -1,6 +1,5 @@
 Title: Ex Nihilo
 Date: 2007-11-27 05:50
-Author: justinnhli
 Slug: ex-nihilo
 
 The Latin phrase <span style="font-style:italic;">ex nihilo</span> is
@@ -28,7 +27,7 @@ the least about.
 
 This next one is more in my field. A while back I had talked about a
 theory of learning called [cased-based
-reasoning](http://ninghui48.blogspot.com/2007/10/cased-based-reasoning.html).
+reasoning](http://justinnhli.com/posts/2007/10/cased-based-reasoning.html).
 As I said, I like the theory, but there remains the caveat of the one
 original rule we generalize from. Somehow in newborn babies there is a
 first an initial case from which all other problems can be mapped down

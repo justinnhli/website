@@ -1,6 +1,5 @@
 Title: Two Truths and A Lie
 Date: 2010-06-29 05:43
-Author: justinnhli
 Slug: two-truths-and-a-lie
 
 I [just tweeted](http://twitter.com/justinnhli/statuses/17309431598) a

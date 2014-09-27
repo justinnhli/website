@@ -1,6 +1,5 @@
 Title: Marriage and the Society
 Date: 2008-05-19 03:00
-Author: justinnhli
 Slug: marriage-and-the-society
 
 One of [the](http://www.mercurynews.com/breakingnews/ci_9269719)

@@ -1,6 +1,5 @@
 Title: Gooey Pipes
 Date: 2008-02-16 01:54
-Author: justinnhli
 Slug: gooey-pipes
 
 It's a stroke of fate that I first found this topic in an

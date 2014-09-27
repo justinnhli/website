@@ -1,6 +1,5 @@
 Title: Pause
 Date: 2009-06-03 05:00
-Author: justinnhli
 Slug: pause
 
 Due to time constraints from class (heh) and social activities related

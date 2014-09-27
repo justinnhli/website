@@ -1,6 +1,5 @@
 Title: Linux in the News
 Date: 2008-02-01 03:05
-Author: justinnhli
 Slug: linux-in-the-news
 
 Several interesting Linux articles came floating my way these past few

@@ -1,6 +1,5 @@
 Title: A Rambling on Effortlessness
 Date: 2013-11-23 14:42
-Author: justinnhli
 Category: ifttt
 Slug: a-rambling-on-effortlessness
 
@@ -63,7 +62,7 @@ however, think that it was easy afterwards.
 [Psychologists](http://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow#Two_selves)
 call this the *remembering self*, as opposed to the *experiencing self*.
 I suspect it's the same reason I feel
-[protected](http://justinnhli.blogspot.com/2012/11/generative-protection-aka-graduate.html).
+[protected](http://justinnhli.com/posts/2012/11/generative-protection-aka-graduate.html).
 I often know how much time I *actually* put into research, but
 afterwards it always seems like it's nothing. When I first realized
 this, I
@@ -108,7 +107,7 @@ someone who does something for amusement - and to that person's
 surprise, other people notice these small things. There's a sense of
 playfulness to this, drawing in the idea of games. This is why, I think,
 you [cannot
-teach](http://justinnhli.blogspot.com/2013/08/unteachables.html) someone
+teach](http://justinnhli.com/posts/2013/08/unteachables.html) someone
 to be effortless. You cannot tell someone to be *playful* - or as Karse
 would put it, "to allow for possibility whatever the cost to oneself",
 as opposed to seriousness, which is to "press for specified conclusion."

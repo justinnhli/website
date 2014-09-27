@@ -1,6 +1,5 @@
 Title: Eliza the Psychologist
 Date: 2009-05-25 05:00
-Author: justinnhli
 Slug: eliza-the-psychologist
 
 Last week's question: Why do children like playing on swings and slides?
@@ -22,7 +21,7 @@ like to propose the following partial solutions:
 Some adults (like me!) still go and play on slides and swings, and
 personally I think it's for much the same reason. Of course, as
 herion\_e [pointed
-out](http://justinnhli.blogspot.com/2009/05/swinger-party.html#c4447424143984291679),
+out](http://justinnhli.com/posts/2009/05/swinger-party.html#c4447424143984291679),
 there's also the nostalgia for us, too.
 
 Building on the last point above, this week's question is: why do humans

@@ -1,12 +1,11 @@
 Title: Teaching Active Learning
 Date: 2013-11-03 15:18
-Author: justinnhli
 Slug: teaching-active-learning
 
 It’s [been a little
-while](http://justinnhli.blogspot.com/2009/08/reflections-on-teaching.html)
+while](http://justinnhli.com/posts/2009/08/reflections-on-teaching.html)
 since I’ve [talked about
-teaching](http://justinnhli.blogspot.com/2009/09/michigan-updates.html).
+teaching](http://justinnhli.com/posts/2009/09/michigan-updates.html).
 Although I only taught for one more semester after that last post, I got
 involved with the [Center for Research on Learning and Teaching
 (CRLT)](http://www.crlt.umich.edu/) to train new non-faculty instructors

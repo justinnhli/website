@@ -1,6 +1,5 @@
 Title: Packaging Folding
 Date: 2008-01-10 00:14
-Author: justinnhli
 Slug: packaging-folding
 
 I get annoyed when, after I finish a pack of chips, I've left with the
