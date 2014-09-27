@@ -18,8 +18,8 @@ IGNORE_FILES = (
 
 ARCHIVES_SAVE_AS = 'writings.html'
 
-ARTICLE_URL = "posts/{date:%Y}/{date:%m}/{date:%d}/{slug}.html"
-ARTICLE_SAVE_AS = "posts/{date:%Y}/{date:%m}/{date:%d}/{slug}.html"
+ARTICLE_URL = "posts/{date:%Y}/{date:%m}/{slug}.html"
+ARTICLE_SAVE_AS = "posts/{date:%Y}/{date:%m}/{slug}.html"
 
 RELATIVE_URLS = True
 
