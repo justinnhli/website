@@ -58,7 +58,7 @@ into the *ne* in *neale*, and the *le* in *neale* forms the *la* in
 *laura*. Here is the combined circle again, with some highlighting:
 *laura* in red, *neale* in blue, and the overlap in purple.
 
-![rotational chain ambigram of "laura" and "neale", colored to show overlap]({filename}../files/two-ambigrams/colored-circle.png)
+![Rotational chain ambigram of "laura" and "neale", colored to show overlap]({filename}../files/two-ambigrams/colored-circle.png)
 
 The *r*/*n* were easy to merge; the crux of the design was in the
 *a*/*e*. It had to look good enough as both for each name to be
