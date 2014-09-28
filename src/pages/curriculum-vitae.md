@@ -15,37 +15,37 @@ title: Curriculum Vitae
 <ul class="cv-vitae-list">
 	<li>
 		<span class="cv-me">Li, J.</span>; and <a href="http://ai.eecs.umich.edu/people/laird/">Laird, J. E.</a> (2013).
-		<a class="cv-title" href="/files/Li2013TheComputationalProblem.pdf">The Computational Problem of Prospective Memory Retrieval</a>.
+		<a class="cv-title" href="/files/publications/Li2013TheComputationalProblem.pdf">The Computational Problem of Prospective Memory Retrieval</a>.
 		In <span class="cv-booktitle">Proceedings of the 12<sup>th</sup> International Conference on Cogntive Modeling (ICCM)</span>, 155-160.
 		Ottawa, Canada.
 	</li>
 	<li>
 		<span class="cv-me">Li, J.</span>; and <a href="http://ai.eecs.umich.edu/people/laird/">Laird, J. E.</a> (2013).
-		<a class="cv-title" href="/files/Li2013PreemptiveStrategiesFor.pdf">Preemptive Strategies for Overcoming the Forgetting of Goals</a>.
+		<a class="cv-title" href="/files/publications/Li2013PreemptiveStrategiesFor.pdf">Preemptive Strategies for Overcoming the Forgetting of Goals</a>.
 		In <span class="cv-booktitle">Proceedings of the 27<sup>th</sup> AAAI Conference on Artificial Intelligence (AAAI)</span>, 1234-1240.
 		Bellevue, WA.
 	</li>
 	<li>
 		<a href="http://derbinsky.info/">Derbinsky, N.</a>; <span class="cv-me">Li, J.</span>; and <a href="http://ai.eecs.umich.edu/people/laird/">Laird, J. E.</a> (2012).
-		<a class="cv-title" href="/files/Derbinsky2012AlgorithmsForScaling.pdf">Algorithms for Scaling in a General Episodic Memory (Extended Abstract)</a>.
+		<a class="cv-title" href="/files/publications/Derbinsky2012AlgorithmsForScaling.pdf">Algorithms for Scaling in a General Episodic Memory (Extended Abstract)</a>.
 		In <span class="cv-booktitle">Proceedings of the 11<sup>th</sup> International Conference on Autonomous Agents and Multiagent Systems (AAMAS)</span>, 1387-1388.
 		Valencia, Spain.
 	</li>
 	<li>
 		<a href="http://derbinsky.info/">Derbinsky, N.</a>; <span class="cv-me">Li, J.</span>; and <a href="http://ai.eecs.umich.edu/people/laird/">Laird, J. E.</a> (2012).
-		<a class="cv-title" href="/files/Derbinsky2012AMultiDomain.pdf">A Multi-Domain Evaluation of Scaling in a General Episodic Memory.</a>
+		<a class="cv-title" href="/files/publications/Derbinsky2012AMultiDomain.pdf">A Multi-Domain Evaluation of Scaling in a General Episodic Memory.</a>
 		In <span class="cv-booktitle">Proceedings of the 26<sup>th</sup> AAAI Conference on Artificial Intelligence (AAAI)</span>, 193-199.
 		Toronto, Canada.
 	</li>
 	<li>
 		<span class="cv-me">Li, J.</span>; <a href="http://derbinsky.info/">Derbinsky, N.</a>; and <a href="http://ai.eecs.umich.edu/people/laird/">Laird, J. E.</a> (2012).
-		<a class="cv-title" href="/files/Li2012FunctionalInteractionsBetween.pdf">Functional Interactions between Memory and Recognition Judgments.</a>
+		<a class="cv-title" href="/files/publications/Li2012FunctionalInteractionsBetween.pdf">Functional Interactions between Memory and Recognition Judgments.</a>
 		In <span class="cv-booktitle">Proceedings of the 26<sup>th</sup> AAAI Conference on Artificial Intelligence (AAAI)</span>, 228-234.
 		Toronto, Canada.
 	</li>
 	<li>
 		<span class="cv-me">Li, J.</span> and <a href="http://ai.eecs.umich.edu/people/laird/">Laird, J. E.</a> (2011).
-		<a class="cv-title" href="/files/Li2011PreliminaryEvaluationOf.pdf">Preliminary Evaluation of Long-term Memories for Fulfilling Delayed Intentions</a>.
+		<a class="cv-title" href="/files/publications/Li2011PreliminaryEvaluationOf.pdf">Preliminary Evaluation of Long-term Memories for Fulfilling Delayed Intentions</a>.
 		In <span class="cv-booktitle">Papers from the 2011 AAAI Fall Symposium Series: Advances in Cognitive Systems (ACS)</span>, 170-177.
 		Arlington, VA.
 	</li>
@@ -92,6 +92,6 @@ title: Curriculum Vitae
 
 ### Design ###
 <ul class="cv-vitae-list">
-	<li><a href="http://segal.northwestern.edu/programs/undergraduate/segal-design-certificate/">Certificate in Engineering Design</a> from the <a href="http://segal.northwestern.edu/">Segal Design Institute</a>, <a href="http://www.northwestern.edu/">Northwestern University</a><span class="hidden-print"> (<a href="/files/portfolio.pdf">portfolio</a>)</span></li>
+	<li><a href="http://segal.northwestern.edu/programs/undergraduate/segal-design-certificate/">Certificate in Engineering Design</a> from the <a href="http://segal.northwestern.edu/">Segal Design Institute</a>, <a href="http://www.northwestern.edu/">Northwestern University</a><span class="hidden-print"> (<a href="/files/publications/portfolio.pdf">portfolio</a>)</span></li>
 </ul>
 
