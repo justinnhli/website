@@ -34,11 +34,7 @@ is to unify the scripts into pure Python. This will be a good excuse to
 learn [matplotlib](http://en.wikipedia.org/wiki/Matplotlib), which
 finally supports Python 3.
 
-<div class="separator" style="clear:both;text-align:center;">
-
-[![](http://justinnhli.files.wordpress.com/2013/11/ed543-readability.png?w=300)](http://justinnhli.files.wordpress.com/2013/11/ed543-readability.png)
-
-</div>
+![Charting the grade level readability of my journal entries]({filename}../files/the-quantified-self/readability.png)
 
 This first graph comes from my journal (and which I've shared on Twitter
 [before](https://twitter.com/justinnhli/status/385042496079675392)). I
@@ -57,11 +53,7 @@ grade. The only writing of mine that goes above that are my [scientific
 publications](http://www-personal.umich.edu/~justinnh/), which rank in
 at 13th grade.
 
-<div class="separator" style="clear:both;text-align:center;">
-
-[![](http://justinnhli.files.wordpress.com/2013/11/ea7c1-spending.png?w=300)](http://justinnhli.files.wordpress.com/2013/11/ea7c1-spending.png)
-
-</div>
+![A stacked bar chart of my spending, by category]({filename}../files/the-quantified-self/spending.png)
 
 The second graph shows where my spending went over the last four years,
 since I started using Mint in 2009. There are eleven categories here,
@@ -74,11 +66,7 @@ card payments; you can tell when I've stopped using a credit card.
 Having made this graph specifically for this post, I have no insights,
 except that it would be fun to further analyze this data.
 
-<div class="separator" style="clear:both;text-align:center;">
-
-[![](http://justinnhli.files.wordpress.com/2013/11/4dbff-bedtime.png?w=300)](http://justinnhli.files.wordpress.com/2013/11/4dbff-bedtime.png)
-
-</div>
+![A plot of when I've been going to bed and waking up]({filename}../files/the-quantified-self/bedtime.png)
 
 The last graph shows when I've gone to bed and gotten up in the last
 three months, at 15 minute resolution. The y-axis requires some
