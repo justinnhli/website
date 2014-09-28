@@ -1,2 +1,5 @@
 cache/**
 html/**
+**/*.png
+**/*.jpg
+**/*.pdf
