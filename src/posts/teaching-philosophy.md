@@ -1,6 +1,8 @@
 Title: A Teaching Philosophy
 Date: 2014-10-11
 
+*Note: this is not an actual teaching philosophy I am submitting to job applications. It's more a rant about having to write one, and an exercise to help me figure out what to write.*
+
 The hardest part about writing a teaching philosophy is to not write a life philosophy.
 
 It's difficult to remember a time when I didn't want to be a teacher. Back when I was a senior in high school, I was part of a group called the Math Center. Led by the math math department teachers, this group in theory helped other students with their math homework. This being high school, very few students came to use the service. I was also on the speech and debate team, and helped train younger students by giving critique on their talks.
