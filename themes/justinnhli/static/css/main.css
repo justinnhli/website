@@ -42,6 +42,7 @@ th:first-child {text-align:right;}
 th, td {padding:7.5pt; vertical-align:top;}
 th:first-child, td:first-child {border-left-style:none;}
 th:last-child, td:last-child {border-right-style:none;}
+input[type=radio], input[type=checkbox] {display:inline;}
 
 @media print {
 	body {font-size:12pt; line-height:16pt;}
