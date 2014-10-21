@@ -1,11 +1,10 @@
 title: About
-url:
 save_as: index.html
 
-I am currently a computer science PhD student at the [University of Michigan](http://umich.edu/), working with [Professor John Laird](http://ai.eecs.umich.edu/people/laird/) on the [Soar cognitive architecture](http://sitemaker.umich.edu/soar/home).
-My research is on [prospective memory](http://en.wikipedia.org/wiki/Prospective_memory) &mdash; the ability to remember to do things in the future &mdash; and how artificial agents can do this in the face of forgetting.
+I am currently a computer science PhD student at the [University of Michigan](http://umich.edu/), working with [Professor John Laird](http://ai.eecs.umich.edu/people/laird/) on the [Soar cognitive architecture](http://soar.eecs.umich.edu/).
+My research is broadly on the mechanisms and strategies for knowledge search &mdash; how artificial agents can find relevant knowledge at the right time for its decision making.
+My thesis looks more specifically at knowledge search for goals, also known as goal re-activation or [prospective memory](http://en.wikipedia.org/wiki/Prospective_memory), which is the ability for agents to remember to do things in the future despite continual forgetting.
 
-In my spare time, [I read](http://www.goodreads.com/justinnhli), [I write](http://justinnhli.blogspot.com/), [I code](http://github.com/justinnhli), I climb, I bike.
-More of my online presence can be found on my [Google profile](https://profiles.google.com/justinnhli).
+I can also be found on [LinkedIn](https://www.linkedin.com/in/justinnhli) and [Facebook](https://www.facebook.com/justinnhli).
 
 Email: justinnh@umich.edu
