@@ -20,7 +20,7 @@ Wolf starts with an observation about the phenomenon of widespread
 ads, women are portrayed with arching backs and closed eyes - poised to
 receive an oncoming orgasm. While the existence of such imagery may not
 by itself be bad, it is together with the lack of ads which portray
-tender, intimate sex which creates, Wolf claims, creates the
+tender, intimate sex which, Wolf claims, creates the
 misconception that only beautiful women are sexually satisfied. On the
 other hand, there are also ads where women are portrayed in submission
 to men, which can sometimes be violent or masochistic. The prevalence of
@@ -100,7 +100,7 @@ This first point forms the basis for the other two. Because the publicly
 portrayed female bodies form an impossible standard, men become
 desensitized to normal female bodies with its flaws and defects. With
 women turned into sexual objects, being compared to the standard through
-numerical measurements, women who "score" low are see with disdain -
+numerical measurements, women who "score" low are seen with disdain -
 which would be most women in the real world. This is the reasoning
 behind Wolf's position in her New York Magazine article, that porn turns
 men off real women. That female culture does not judge men in the same
@@ -109,7 +109,7 @@ human beings first."
 
 The last point: just because women don't judge as openly doesn't mean
 they can't. Females can just as easily recognize a good looking male,
-and will similarly feel desire them. This I think is the most important
+and will similarly desire them. This I think is the most important
 point, one I have not even considered before: that other people may love
 you, be aroused by you, and desire you just as you desire them. To be
 honest, this is a really powerful message, although not new. Everyone
