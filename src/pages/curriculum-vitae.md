@@ -14,6 +14,16 @@ title: Curriculum Vitae
 ### Publications ###
 <ul class="cv-vitae-list">
 	<li>
+		<span class="cv-me">Li, J.</span>; and <a href="http://ai.eecs.umich.edu/people/laird/">Laird, J. E.</a> (2015).
+		<a class="cv-title">Spontaneous Retrieval from Long-Term Memory in a Cognitive Architecture</a>.
+		In <span class="cv-booktitle">Proceedings of the 29<sup>th</sup> AAAI Conference on Artificial Intelligence (AAAI)</span>.
+		<!--
+		<a class="cv-title" href="/files/publications/Li2015SpontaneousTheComputationalProblem.pdf">The Computational Problem of Prospective Memory Retrieval</a>.
+		In <span class="cv-booktitle">Proceedings of the 29<sup>th</sup> AAAI Conference on Artificial Intelligence (AAAI)</span>, 1234-1240.
+		-->
+		Austin, TX.
+	</li>
+	<li>
 		<span class="cv-me">Li, J.</span>; and <a href="http://ai.eecs.umich.edu/people/laird/">Laird, J. E.</a> (2013).
 		<a class="cv-title" href="/files/publications/Li2013TheComputationalProblem.pdf">The Computational Problem of Prospective Memory Retrieval</a>.
 		In <span class="cv-booktitle">Proceedings of the 12<sup>th</sup> International Conference on Cogntive Modeling (ICCM)</span>, 155-160.
