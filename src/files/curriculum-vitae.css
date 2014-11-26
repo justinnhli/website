@@ -1,8 +1,15 @@
-.cv-vitae-list li {list-style-type:none; margin:0 0 15pt 0;}
+.cv-list li {list-style-type:none; margin:0 0 15pt 0;}
+.cv-table {margin-left:1em; width:100%}
+.cv-table td:first-child {padding-left:40px; width:75%;}
+.cv-table td:last-child {text-align:right; width:20%;}
+.cv-table tr, .cv-table td {border-style:none;}
 .cv-me {font-weight:bold; line-height:15pt;}
 .cv-title {color:#C4A000;}
 .cv-booktitle {font-style:italic;}
 
 @media print {
-	.cv-vitae-list {margin:0;}
+	h2 {display:none;}
+	.cv-list {margin:0; padding-left:0;}
+	.cv-table {margin-left:0;}
+	.cv-table td:first-child {padding-left:0;}
 }
