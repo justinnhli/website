@@ -13,7 +13,7 @@ STATIC_PATHS = (
 )
 
 IGNORE_FILES = (
-    ".un~",
+    ".*.un~", ".*.swp"
 )
 
 ARCHIVES_SAVE_AS = 'writings.html'
