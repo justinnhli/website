@@ -8,4 +8,6 @@ My thesis looks more specifically at knowledge search for goals, also known as g
 
 I can also be found on [LinkedIn](https://www.linkedin.com/in/justinnhli) and [Facebook](https://www.facebook.com/justinnhli).
 
+**I am currently on the academic job market! You can read my [teaching]({filename}/files/teaching-philosophy.pdf) and [research]({filename}/files/research-statement.pdf) statements, as well as my [CV]({filename}/pages/curriculum-vitae.md).**
+
 Email: justinnh@umich.edu
