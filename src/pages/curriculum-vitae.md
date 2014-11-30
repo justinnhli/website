@@ -9,7 +9,7 @@ title: Curriculum Vitae
 	<p>
 		3844 Beyster Building<br>
 		2260 Hayward Street<br>
-		Ann Arbor, MI  48109-2121
+		Ann Arbor, MI 48109-2121
 	</p>
 </div>
 
@@ -20,7 +20,7 @@ title: Curriculum Vitae
 			PhD in Computer Science. <a href="http://umich.edu/">University of Michigan</a>, Ann Arbor, MI.
 		</td>
 		<td>
-			Expected July 2015
+			Expected August 2015
 		</td>
 	</tr>
 	<tr>
@@ -32,6 +32,14 @@ title: Curriculum Vitae
 		</td>
 	</tr>
 </table>
+
+### Research Interest ###
+
+<p class="cv-paragraph">
+	My research is on when and how artificial agents should search for additional knowledge for decision making - how does the agent know relevant knowledge is available, and how does it get to that knowledge?
+	Knowledge may exist in external knowledge bases, or may be knowledge from the agent's memory of its own experiences.
+	My work spans the entire lifecycle of knowledge: how it is acquired and stored, the mechanisms and algorithms by which it is efficiently retrieved, and finally, general strategies for when and how the agent should use these mechanisms.
+</p>
 
 ### Publications ###
 <table class="cv-table">
@@ -137,6 +145,10 @@ title: Curriculum Vitae
 		<td>Winter 2010</td>
 	</tr>
 	<tr>
+		<td>Teaching Assistant for <a href="http://www.engin.umich.edu/college/academics/bulletin/courses/eecs">Programming and Introductory Data Structures</a>, <a href="http://umich.edu/">University of Michigan</a></td>
+		<td>Fall 2009</td>
+	</tr>
+	<tr>
 		<td>Teaching Assistant for <a href="http://cty.jhu.edu/summer/grades2-6/catalog/math.html#irob">Introduction to Robotics</a>,  <a href="http://cty.jhu.edu/">Center for Talented Youth</a>, <a href="http://www.jhu.edu/">Johns Hopkins University</a></td>
 		<td>2008 - 2009</td>
 	</tr>
@@ -210,7 +222,6 @@ title: Curriculum Vitae
 	</tr>
 </table>
 
-<span style="page-break-after:always;"></span>
 ### Awards ###
 <table class="cv-table">
 	<tr>

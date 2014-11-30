@@ -3,6 +3,7 @@
 .cv-table td:first-child {padding-left:40px; width:75%;}
 .cv-table td:last-child {text-align:right; width:20%;}
 .cv-table tr, .cv-table td {border-style:none;}
+.cv-paragraph {margin-top:18pt;}
 .cv-me {font-weight:bold; line-height:15pt;}
 .cv-title {color:#C4A000;}
 .cv-booktitle {font-style:italic;}
