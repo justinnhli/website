@@ -1,4 +1,5 @@
 title: About
+url: index.html
 save_as: index.html
 
 I am currently a computer science PhD student at the [University of Michigan](http://umich.edu/), working with [Professor John Laird](http://ai.eecs.umich.edu/people/laird/) on the [Soar cognitive architecture](http://soar.eecs.umich.edu/).
