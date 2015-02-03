@@ -172,7 +172,7 @@ title: Curriculum Vitae
 		<td>Spring 2009</td>
 	</tr>
 	<tr>
-		<td>Senior <a href="http://www.northwestern.edu/searle/programs-events/undergrad/group-study/gsw/index.html">Gateway Science Workshop</a> Facilitator for the <a href="http://www.mccormick.northwestern.edu/undergraduates/bachelors-degree-curriculum/core/engineering-first/coursework.html">Engineering Analysis</a> sequence, <a href="http://www.northwestern.edu/">Northwestern University</a></td>
+		<td>Senior <a href="http://www.northwestern.edu/searle/programs-events/undergrad/group-study/gsw/index.html">Gateway Science Workshop</a> Facilitator for the <a href="http://www.mccormick.northwestern.edu/academics/undergraduate/core-curriculum/engineering-first.html">Engineering Analysis</a> sequence, <a href="http://www.northwestern.edu/">Northwestern University</a></td>
 		<td>2008 - 2009</td>
 	</tr>
 	<tr>
