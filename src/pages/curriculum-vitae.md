@@ -45,6 +45,22 @@ title: Curriculum Vitae
 <table class="cv-table">
 	<tr>
 		<td>
+			<span class="cv-me">Li, J.</span>; and <a href="http://ai.eecs.umich.edu/people/laird/">Laird, J. E.</a>
+			Spontaneous Retrieval for Prospective Memory: Effects of Encoding Specificity and Retention Interval.
+			In <span class="cv-booktitle">Proceedings of the 13<sup>th</sup> International Conference on Cognitive Modeling (ICCM)</span>.
+			<!--
+			<a class="cv-title" href="/files/publications/Li2013TheComputationalProblem.pdf">The Computational Problem of Prospective Memory Retrieval</a>.
+			In <span class="cv-booktitle">Proceedings of the 13<sup>th</sup> International Conference on Cognitive Modeling (ICCM)</span>, 155-160.
+			-->
+			Groningen, The Netherlands.
+			(In Publication)
+		</td>
+		<td>
+			2015
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<span class="cv-me">Li, J.</span>; and <a href="http://ai.eecs.umich.edu/people/laird/">Laird, J. E.</a>.
 			<a class="cv-title" href="/files/publications/Li2015SpontaneousRetrievalFrom.pdf">Spontaneous Retrieval from Long-Term Memory in a Cognitive Architecture</a>.
 			In <span class="cv-booktitle">Proceedings of the 29<sup>th</sup> AAAI Conference on Artificial Intelligence (AAAI)</span>.
