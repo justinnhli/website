@@ -34,13 +34,45 @@ status: hidden
 <ol>
 	<li>List Item 1</li>
 	<li>List Item 2</li>
-	<li>List Item 3</li>
+	<li>
+		List Item 3
+		<ol>
+			<li>Nested List Item 1</li>
+			<li>Nested List Item 2</li>
+			<li>
+				Nested List Item 3
+				<ol>
+					<li>Nested Nested List Item 1</li>
+					<li>Nested Nested List Item 2</li>
+					<li>
+						Nested Nested List Item 3
+					</li>
+				</ol>
+			</li>
+		</ol>
+	</li>
 </ol>
 <h3>Unordered List</h3>
 <ul>
 	<li>List Item 1</li>
 	<li>List Item 2</li>
-	<li>List Item 3</li>
+	<li>
+		List Item 3
+		<ul>
+			<li>Nested List Item 1</li>
+			<li>Nested List Item 2</li>
+			<li>
+				Nested List Item 3
+				<ul>
+					<li>Nested Nested List Item 1</li>
+					<li>Nested Nested List Item 2</li>
+					<li>
+						Nested Nested List Item 3
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
 </ul>
 <small><a href="#wrapper">[top]</a></small>
 <hr />
@@ -93,7 +125,7 @@ status: hidden
 <hr />
 
 <h1 id="tables">Tables</h1>
-<table cellspacing="0" cellpadding="0">
+<table>
 	<tr>
 		<th>Table Header 1</th><th>Table Header 2</th><th>Table Header 3</th>
 	</tr>
@@ -105,6 +137,21 @@ status: hidden
 	</tr>
 	<tr>
 		<td>Division 1</td><td>Division 2</td><td>Division 3</td>
+	</tr>
+</table>
+<p>&nbsp;</p>
+<table>
+	<tr>
+		<th></th><th>Column Header 1</th><th>Column Header 2</th>
+	</tr>
+	<tr>
+		<th>Row Header 1</th><td>Data (1, 1)</td><td>Data (1, 2)</td>
+	</tr>                                                            
+	<tr class="even">                                                
+		<th>Row Header 2</th><td>Data (2, 1)</td><td>Data (2, 2)</td>
+	</tr>                                                            
+	<tr>                                                             
+		<th>Row Header 3</th><td>Data (3, 1)</td><td>Data (3, 2)</td>
 	</tr>
 </table>
 <small><a href="#wrapper">[top]</a></small>
