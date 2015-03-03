@@ -1,12 +1,14 @@
 body {background-color:#EEEEEC; color:#2E3436; font-family:'EB Garamond',Garamond,serif; font-size:14pt; line-height:18pt;}
 .row {margin-left:0; margin-right:0;}
 
-h1, h2, h3, h4 {font-family:"Hoefler Text","Cambria","Georgia","Times New Roman","Times",serif; font-variant:small-caps; letter-spacing:0.05em; margin:0;}
+h1, h2, h3, h4 {font-family:'Cardo',serif; font-variant:small-caps; letter-spacing:0.05em; margin:0;}
 h1 {color:#4E9A06; font-size:20pt; font-weight:bold; line-height:36pt; text-align:center;}
 h1:first-child {margin:20pt 0 5pt 0;}
 h2 {color:#4E9A06; font-size:18pt; font-weight:bold; line-height:36pt;}
 h3 {font-size:16pt; font-weight:bold; line-height:18pt;}
 h4 {font-size:16pt; font-weight:bold; font-variant:normal; line-height:18pt;}
+h5 {font-size:14pt; font-weight:bold;}
+h6 {font-size:14pt;}
 h1 a, h1 a:active, h1 a:hover, h1 a:visited {text-decoration:none;}
 h2 a, h2 a:active, h2 a:hover, h2 a:visited {text-decoration:none;}
 h3 a, h3 a:active, h3 a:hover, h3 a:visited {text-decoration:none;}
