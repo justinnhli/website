@@ -6,4 +6,4 @@ I am currently a computer science PhD student at the [University of Michigan](ht
 My research is broadly on the mechanisms and strategies for knowledge search &mdash; how artificial agents can find relevant knowledge at the right time for its decision making.
 My thesis looks more specifically at knowledge search for goals, also known as goal re&ndash;activation or [prospective memory](http://en.wikipedia.org/wiki/Prospective_memory), which is the ability for agents to remember to do things in the future despite continual forgetting.
 
-<span id="news">NEWS</span> (2015-03-31): I will be joining the faculty of [Occidental College](http://oxy.edu/) starting Fall 2015.
+<span class="news">NEWS</span> (2015-03-31): I will be joining the faculty of [Occidental College](http://oxy.edu/) starting Fall 2015.
