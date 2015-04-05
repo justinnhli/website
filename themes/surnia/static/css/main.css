@@ -59,10 +59,10 @@ input[type=radio], input[type=checkbox] {display:inline;}
 
 #site-title {margin:20pt 0 5pt 0;}
 
-#nav.list-inline {display:table; width:100%;}
-#nav.list-inline li {display:table-cell; width:1%; text-align:center;}
-#nav.list-inline li.active {font-weight:bold;}
-#nav.list-inline li.active a {text-decoration:none;}
+#nav {display:table; width:100%;}
+#nav li {display:table-cell; width:1%; text-align:center;}
+#nav li.active {font-weight:bold;}
+#nav li.active a {text-decoration:none;}
 
 #archives {width:100%; margin:0 0 20pt 0;}
 #archives th {border-style:none; font-weight:normal; padding:1.5pt 0; width:20%;}
