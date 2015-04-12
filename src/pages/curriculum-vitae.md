@@ -52,7 +52,6 @@ title: Curriculum Vitae
 			In <span class="cv-booktitle">Proceedings of the 13<sup>th</sup> International Conference on Cognitive Modeling (ICCM)</span>, 155-160.
 			-->
 			Groningen, The Netherlands.
-			(In Publication)
 		</td>
 		<td>
 			2015
