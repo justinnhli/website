@@ -4,8 +4,8 @@ Slug: atlas-shrugged
 
 > Is a man not entitled to the sweat of his brow?
 >
-> No, says the man in Washington; it belongs to the poor.  
-> No, says the man in the Vatican; it belongs to God.  
+> No, says the man in Washington; it belongs to the poor.
+> No, says the man in the Vatican; it belongs to God.
 > No, says the man in Moscow; it belongs to everyone.
 >
 > I rejected those answers.
