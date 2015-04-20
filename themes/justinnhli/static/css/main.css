@@ -59,7 +59,7 @@ input[type=radio], input[type=checkbox] {display:inline;}
 
 #site-title {margin:20pt 0 5pt 0;}
 
-#nav {display:table; width:100%;}
+#nav {display:table; margin:0 0 20pt 0; padding:0; width:100%;}
 #nav li {display:table-cell; width:1%; text-align:center;}
 #nav li.active {font-weight:bold;}
 #nav li.active a {text-decoration:none;}
