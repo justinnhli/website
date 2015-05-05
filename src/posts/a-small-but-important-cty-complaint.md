@@ -2,11 +2,6 @@ Title: A Small But Important CTY Complaint
 Date: 2009-08-13 00:17
 Slug: a-small-but-important-cty-complaint
 
-<span class="Apple-style-span"
-style="font-family:arial;font-size:13px;"></span>
-
-<div>
-
 CTY ended about a week ago, and I'm still very much in denial about it.
 I've mentioned previous that I wish the program would continue, even if
 it was just for one session. This summer was everything I had remembered
@@ -17,13 +12,6 @@ in comparison with last year. This involves the communication between
 staff members, and in particular, between the residential,
 instructional, and administrative staff.
 
-</div>
-
-<div>
-
-</div>
-
-<div>
 
 As a residential camp for middle schoolers, CTY staff is not only
 responsible for the education of the campers; we are also responsible
@@ -39,14 +27,6 @@ system of paperwork for everything that happens to a student, and those
 are left in mailboxes for staff to read. In theory, this system allows a
 rapid dissemination of information on the students, so everyone knows
 what's happen.
-
-</div>
-
-<div>
-
-</div>
-
-<div>
 
 What I found this summer was that while the system is designed properly,
 people don't really follow them. I have seen TAs and RAs simply bringing
@@ -64,27 +44,11 @@ were things which I never knew until I read the paperwork - like the
 fact that one of my students had daily meetings with a member of the
 administration.
 
-</div>
-
-<div>
-
-</div>
-
-<div>
-
 Don't get me wrong - things worked out great this summer, and as I said
 I had an awesome time. But I was really disappointed by the things I
 just pointed out, which not necessarily made my job harder, but it did
 give me unpleasant surprises. If I got the chance to talk to the staff
 before CTY started, I would say this:
-
-</div>
-
-<div>
-
-</div>
-
-<div>
 
 Administration: My management philosophy is simple - it's about the
 people who's close to the action. For a summer camp, that would be the
@@ -94,14 +58,6 @@ longer hours to resolve issues as soon as possible, or we might have to
 do extra work to ensure classes and activities goes as the RAs and
 instructors have planned. We get paid more not because we're more
 important, but because we have to work harder.
-
-</div>
-
-<div>
-
-</div>
-
-<div>
 
 RAs: I know you have a tough job - you have to take care of over a dozen
 kids all by yourself, for multiple hours at a time, sometimes
@@ -113,14 +69,6 @@ problem that arose, or you can spend hours afterwards trying to comfort
 the student, explain to the administration, or even the parent, about
 what happened. So please, talk to your TAs and instructors.
 
-</div>
-
-<div>
-
-</div>
-
-<div>
-
 TAs and Instructors: You're what the camp is about. Congratulations. But
 your job is not just to teach the kids; as with the RAs, you have to
 make sure the students are having a good time. This certainly involves
@@ -131,5 +79,3 @@ excited than seeing their TAs and instructors spending time with them
 outside of the classroom. If it doesn't earn you friends, it at least
 earns you camaraderie - and that goes a long way in talking with the
 students.
-
-</div>
