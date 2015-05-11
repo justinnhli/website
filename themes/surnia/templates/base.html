@@ -35,7 +35,7 @@
 					<ul id="nav" class="hidden-print">
 					{% if DISPLAY_PAGES_ON_MENU -%}
 					{% for pg in PAGES %}
-						<li{% if pg == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title }}</a></li>
+						<li{% if pg == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ pg.url }}">{{ pg.short_title }}</a></li>
 					{% endfor %}
 					{% endif %}
 					{% for title, link in MENUITEMS %}

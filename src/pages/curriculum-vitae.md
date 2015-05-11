@@ -1,4 +1,5 @@
 title: Curriculum Vitae
+short_title: CV
 
 <div class="visible-print">
 	<p style="float:right">
