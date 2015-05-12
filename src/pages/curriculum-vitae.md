@@ -1,4 +1,5 @@
 title: Curriculum Vitae
+short_title: CV
 
 <div class="visible-print">
 	<p style="float:right">
@@ -159,7 +160,7 @@ title: Curriculum Vitae
 		<td>Fall 2009</td>
 	</tr>
 	<tr>
-		<td>Teaching Assistant for <a href="http://cty.jhu.edu/summer/grades2-6/catalog/math.html#irob">Introduction to Robotics</a>,  <a href="http://cty.jhu.edu/">Center for Talented Youth</a>, <a href="http://www.jhu.edu/">Johns Hopkins University</a></td>
+		<td>Teaching Assistant for <a href="http://cty.jhu.edu/summer/grades2-6/catalog/math.html#irob">Introduction to Robotics</a>,  <a href="http://cty.jhu.edu/">Center for Talented Youth</a>, <a href="https://www.jhu.edu/">Johns Hopkins University</a></td>
 		<td>2008 - 2009</td>
 	</tr>
 	<tr>
@@ -171,7 +172,7 @@ title: Curriculum Vitae
 		<td>2008 - 2009</td>
 	</tr>
 	<tr>
-		<td><a href="http://www.northwestern.edu/searle/programs-events/undergrad/group-study/gsw/index.html">Gateway Science Workshop</a> Facilitator for the <a href="http://www.mccormick.northwestern.edu/undergraduates/bachelors-degree-curriculum/core/engineering-first/coursework.html">Engineering Analysis</a> sequence, <a href="http://www.northwestern.edu/">Northwestern University</a></td>
+		<td><a href="http://www.northwestern.edu/searle/programs-events/undergrad/group-study/gsw/index.html">Gateway Science Workshop</a> Facilitator for the <a href="http://www.mccormick.northwestern.edu/academics/undergraduate/core-curriculum/engineering-first.html#innovative-curriculum">Engineering Analysis</a> sequence, <a href="http://www.northwestern.edu/">Northwestern University</a></td>
 		<td>2007 - 2009</td>
 	</tr>
 </table>
