@@ -1,4 +1,5 @@
 title: About
+short_title: About
 url: index.html
 save_as: index.html
 
