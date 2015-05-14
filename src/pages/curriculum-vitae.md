@@ -35,7 +35,6 @@ short_title: CV
 </table>
 
 ### Research Interest ###
-
 <p class="cv-paragraph">
 	My research is on when and how artificial agents should search for additional knowledge for decision making - how does the agent know relevant knowledge is available, and how does it get to that knowledge?
 	Knowledge may exist in external knowledge bases, or may be knowledge from the agent's memory of its own experiences.
