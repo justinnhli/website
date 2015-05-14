@@ -9,6 +9,7 @@ MENUITEMS = (
 )
 
 STATIC_PATHS = (
+    ".htaccess",
     "files/",
 )
 
