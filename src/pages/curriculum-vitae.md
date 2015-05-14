@@ -15,6 +15,7 @@ short_title: CV
 </div>
 
 ### Education ###
+
 <table class="cv-table">
 	<tr>
 		<td>
@@ -35,6 +36,7 @@ short_title: CV
 </table>
 
 ### Research Interest ###
+
 <p class="cv-paragraph">
 	My research is on when and how artificial agents should search for additional knowledge for decision making - how does the agent know relevant knowledge is available, and how does it get to that knowledge?
 	Knowledge may exist in external knowledge bases, or may be knowledge from the agent's memory of its own experiences.
@@ -42,6 +44,7 @@ short_title: CV
 </p>
 
 ### Publications ###
+
 <table class="cv-table">
 	<tr>
 		<td>
@@ -137,6 +140,7 @@ short_title: CV
 </table>
 
 ### Teaching ###
+
 <table class="cv-table">
 	<tr>
 		<td>Teaching Assistant for <a href="http://www.engin.umich.edu/college/academics/bulletin/courses/eecs">Introduction to Artificial Intelligence</a>, <a href="http://umich.edu/">University of Michigan</a></td>
@@ -177,6 +181,7 @@ short_title: CV
 </table>
 
 ### Mentoring ###
+
 <table class="cv-table">
 	<tr>
 		<td>
@@ -189,6 +194,7 @@ short_title: CV
 </table>
 
 ### Service ###
+
 <table class="cv-table">
 	<tr>
 		<td>
@@ -233,6 +239,7 @@ short_title: CV
 </table>
 
 ### Awards ###
+
 <table class="cv-table">
 	<tr>
 		<td>
@@ -245,6 +252,7 @@ short_title: CV
 </table>
 
 ### Software ###
+
 <table class="cv-table">
 	<tr>
 		<td>
@@ -279,6 +287,7 @@ short_title: CV
 </table>
 
 ### Design ###
+
 <ul class="cv-list">
 	<li><a href="http://segal.northwestern.edu/programs/undergraduate/segal-design-certificate/">Certificate in Engineering Design</a> from the <a href="http://segal.northwestern.edu/">Segal Design Institute</a>, <a href="http://www.northwestern.edu/">Northwestern University</a><span class="hidden-print"> (<a href="/files/publications/portfolio.pdf">portfolio</a>)</span></li>
 </ul>
