@@ -8,9 +8,9 @@ html:
 	$(PELICAN) -v -o html -s settings.py src
 
 publish: html
-	rm -f $(find . -name '.*.un~')
-	rm -f $(find . -name '.*.swp')
+	find html -name '.*.un~' -exec rm -f {} +
+	find html -name '.*.swp' -exec rm -f {} +
 	lftp sftp://justinnhli@rawhide.dreamhost.com -e "mirror -vvvR --only-newer --ignore-time html justinnhli.com ; quit"
 
 clean:
-	rm -rf html/*
+	rm -rf html
