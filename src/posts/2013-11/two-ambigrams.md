@@ -20,7 +20,7 @@ about ambigrams and psychology. I designed my first ambigram back in
 My best work up till the beginning of the year was a birthday gift I
 made for my friend Emily.
 
-![Ambigram of "emily"]({filename}../files/two-ambigrams/emily.png)
+![Ambigram of "emily"]({filename}../../files/two-ambigrams/emily.png)
 
 One interesting thing about this design is that there is no *i*. The *m*
 flows directly into the *l*; the *i* is an illusion created by the
@@ -39,14 +39,14 @@ somehow, to represent their relationship.
 
 Long story short, here's the result:
 
-![Rotational chain ambigram of "laura" and "neale"]({filename}../files/two-ambigrams/full-circle.png)
+![Rotational chain ambigram of "laura" and "neale"]({filename}../../files/two-ambigrams/full-circle.png)
 
 It's actually very difficult to see what's going on; it's better to show
 each one separately:
 
-!["laura" part of rotational chain ambigram]({filename}../files/two-ambigrams/laura-circle.png)
+!["laura" part of rotational chain ambigram]({filename}../../files/two-ambigrams/laura-circle.png)
 
-!["neale" part of rotational chain ambigram]({filename}../files/two-ambigrams/neale-circle.png)
+!["neale" part of rotational chain ambigram]({filename}../../files/two-ambigrams/neale-circle.png)
 
 Individually, each half-circle isn't anything special: it's just their
 names in some [fancy
@@ -58,7 +58,7 @@ into the *ne* in *neale*, and the *le* in *neale* forms the *la* in
 *laura*. Here is the combined circle again, with some highlighting:
 *laura* in red, *neale* in blue, and the overlap in purple.
 
-![Rotational chain ambigram of "laura" and "neale", colored to show overlap]({filename}../files/two-ambigrams/colored-circle.png)
+![Rotational chain ambigram of "laura" and "neale", colored to show overlap]({filename}../../files/two-ambigrams/colored-circle.png)
 
 The *r*/*n* were easy to merge; the crux of the design was in the
 *a*/*e*. It had to look good enough as both for each name to be
@@ -78,11 +78,11 @@ independent. I hit on the solution of printing each on a transparency,
 then put in a cardboard frame for sturdiness. This way, each card would
 individually show a single name:
 
-![The two half-circles printed on transparencies]({filename}../files/two-ambigrams/separate.jpg)
+![The two half-circles printed on transparencies]({filename}../../files/two-ambigrams/separate.jpg)
 
 But when stacked and aligned, it shows the full ambigram:
 
-![The two half-circles printed on transparencies, stacked to reveal complete circle]({filename}../files/two-ambigrams/together.jpg)
+![The two half-circles printed on transparencies, stacked to reveal complete circle]({filename}../../files/two-ambigrams/together.jpg)
 
 Typographically, I still like my *emily* card more, but in terms of the
 final product, this surpasses the former by far (which I had simply
