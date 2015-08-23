@@ -154,6 +154,21 @@ status: hidden
 		<th>Row Header 3</th><td>Data (3, 1)</td><td>Data (3, 2)</td>
 	</tr>
 </table>
+<p>&nbsp;</p>
+<table>
+	<tr>
+		<th>Row\Column Header</th><th>Column Header 1</th><th>Column Header 2</th>
+	</tr>
+	<tr>
+		<th>Row Header 1</th><td>Data (1, 1)</td><td>Data (1, 2)</td>
+	</tr>
+	<tr class="even">
+		<th>Row Header 2</th><td>Data (2, 1)</td><td>Data (2, 2)</td>
+	</tr>
+	<tr>
+		<th>Row Header 3</th><td>Data (3, 1)</td><td>Data (3, 2)</td>
+	</tr>
+</table>
 <small><a href="#wrapper">[top]</a></small>
 <hr />
 
