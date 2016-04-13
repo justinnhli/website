@@ -4,6 +4,16 @@ status: hidden
 <!-- Sample Content to Plugin to Template -->
 <h1>CSS Basic Elements</h1>
 <p>The purpose of this HTML is to help determine what default settings are with CSS and to make sure that all possible HTML Elements are included in this HTML so as to not miss any possible Elements when designing a site.</p>
+
+<ul>
+	<li><a href="#headings">Headings</a></li>
+	<li><a href="#paragraph">Paragraph</a></li>
+	<li><a href="#list_types">Lists</a></li>
+	<li><a href="#form_elements">Forms</a></li>
+	<li><a href="#tables">Tables</a></li>
+	<li><a href="#misc">Misc Stuff</a></li>
+</ul>
+
 <hr />
 
 <h1 id="headings">Headings</h1>
