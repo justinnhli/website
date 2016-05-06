@@ -1,8 +1,8 @@
 h2 {margin-bottom:1em;}
 .cv-list li {list-style-type:none; margin:0 0 15pt 0;}
 .cv-table {margin-left:1em; width:100%}
-.cv-table td:first-child {padding-left:40px; width:75%;}
-.cv-table td:last-child {text-align:right; width:20%;}
+.cv-table td:first-child {width:75%;}
+.cv-table td:last-child {text-align:right; width:25%;}
 .cv-table tr, .cv-table td {border-style:none;}
 .cv-paragraph {margin-top:18pt;}
 .cv-me {font-weight:bold; line-height:15pt;}
