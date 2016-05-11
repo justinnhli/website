@@ -22,19 +22,6 @@ short_title: CV
 	My research is broadly on the strategies that people and artificial agents might use in their search for knowledge during problem solving, from indicators that more knowledge is needed, to strategies for acquiring that knowledge, to the mechanisms, algorithms, and representations of knowledge for efficient retrieval.
 </p>
 
-<h3>Experience</h3>
-
-<table class="cv-table">
-	<tr>
-		<td>Assistant Professor, <a href="http://oxy.edu/">Occidental College</a>, Los Angeles, CA.</td>
-		<td>2015 &ndash; current</td>
-	</tr>
-	<tr>
-		<td>Graduate Student Research Assistant, <a href="http://umich.edu/">University of Michigan</a>, Ann Arbor, MI.</td>
-		<td>2009 &ndash; 2015</td>
-	</tr>
-</table>
-
 ### Experience ###
 
 <table class="cv-table">
