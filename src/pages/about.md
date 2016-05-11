@@ -16,4 +16,6 @@ I am specifically interested in:
 * memory mechanisms in cognitive architectures
 * application of reinforcement learning to memory use
 
+I also write about my adventures at Occidental in my [How to Start a CS Department](https://howtostartacsdept.wordpress.com/) blog.
+
 <span class="news">NEWS</span> (2016-05-03): My paper, Architectural Mechanisms for Mitigating Uncertainty during Long-Term Declarative Knowledge Access, has been accepted to Advances in Cognitive Systems.
