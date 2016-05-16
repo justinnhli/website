@@ -58,12 +58,26 @@ short_title: CV
 <table class="cv-table">
 	<tr>
 		<td>
+			<span class="cv-me">Justin Li</span>, <a href="http://emmakohanyi.com/">Emma Kohanyi</a>.
+			Towards Modeling False Memory with Computational Knowledge Bases.
+			In <span class="cv-booktitle">Proceedings of the 14<sup>th</sup> International Conference on Cognitive Modeling (ICCM)</span>.
+			<!--
+			<a class="cv-title" href="FIXME">Towards Modeling False Memory with Computational Knowledge Bases</a>.
+			In <span class="cv-booktitle">Proceedings of the 14<sup>th</sup> International Conference on Cognitive Modeling (ICCM)</span>, FIXME-FIXME.
+			-->
+			University Park, PA.
+		</td>
+		<td>2016</td>
+	</tr>
+	<tr>
+		<td>
 			<span class="cv-me">Justin Li</span>, Steven Jones, <a href="http://www.shiwali.me/">Shiwali Mohan</a>, and <a href="http://derbinsky.info/">Nate Derbinsky</a>.
 			Architectural Mechanisms for Mitigating Uncertainty during Long-Term Declarative Knowledge Access.
+			In <span class="cv-booktitle">Proceedings of the 4<sup>th</sup> Annual Conference on Advances in Cognitive Systems (ACS)</span>.
 			<!--
 			<a class="cv-title" href="FIXME">Architectural Mechanisms for Mitigating Uncertainty during Long-Term Declarative Knowledge Access</a>.
+			In <span class="cv-booktitle">Proceedings of the 4<sup>th</sup> Annual Conference on Advances in Cognitive Systems (ACS)</span>, FIXME-FIXME.
 			-->
-			In <span class="cv-booktitle">Proceedings of the 4<sup>th</sup> Annual Conference on Advances in Cognitive Systems (ACS)</span>.
 			Evanston, IL.
 		</td>
 		<td>2016</td>
