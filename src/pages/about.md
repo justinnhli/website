@@ -3,19 +3,18 @@ short_title: About
 url: index.html
 save_as: index.html
 
-I am an assistant professor at [Occidental College](http://www.oxy.edu/), formally belonging in the [Cognitive Science department](http://www.oxy.edu/cognitive-science/) but also teaching for [Computer Science](http://www.oxy.edu/computer-science/).
-My research is broadly on the strategic search for knowledge during problem solving, in both people and artificial agents.
-Problem solving often requires knowledge, but finding that knowledge is not simply asking a question of memory and receiving an answer.
-Instead, the agent must decide what question to ask, whether that question will likely result in a useful answer (or any answer at all), how to formulate the question given the constraints of memory, and finally whether whether to continue or to terminal the search if the answer is unsatisfactory.
-I draw inspiration from human meta-memory phenomenon and information seeking behavior, and ask how problem solving, decision making, and inference is integrated in searching for relevant knowledge.
+I am an assistant professor at [Occidental College](http://www.oxy.edu/), in the [Cognitive Science department](http://www.oxy.edu/cognitive-science/) but also teaching in [Computer Science](http://www.oxy.edu/computer-science/).
+My research is broadly on the strategic search for knowledge.
+How does an agent recognize that more knowledge is needed?
+What knowledge should it search for, and how does it combine primitive search operations to do it?
+And when it receives an answer, how does it verify its accuracy, or when does it give up?
+Specifically, I am interested in:
 
-I am specifically interested in:
-
-* inference in semantic networks
-* unsupervised extraction/transformation of knowledge
+* human information seeking behavior
 * memory mechanisms in cognitive architectures
-* application of reinforcement learning to memory use
+* inference in semantic networks
+* reinforcement learning of memory use
 
-I also write about my adventures at Occidental in my [How to Start a CS Department](https://howtostartacsdept.wordpress.com/) blog.
+I also write about my adventures at Occidental at [*How to Start a CS Department*](https://howtostartacsdept.wordpress.com/).
 
-<span class="news">NEWS</span> (2016-05-03): My paper, Architectural Mechanisms for Mitigating Uncertainty during Long-Term Declarative Knowledge Access, has been accepted to Advances in Cognitive Systems.
+<span class="news">NEWS</span> (2016-05-12): I will be presenting at [Advances in Cognitive Systems](http://www.cogsys.org/conference/2016) and at the [International Conference on Cognitive Modeling](http://acs.ist.psu.edu/iccm2016/).
