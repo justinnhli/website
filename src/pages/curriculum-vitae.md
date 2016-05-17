@@ -47,7 +47,7 @@ short_title: CV
 	<tr>
 		<td>
 			BS in Computer Science, <em>cum laude</em>. <a href="http://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.<br>
-            		<span class="indented">with a <a href="http://segal.northwestern.edu/programs/undergraduate/segal-design-certificate/">Certificate in Engineering Design</a></span>
+			<span class="indented">with a <a href="http://segal.northwestern.edu/programs/undergraduate/segal-design-certificate/">Certificate in Engineering Design</a></span>
 		</td>
 		<td>2009</td>
 	</tr>
@@ -176,7 +176,7 @@ short_title: CV
 		<td>2009 &ndash; 2010</td>
 	</tr>
 	<tr>
-		<td>Teaching Assistant for <a href="http://cty.jhu.edu/summer/grades2-6/catalog/math.html#irob">Introduction to Robotics</a>,  <a href="http://cty.jhu.edu/">Center for Talented Youth</a>, <a href="https://www.jhu.edu/">Johns Hopkins University</a></td>
+		<td>Teaching Assistant for <a href="http://cty.jhu.edu/summer/grades2-6/catalog/math.html#irob">Introduction to Robotics</a>, <a href="http://cty.jhu.edu/">Center for Talented Youth</a>, <a href="https://www.jhu.edu/">Johns Hopkins University</a></td>
 		<td>2008 &ndash; 2009</td>
 	</tr>
 	<tr>
