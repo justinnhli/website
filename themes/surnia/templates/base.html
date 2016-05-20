@@ -8,8 +8,8 @@
 		<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Cardo:700">
 		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=EB+Garamond">
-		<link rel="shortcut icon" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/owl-016t.png" type="image/x-icon">
-		<link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/{{ CSS_FILE }}">
+		<link rel="shortcut icon" href="/{{ THEME_STATIC_DIR }}/images/owl-016t.png" type="image/x-icon">
+		<link rel="stylesheet" type="text/css" href="/{{ THEME_STATIC_DIR }}/css/{{ CSS_FILE }}">
 		{% block header %}{%endblock%}
 		{% if FEED_ALL_ATOM %}
 		<link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed">
@@ -30,12 +30,12 @@
 			<div class="row">
 				<div id="content" class="col-md-8 col-md-offset-2">
 
-					<h1 id="site-title"><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1>
+					<h1 id="site-title"><a href="/">{{ SITENAME }}</a></h1>
 
 					<ul id="nav" class="hidden-print">
 					{% if DISPLAY_PAGES_ON_MENU -%}
 					{% for pg in PAGES %}
-						<li{% if pg == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ pg.url }}">{{ pg.short_title }}</a></li>
+						<li{% if pg == page %} class="active"{% endif %}><a href="/{{ pg.url }}">{{ pg.short_title }}</a></li>
 					{% endfor %}
 					{% endif %}
 					{% for title, link in MENUITEMS %}
