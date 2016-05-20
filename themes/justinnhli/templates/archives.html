@@ -9,7 +9,7 @@
 		</tr>
 	{% for article in dates %}
 		<tr>
-			<th>{{ article.locale_date }}</th><td><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></td>
+			<th>{{ article.locale_date }}</th><td><a href="/{{ article.url }}">{{ article.title }}</a></td>
 		</tr>
 	{% endfor %}
 	</table>
