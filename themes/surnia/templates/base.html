@@ -5,7 +5,6 @@
 		<title>{% block title %}{{ SITENAME }}{%endblock%}</title>
 		<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Cardo:700">
 		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=EB+Garamond">
 		<link rel="shortcut icon" href="/{{ THEME_STATIC_DIR }}/images/owl-016t.png" type="image/x-icon">
@@ -26,42 +25,31 @@
 	</head>
 
 	<body>
-		<div class="container">
-			<div class="row">
-				<div id="content" class="col-md-8 col-md-offset-2">
 
-					<h1 id="site-title"><a href="/">{{ SITENAME }}</a></h1>
+		<h1 id="site-title"><a href="/">{{ SITENAME }}</a></h1>
 
-					<ul id="nav" class="hidden-print">
-					{% if DISPLAY_PAGES_ON_MENU -%}
-					{% for pg in PAGES %}
-						<li{% if pg == page %} class="active"{% endif %}><a href="/{{ pg.url }}">{{ pg.short_title }}</a></li>
-					{% endfor %}
-					{% endif %}
-					{% for title, link in MENUITEMS %}
-						<li><a href="{{ link }}">{{ title }}</a></li>
-					{% endfor %}
-					</ul>
+		<ul id="nav" class="hidden-print">
+		{% if DISPLAY_PAGES_ON_MENU -%}
+		{% for pg in PAGES %}
+			<li{% if pg == page %} class="active"{% endif %}><a href="/{{ pg.url }}">{{ pg.short_title }}</a></li>
+		{% endfor %}
+		{% endif %}
+		{% for title, link in MENUITEMS %}
+			<li><a href="{{ link }}">{{ title }}</a></li>
+		{% endfor %}
+		</ul>
 
-					<hr class="hidden-print">
+		<hr class="hidden-print">
 
-					{% block content %}
-					{% endblock %}
+		{% block content %}{% endblock %}
 
-					<div id="footer" class="hidden-print">
-						<hr>
-						
-						<p>
-							&copy; Justin Li, licensed <a href="http://creativecommons.org/licenses/by-sa/4.0/deed.en_US" rel="license">CC-BY-SA</a>.
-							<br>
-							<a href="https://github.com/justinnhli/website">Generated</a> with <a href="http://blog.getpelican.com">Pelican</a>.
-							(<a href="http://validator.w3.org/check?uri=referer">HTML</a> <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a>)
-						</p>
-
-					</div>
-
-				</div>
-			</div>
+		<div id="footer" class="hidden-print">
+			<hr>
+			<p>
+				&copy; Justin Li, licensed <a href="http://creativecommons.org/licenses/by-sa/4.0/deed.en_US" rel="license">CC-BY-SA</a>.<br>
+				<a href="https://github.com/justinnhli/website">Generated</a> with <a href="http://blog.getpelican.com">Pelican</a>.
+				(<a href="http://validator.w3.org/check?uri=referer">HTML</a> <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a>)
+			</p>
 		</div>
 
 	</body>

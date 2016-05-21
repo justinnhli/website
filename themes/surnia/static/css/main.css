@@ -1,5 +1,5 @@
-body {background-color:#EEEEEC; color:#2E3436; font-family:'EB Garamond',Garamond,serif; font-size:14pt; line-height:18pt;}
-.row {margin-left:0; margin-right:0;}
+html {background-color:#EEEEEC; color:#2E3436; font-family:'EB Garamond',Garamond,serif; font-size:14pt; line-height:18pt;}
+body {margin:0 auto; max-width:730px; padding:0 5px;}
 
 h1, h2, h3, h4 {font-family:'Cardo',serif; font-variant:small-caps; letter-spacing:0.05em; line-height:36pt; margin:0;}
 h1 {color:#4E9A06; font-size:20pt; font-weight:bold; text-align:center;}
@@ -49,6 +49,7 @@ th:first-child {border-right:2px solid #D3D7CF; text-align:right;}
 input[type=radio], input[type=checkbox] {display:inline;}
 
 @media print {
+	.hidden-print, .hidden-print * {display:none;}
 	body {font-size:12pt; line-height:16pt;}
 	h2 {text-align:center;}
 	a {text-decoration:none;}
