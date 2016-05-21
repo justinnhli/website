@@ -1,7 +1,7 @@
 title: Curriculum Vitae
 short_title: CV
 
-<div id="cv-contact" class="visible-print">
+<div id="cv-contact" class="hidden-screen">
 	<p id="cv-contact-right">
 		Swan Hall #B102<br>
 		Occidental College<br>
@@ -9,7 +9,7 @@ short_title: CV
 		Los Angeles, CA 90041
 	</p>
 	<p id="cv-contact-left">
-		(323) 341-4116<br>
+		<a href="tel:13233414116">(323) 341-4116</a><br>
 		<a href="mailto:justinnhli@oxy.edu">justinnhli@oxy.edu</a><br>
 		<a href="http://justinnhli.com/">http://justinnhli.com/</a><br>
 		<a href="https://twitter.com/justinnhli">@justinnhli</a>
