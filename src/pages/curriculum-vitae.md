@@ -178,31 +178,43 @@ short_title: CV
 
 <table class="cv-table">
     <tr>
-        <td><a href="https://eecs183.org/">Elementary Programming Concepts</a> (@ <a href="http://umich.edu/">University of Michigan</a>)</td>
+        <td>Introduction to Cognitive Science (@ <a href="http://www.oxy.edu/">Oxy</a>)</td>
+        <td>Fall 2015 &ndash; present</td>
+    </tr>
+    <tr>
+        <td>Computer Science through Media (@ <a href="http://www.oxy.edu/">Oxy</a>)</td>
+        <td>Spring 2016 &ndash; present</td>
+    </tr>
+    <tr>
+        <td>Topics in Artificial Intelligence (@ <a href="http://www.oxy.edu/">Oxy</a>)</td>
+        <td>Fall 2015</td>
+    </tr>
+    <tr>
+        <td><a href="https://eecs183.org/">Elementary Programming Concepts</a> (@ <a href="http://umich.edu/">Michigan</a>)</td>
         <td>Winter 2015</td>
     </tr>
     <tr>
-        <td><a href="http://www.engin.umich.edu/college/academics/bulletin/courses/eecs">Introduction to Artificial Intelligence</a> (@ <a href="http://umich.edu/">University of Michigan</a>)</td>
+        <td><a href="http://www.engin.umich.edu/college/academics/bulletin/courses/eecs">Introduction to Artificial Intelligence</a> (@ <a href="http://umich.edu/">Michigan</a>)</td>
         <td>Winter 2014</td>
     </tr>
     <tr>
-        <td>Agent Based Modeling (@ <a href="http://umich.edu/">University of Michigan</a>)</td>
+        <td>Agent Based Modeling (@ <a href="http://umich.edu/">Michigan</a>)</td>
         <td>Winter 2012</td>
     </tr>
     <tr>
-        <td><a href="http://www.engin.umich.edu/college/academics/bulletin/courses/eecs">Programming and Introductory Data Structures</a> (@ <a href="http://umich.edu/">University of Michigan</a>)</td>
+        <td><a href="http://www.engin.umich.edu/college/academics/bulletin/courses/eecs">Programming and Introductory Data Structures</a> (@ <a href="http://umich.edu/">Michigan</a>)</td>
         <td>2009 &ndash; 2010</td>
     </tr>
     <tr>
-        <td><a href="http://cty.jhu.edu/summer/grades2-6/catalog/math.html#irob">Introduction to Robotics</a> (@ <a href="http://cty.jhu.edu/">Center for Talented Youth</a>)</td>
+        <td><a href="http://cty.jhu.edu/summer/grades2-6/catalog/math.html#irob">Introduction to Robotics</a> (@ <a href="http://cty.jhu.edu/">CTY</a>)</td>
         <td>2008 &ndash; 2009</td>
     </tr>
     <tr>
-        <td><a href="http://eecs.northwestern.edu/~robby/courses/322-2009-spring/">Compiler Construction</a> (@ <a href="http://www.northwestern.edu/">Northwestern University</a>)
+        <td><a href="http://eecs.northwestern.edu/~robby/courses/322-2009-spring/">Compiler Construction</a> (@ <a href="http://www.northwestern.edu/">Northwestern</a>)
         <td>Spring 2009</td>
     </tr>
     <tr>
-        <td><a href="http://www.mccormick.northwestern.edu/academics/undergraduate/core-curriculum/engineering-first.html#innovative-curriculum">Engineering Analysis</a> (@ <a href="http://www.northwestern.edu/searle/programs-events/undergrad/group-study/gsw/index.html">Gateway Science Workshop</a>)</td>
+        <td><a href="http://www.mccormick.northwestern.edu/academics/undergraduate/core-curriculum/engineering-first.html#innovative-curriculum">Engineering Analysis</a> (@ <a href="http://www.northwestern.edu/searle/programs-events/undergrad/group-study/gsw/index.html">GSW</a>)</td>
         <td>2006 &ndash; 2009</td>
     </tr>
 </table>
