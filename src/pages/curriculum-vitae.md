@@ -176,17 +176,18 @@ short_title: CV
 
 <h3 id="teaching">Teaching</h3>
 
+
 <table class="cv-table">
     <tr>
-        <td>Introduction to Cognitive Science (@ <a href="http://www.oxy.edu/">Oxy</a>)</td>
+        <td><a href="http://smartcatalog.co/Catalogs/Occidental-College/2016-2017/Catalog/Courses/COGS-Cognitive-Science/100/COGS-101">Introduction to Cognitive Science</a> (@ <a href="http://www.oxy.edu/">Oxy</a>)</td>
         <td>Fall 2015 &ndash; present</td>
     </tr>
     <tr>
-        <td>Computer Science through Media (@ <a href="http://www.oxy.edu/">Oxy</a>)</td>
+        <td><a href="http://smartcatalog.co/Catalogs/Occidental-College/2016-2017/Catalog/Courses/COMP-Computer-Science/100/COMP-131">Computer Science through Media</a> (@ <a href="http://www.oxy.edu/">Oxy</a>)</td>
         <td>Spring 2016 &ndash; present</td>
     </tr>
     <tr>
-        <td>Topics in Artificial Intelligence (@ <a href="http://www.oxy.edu/">Oxy</a>)</td>
+        <td><a href="http://smartcatalog.co/Catalogs/Occidental-College/2016-2017/Catalog/Courses/COGS-Cognitive-Science/300/COGS-325">Topics in Artificial Intelligence</a> (@ <a href="http://www.oxy.edu/">Oxy</a>)</td>
         <td>Fall 2015</td>
     </tr>
     <tr>
