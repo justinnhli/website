@@ -90,12 +90,8 @@ short_title: CV
     <tr>
         <td>
             <span class="cv-me">Justin Li</span>, Steven Jones, <a href="http://www.shiwali.me/">Shiwali Mohan</a>, and <a href="http://derbinsky.info/">Nate Derbinsky</a>.
-            Architectural Mechanisms for Mitigating Uncertainty during Long-Term Declarative Knowledge Access.
+            <a class="cv-title" href="/files/publications/Li2016ArchitecturalMechanismsFor.pdf">Architectural Mechanisms for Mitigating Uncertainty during Long-Term Declarative Knowledge Access</a>.
             In <span class="cv-booktitle">Proceedings of the 4<sup>th</sup> Annual Conference on Advances in Cognitive Systems (ACS)</span>.
-            <!--
-            <a class="cv-title" href="FIXME">Architectural Mechanisms for Mitigating Uncertainty during Long-Term Declarative Knowledge Access</a>.
-            In <span class="cv-booktitle">Proceedings of the 4<sup>th</sup> Annual Conference on Advances in Cognitive Systems (ACS)</span>, FIXME-FIXME.
-            -->
             Evanston, IL.
         </td>
         <td>2016</td>
