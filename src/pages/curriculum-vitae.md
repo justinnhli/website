@@ -77,13 +77,12 @@ short_title: CV
     <tr>
         <td>
             <span class="cv-me">Justin Li</span>, <a href="http://emmakohanyi.com/">Emma Kohanyi</a>.
-            Towards Modeling False Memory with Computational Knowledge Bases.
+            <a class="cv-title" href="/files/publications/Li2016TowardsModelingFalse.pdf">Towards Modeling False Memory with Computational Knowledge Bases</a>.
             In <span class="cv-booktitle">Proceedings of the 14<sup>th</sup> International Conference on Cognitive Modeling (ICCM)</span>.
             <!--
-            <a class="cv-title" href="FIXME">Towards Modeling False Memory with Computational Knowledge Bases</a>.
             In <span class="cv-booktitle">Proceedings of the 14<sup>th</sup> International Conference on Cognitive Modeling (ICCM)</span>, FIXME-FIXME.
             -->
-            University Park, PA.
+            State College, PA.
         </td>
         <td>2016</td>
     </tr>
@@ -220,6 +219,14 @@ short_title: CV
 
 <table class="cv-table">
     <tr>
+        <td>Emma Kohanyi: <em>Towards a Computational Model of False Memory Acquisition Through the Deese, Roediger, McDermott Task (1995)</em></td>
+        <td>2015-2016</td>
+    </tr>
+    <tr>
+        <td>Saleem Karamali: <em>Automatic Extraction of English Loanwords from Urdu Text</em></td>
+        <td>2015-2016</td>
+    </tr>
+    <tr>
         <td>Arthur Wandzel: <em>Solving the Tower of Hanoi Puzzle in Soar via an Activation-Based Model of Memory</em></td>
         <td>2014</td>
     </tr>
@@ -229,24 +236,37 @@ short_title: CV
 
 <table class="cv-table">
     <tr>
+        <td>Computer Science Advisory Committee</td>
+        <td>2015 &ndash; present</td>
+    </tr>
+    <tr>
         <td>GSI/IA Practice Teaching Facilitator</td>
         <td>2012 &ndash; 2014</td>
     </tr>
     <tr>
-        <td><em>Teaching Problem Solving Skills</em> Seminar Facilitator, with Elizabeth Stewart</td>
+        <td><a href="http://cseg.eecs.umich.edu/">CSEG</a> Secretary, <a href="http://umich.edu/">University of Michigan</a></td>
+        <td>2012 &ndash; 2013</td>
+    </tr>
+</table>
+
+<h3 id="presentations">Presentations</h3>
+
+<table class="cv-table">
+    <tr>
+        <td><em>Scratch and AppInventor for Middle/High Schools</em>, for the <a href="http://www.oxy.edu/teaching-scholars-program">OxyMS Teaching Scholars Summer Institute</a></td>
+        <td>Summer 2016</td>
+    </tr>
+    <tr>
+        <td><em>Teaching Problem Solving Skills</em>, with Elizabeth Stewart for the <a href="http://www.crlt.umich.edu/">Center for Research on Learning and Teaching</a></td>
         <td>Fall 2014</td>
     </tr>
     <tr>
-        <td><em>Seven (Simple) Strategies to Improve your Teaching</em> Seminar Facilitator, with <a href="https://www.cs.swarthmore.edu/~bryce/">Bryce Wiedenbeck</a></td>
+        <td><em>Seven (Simple) Strategies to Improve your Teaching</em>, with <a href="https://www.cs.swarthmore.edu/~bryce/">Bryce Wiedenbeck</a> for the <a href="http://www.crlt.umich.edu/">Center for Research on Learning and Teaching</a></td>
         <td>Winter 2013</td>
     </tr>
     <tr>
-        <td><em>Handling Office Hours</em> Seminar Facilitator, with Karishma Collette</td>
+        <td><em>Handling Office Hours</em>, with Karishma Collette for the <a href="http://www.crlt.umich.edu/">Center for Research on Learning and Teaching</a></td>
         <td>Winter 2013</td>
-    </tr>
-    <tr>
-        <td><a href="http://cseg.eecs.umich.edu/">CSEG</a> Secretary, <a href="http://umich.edu/">University of Michigan</a></td>
-        <td>2012 &ndash; 2013</td>
     </tr>
 </table>
 
