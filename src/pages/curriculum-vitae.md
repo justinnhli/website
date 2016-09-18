@@ -73,10 +73,12 @@ short_title: CV
 
 <h3 id="publications">Publications</h3>
 
+<p>Undergraduate co-authors are marked with an asteriks (*).</p>
+
 <table class="cv-table">
     <tr>
         <td>
-            <span class="cv-me">Justin Li</span>, <a href="http://emmakohanyi.com/">Emma Kohanyi</a>.
+            <span class="cv-me">Justin Li</span> and <a href="http://emmakohanyi.com/">Emma Kohanyi</a><sup>*</sup>.
             <a class="cv-title" href="/files/publications/Li2016TowardsModelingFalse.pdf">Towards Modeling False Memory with Computational Knowledge Bases</a>.
             In <span class="cv-booktitle">Proceedings of the 14<sup>th</sup> International Conference on Cognitive Modeling (ICCM)</span>.
             <!--
