@@ -73,7 +73,7 @@ short_title: CV
 
 <h3 id="publications">Publications</h3>
 
-<p>Undergraduate co-authors are marked with an asteriks (*).</p>
+<p>Undergraduate co-authors are marked with an asterisk (*).</p>
 
 <table class="cv-table">
     <tr>
