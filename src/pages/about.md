@@ -17,4 +17,4 @@ Specifically, I am interested in:
 
 I also write about my adventures at Occidental at [*How to Start a CS Department*](https://howtostartacsdept.wordpress.com/).
 
-<span class="news">NEWS</span> (2016-05-12): I will be presenting at [Advances in Cognitive Systems](http://www.cogsys.org/conference/2016) and at the [International Conference on Cognitive Modeling](http://acs.ist.psu.edu/iccm2016/).
+<span class="news">NEWS</span> (2016-09-26): I was interviewed by the AV Club about [Terminator 2: Judgment Day and the ethics of AI](http://www.avclub.com/video/terminator-2-took-aim-ethics-artificial-intelligen-243044).
