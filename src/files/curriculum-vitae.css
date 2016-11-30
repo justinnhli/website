@@ -1,7 +1,7 @@
 h2 {margin-bottom:1em;}
 #cv-contact-right {float:right; text-align:right;}
 .indented {padding-left:2em;}
-.cv-table {padding-left:1em; width:100%}
+.cv-table {padding-left:1em; width:100%;}
 .cv-table td:first-child {padding-left:0; width:75%;}
 .cv-table td:last-child {text-align:right; width:25%;}
 .cv-table tr, .cv-table td {border-style:none;}

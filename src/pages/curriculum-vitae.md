@@ -33,22 +33,20 @@ short_title: CV
         <td>Graduate Student Research Assistant, <a href="http://umich.edu/">University of Michigan</a>, Ann Arbor, MI.</td>
         <td>2009 &ndash; 2015</td>
     </tr>
+    <tr>
         <td><a href="http://crlte.engin.umich.edu/gsi_serv/etc/what-are-the-etcs/">Engineering Teaching Consultant</a>, <a href="http://umich.edu/">University of Michigan</a></td>
         <td>2012 &ndash; 2014</td>
+    </tr>
     <tr>
         <td>Teaching Assistant, <a href="http://cty.jhu.edu/">Center for Talented Youth</a>, Baltimore, MD.</td>
         <td>2008 &ndash; 2009</td>
     </tr>
     <tr>
-        <td>
-            Teaching Assistant, <a href="http://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.
-        </td>
+        <td>Teaching Assistant, <a href="http://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.</td>
         <td>Spring 2009</td>
     </tr>
     <tr>
-        <td>
-            <a href="http://www.northwestern.edu/searle/programs-events/undergrad/group-study/gsw/index.html">Gateway Science Workshop</a> Facilitator, <a href="http://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.
-        </td>
+        <td><a href="http://www.northwestern.edu/searle/programs-events/undergrad/group-study/gsw/index.html">Gateway Science Workshop</a> Facilitator, <a href="http://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.</td>
         <td>2006 &ndash; 2009</td>
     </tr>
 </table>
@@ -81,9 +79,6 @@ short_title: CV
             <span class="cv-me">Justin Li</span> and <a href="http://emmakohanyi.com/">Emma Kohanyi</a><sup>*</sup>.
             <a class="cv-title" href="/files/publications/Li2016TowardsModelingFalse.pdf">Towards Modeling False Memory with Computational Knowledge Bases</a>.
             In <span class="cv-booktitle">Proceedings of the 14<sup>th</sup> International Conference on Cognitive Modeling (ICCM)</span>.
-            <!--
-            In <span class="cv-booktitle">Proceedings of the 14<sup>th</sup> International Conference on Cognitive Modeling (ICCM)</span>, FIXME-FIXME.
-            -->
             State College, PA.
         </td>
         <td>2016</td>
