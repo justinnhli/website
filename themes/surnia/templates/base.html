@@ -30,7 +30,7 @@
 
 		<ul id="nav" class="hidden-print">
 		{% if DISPLAY_PAGES_ON_MENU -%}
-		{% for pg in PAGES %}
+		{% for pg in pages %}
 			<li{% if pg == page %} class="active"{% endif %}><a href="/{{ pg.url }}">{{ pg.short_title }}</a></li>
 		{% endfor %}
 		{% endif %}
