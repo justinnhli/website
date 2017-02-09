@@ -10,7 +10,7 @@ html:
 publish: html
 	find html -name '.*.un~' -exec rm -f {} +
 	find html -name '.*.swp' -exec rm -f {} +
-	lftp -u justinnhli, sftp://justinnhli.com -e "mirror -vvvR --only-newer --ignore-time html justinnhli.com ; quit"
+	rsync --archive --progress --rsh=ssh html/ justinnhli.com:/home/justinnhli/justinnhli.com
 
 clean:
 	rm -rf html
