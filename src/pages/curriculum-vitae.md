@@ -76,6 +76,15 @@ short_title: CV
 <table class="cv-table">
     <tr>
         <td>
+            <span class="cv-me">Justin Li</span>.
+            <a class="cv-title" href="/files/publications/Li2017WeavingDiversityAnd.pdf">Weaving Diversity and Inclusion into CS Content</a>.
+            In <span class="cv-booktitle">Proceedings of the 48<sup>th</sup> ACM Technical Symposium on Computer Science Education (SIGCSE)</span>.
+            Seattle, WA.
+        </td>
+        <td>2017</td>
+    </tr>
+    <tr>
+        <td>
             <span class="cv-me">Justin Li</span> and <a href="http://emmakohanyi.com/">Emma Kohanyi</a><sup>*</sup>.
             <a class="cv-title" href="/files/publications/Li2016TowardsModelingFalse.pdf">Towards Modeling False Memory with Computational Knowledge Bases</a>.
             In <span class="cv-booktitle">Proceedings of the 14<sup>th</sup> International Conference on Cognitive Modeling (ICCM)</span>.
