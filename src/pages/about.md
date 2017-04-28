@@ -17,4 +17,6 @@ Specifically, I am interested in:
 
 I also write about my adventures at Occidental at [*How to Start a CS Department*](https://howtostartacsdept.wordpress.com/).
 
+<!--
 <span class="news">NEWS</span> (2016-09-26): I was interviewed by the AV Club about [Terminator 2: Judgment Day and the ethics of AI](http://www.avclub.com/video/terminator-2-took-aim-ethics-artificial-intelligen-243044).
+-->
