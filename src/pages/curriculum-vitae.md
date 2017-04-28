@@ -85,6 +85,14 @@ short_title: CV
     </tr>
     <tr>
         <td>
+            <span class="cv-me">Justin Li</span>.
+            <a class="cv-title" href="/files/publications/Li2017TowardsModelingFalse.pdf">Towards Modeling False Memory with Computational Knowledge Bases</a>.
+            <span class="cv-booktitle">Topics in Cognitive Science (TopiCS)</span>, 9(1), 102-116.
+        </td>
+        <td>2017</td>
+    </tr>
+    <tr>
+        <td>
             <span class="cv-me">Justin Li</span> and <a href="http://emmakohanyi.com/">Emma Kohanyi</a><sup>*</sup>.
             <a class="cv-title" href="/files/publications/Li2016TowardsModelingFalse.pdf">Towards Modeling False Memory with Computational Knowledge Bases</a>.
             In <span class="cv-booktitle">Proceedings of the 14<sup>th</sup> International Conference on Cognitive Modeling (ICCM)</span>.
