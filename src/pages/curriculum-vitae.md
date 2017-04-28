@@ -27,7 +27,7 @@ short_title: CV
 <table class="cv-table">
     <tr>
         <td>Assistant Professor, <a href="http://oxy.edu/">Occidental College</a>, Los Angeles, CA.</td>
-        <td>2015 &ndash; current</td>
+        <td>2015 &ndash; present</td>
     </tr>
     <tr>
         <td>Graduate Student Research Assistant, <a href="http://umich.edu/">University of Michigan</a>, Ann Arbor, MI.</td>
