@@ -34,7 +34,7 @@ short_title: CV
         <td>2009 &ndash; 2015</td>
     </tr>
     <tr>
-        <td><a href="http://crlte.engin.umich.edu/gsi_serv/etc/what-are-the-etcs/">Engineering Teaching Consultant</a>, <a href="http://umich.edu/">University of Michigan</a></td>
+        <td><a href="https://crlte.engin.umich.edu/gsi_serv/etc/what-are-the-etcs/">Engineering Teaching Consultant</a>, <a href="http://umich.edu/">University of Michigan</a></td>
         <td>2012 &ndash; 2014</td>
     </tr>
     <tr>
@@ -63,7 +63,7 @@ short_title: CV
     <tr>
         <td>
             BS in Computer Science, <em>cum laude</em>. <a href="http://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.<br>
-            <span class="indented">with a <a href="http://segal.northwestern.edu/programs/undergraduate/segal-design-certificate/">Certificate in Engineering Design</a></span>
+            <span class="indented">with a <a href="http://design.northwestern.edu/programs/segal-design-certificate/">Certificate in Engineering Design</a></span>
         </td>
         <td>2009</td>
     </tr>
@@ -258,7 +258,7 @@ short_title: CV
         <td>2012 &ndash; 2014</td>
     </tr>
     <tr>
-        <td><a href="http://cseg.eecs.umich.edu/">CSEG</a> Secretary, <a href="http://umich.edu/">University of Michigan</a></td>
+        <td><a href="https://um-cseg.github.io/">CSEG</a> Secretary, <a href="http://umich.edu/">University of Michigan</a></td>
         <td>2012 &ndash; 2013</td>
     </tr>
 </table>
