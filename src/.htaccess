@@ -4,4 +4,4 @@ ErrorDocument 404 /pages/404.html
 # redirect to https
 RewriteEngine On
 RewriteCond %{SERVER_PORT} 80
-RewriteRule ^(.*)$ https://www.example.com/$1 [R,L]
+RewriteRule ^(.*)$ https://justinnhli.com/$1 [R,L]
