@@ -251,6 +251,10 @@ short_title: CV
 
 <table class="cv-table">
     <tr>
+        <td>Reviewer for GHC, IJAIT, ITICSE, SIGCSE</td>
+        <td></td>
+    </tr>
+    <tr>
         <td>Computer Science Advisory Committee</td>
         <td>2015 &ndash; present</td>
     </tr>
