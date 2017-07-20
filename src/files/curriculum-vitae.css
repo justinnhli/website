@@ -2,9 +2,9 @@ h2 {margin-bottom:1em;}
 #cv-contact-right {float:right; text-align:right;}
 .indented {padding-left:2em;}
 .cv-table {padding-left:1em; width:100%;}
-.cv-table td:first-child {padding-left:0; width:75%;}
-.cv-table td:last-child {text-align:right; width:25%;}
 .cv-table tr, .cv-table td {border-style:none;}
+.cv-table td:first-child {padding:5pt 0; width:75%;}
+.cv-table td:last-child {text-align:right; width:25%;}
 .cv-table span.addendum {padding-left:2em;}
 .cv-paragraph {margin:10px 0 10px 1em;}
 .cv-me {font-weight:bold; line-height:15pt;}
