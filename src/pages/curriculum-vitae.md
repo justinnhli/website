@@ -183,8 +183,8 @@ short_title: CV
     </tr>
 </table>
 
+<!--
 <h3 id="teaching">Teaching</h3>
-
 
 <table class="cv-table">
     <tr>
@@ -228,6 +228,7 @@ short_title: CV
         <td>2006 &ndash; 2009</td>
     </tr>
 </table>
+-->
 
 <h3 id="mentoring">Mentoring</h3>
 
