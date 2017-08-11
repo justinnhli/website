@@ -1,12 +1,13 @@
 body {background-color:#EEEEEC; color:#2E3436; font-family:'EB Garamond',Garamond,serif; font-size:14pt; line-height:18pt; margin:0 auto; max-width:730px; padding:0 5px;}
 
-h1, h2, h3, h4 {font-family:'Cardo',serif; font-variant:small-caps; letter-spacing:0.05em; line-height:36pt; margin:0;}
-h1 {color:#4E9A06; font-size:20pt; font-weight:bold; text-align:center;}
-h2 {color:#4E9A06; font-size:18pt; font-weight:bold;}
-h3 {font-size:16pt; font-weight:bold;}
-h4 {font-size:15pt; font-weight:bold; font-variant:normal;}
-h5 {font-size:14pt; font-weight:bold;}
-h6 {font-size:14pt;}
+h1, h2, h3, h4, h5, h6 {font-variant:small-caps; font-weight:bold; letter-spacing:0.05em; line-height:200%; margin:0;}
+h1, h2, h3 {font-family:'Cardo',serif;}
+h1 {color:#4E9A06; font-size:20pt; text-align:center;}
+h2 {color:#4E9A06; font-size:18pt;}
+h3 {font-size:16pt;}
+h4 {font-size:14pt; text-decoration:underline;}
+h5 {font-size:14pt; }
+h6 {font-size:14pt; font-variant:normal;}
 h1 a, h1 a:active, h1 a:hover, h1 a:visited {text-decoration:none;}
 h2 a, h2 a:active, h2 a:hover, h2 a:visited {text-decoration:none;}
 h3 a, h3 a:active, h3 a:hover, h3 a:visited {text-decoration:none;}
@@ -14,7 +15,7 @@ h3 a, h3 a:active, h3 a:hover, h3 a:visited {text-decoration:none;}
 a, a:active, a:visited {color:inherit; text-decoration:underline;}
 a:hover {color:#2F5609;}
 
-p {margin:0 0 20pt 0;}
+p {margin:0 0 1em 0;}
 blockquote {border-left-color:#D3D7CF; margin:0 0 20pt 0; padding-top:0; padding-bottom:0;}
 blockquote p {font-size:14pt; font-weight:normal; line-height:18pt; margin:0 0 20pt 0;}
 img {max-width:100%;}

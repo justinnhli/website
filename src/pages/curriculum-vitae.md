@@ -22,6 +22,7 @@ short_title: CV
     My research is broadly on the strategies that people and artificial agents might use in their search for knowledge during problem solving, from indicators that more knowledge is needed, to strategies for acquiring that knowledge, to the mechanisms, algorithms, and representations of knowledge for efficient retrieval.
 </p>
 
+<div class="no-break">
 <h3 id="experience">Experience</h3>
 
 <table class="cv-table">
@@ -34,7 +35,7 @@ short_title: CV
         <td>2009 &ndash; 2015</td>
     </tr>
     <tr>
-        <td><a href="https://crlte.engin.umich.edu/gsi_serv/etc/what-are-the-etcs/">Engineering Teaching Consultant</a>, <a href="http://umich.edu/">University of Michigan</a></td>
+        <td><a href="https://crlte.engin.umich.edu/gsi_serv/etc/what-are-the-etcs/">Engineering Teaching Consultant</a>, <a href="http://umich.edu/">University of Michigan</a>, Ann Arbor, MI.</td>
         <td>2012 &ndash; 2014</td>
     </tr>
     <tr>
@@ -50,7 +51,9 @@ short_title: CV
         <td>2006 &ndash; 2009</td>
     </tr>
 </table>
+</div>
 
+<div class="no-break">
 <h3 id="education">Education</h3>
 
 <table class="cv-table">
@@ -68,21 +71,31 @@ short_title: CV
         <td>2009</td>
     </tr>
 </table>
+</div>
 
+<div class="no-break">
 <h3 id="publications">Publications</h3>
 
-<p>Undergraduate co-authors are marked with an asterisk (*).</p>
+<p class="cv-note">Undergraduate co-authors are marked with an asterisk (*).</p>
+
+<h4 id="journals">Journal Articles</h4>
 
 <table class="cv-table">
     <tr>
         <td>
-            <span class="cv-me">Justin Li</span>.
-            <a class="cv-title" href="/files/publications/Li2017WeavingDiversityAnd.pdf">Weaving Diversity and Inclusion into CS Content</a>.
-            In <span class="cv-booktitle">Proceedings of the 48<sup>th</sup> ACM Technical Symposium on Computer Science Education (SIGCSE)</span>.
-            Seattle, WA.
+            <span class="cv-me">Justin Li</span> and <a href="http://emmakohanyi.com/">Emma Kohanyi</a><sup class="cv-student">*</sup>.
+            <a class="cv-title" href="/files/publications/Li2017TowardsModelingFalse.pdf">Towards Modeling False Memory with Computational Knowledge Bases</a>.
+            <span class="cv-booktitle">Topics in Cognitive Science (TopiCS)</span>, 9(1), 102-116.
         </td>
         <td>2017</td>
     </tr>
+</table>
+</div>
+
+<div class="no-break">
+<h4 id="conferences">Peer-Reviewed Conference Papers</h4>
+
+<table class="cv-table">
     <tr>
         <td>
             <span class="cv-me">Justin Li</span> and <a href="http://emmakohanyi.com/">Emma Kohanyi</a><sup class="cv-student">*</sup>.
@@ -148,15 +161,6 @@ short_title: CV
     <tr>
         <td>
             <a href="http://derbinsky.info/">Nate Derbinsky</a>, <span class="cv-me">Justin Li</span>, and <a href="http://ai.eecs.umich.edu/people/laird/">John E. Laird</a>.
-            <a class="cv-title" href="/files/publications/Derbinsky2012AlgorithmsForScaling.pdf">Algorithms for Scaling in a General Episodic Memory (Extended Abstract)</a>.
-            In <span class="cv-booktitle">Proceedings of the 11<sup>th</sup> International Conference on Autonomous Agents and Multiagent Systems (AAMAS)</span>, 1387-1388.
-            Valencia, Spain.
-        </td>
-        <td>2012</td>
-    </tr>
-    <tr>
-        <td>
-            <a href="http://derbinsky.info/">Nate Derbinsky</a>, <span class="cv-me">Justin Li</span>, and <a href="http://ai.eecs.umich.edu/people/laird/">John E. Laird</a>.
             <a class="cv-title" href="/files/publications/Derbinsky2012AMultiDomain.pdf">A Multi-Domain Evaluation of Scaling in a General Episodic Memory.</a>
             In <span class="cv-booktitle">Proceedings of the 26<sup>th</sup> AAAI Conference on Artificial Intelligence (AAAI)</span>, 193-199.
             Toronto, Canada.
@@ -172,6 +176,13 @@ short_title: CV
         </td>
         <td>2012</td>
     </tr>
+</table>
+</div>
+
+<div class="no-break">
+<h4 id="symposia">Peer-Reviewed Symposia Papers</h4>
+
+<table class="cv-table">
     <tr>
         <td>
             <span class="cv-me">Justin Li</span> and <a href="http://ai.eecs.umich.edu/people/laird/">John E. Laird</a>.
@@ -182,95 +193,108 @@ short_title: CV
         <td>2011</td>
     </tr>
 </table>
+</div>
 
-<!--
-<h3 id="teaching">Teaching</h3>
+<div class="no-break">
+<h4 id="abstracts">Peer-Reviewed Abstracts</h4>
 
 <table class="cv-table">
     <tr>
-        <td><a href="http://smartcatalog.co/Catalogs/Occidental-College/2016-2017/Catalog/Courses/COGS-Cognitive-Science/100/COGS-101">Introduction to Cognitive Science</a> (@ <a href="http://www.oxy.edu/">Oxy</a>)</td>
+        <td>
+            <span class="cv-me">Justin Li</span>.
+            <a class="cv-title" href="/files/publications/Li2017WeavingDiversityAnd.pdf">Weaving Diversity and Inclusion into CS Content</a>.
+            In <span class="cv-booktitle">Proceedings of the 48<sup>th</sup> ACM Technical Symposium on Computer Science Education (SIGCSE)</span>.
+            Seattle, WA.
+        </td>
+        <td>2017</td>
+    </tr>
+    <tr>
+        <td>
+            <a href="http://derbinsky.info/">Nate Derbinsky</a>, <span class="cv-me">Justin Li</span>, and <a href="http://ai.eecs.umich.edu/people/laird/">John E. Laird</a>.
+            <a class="cv-title" href="/files/publications/Derbinsky2012AlgorithmsForScaling.pdf">Algorithms for Scaling in a General Episodic Memory (Extended Abstract)</a>.
+            In <span class="cv-booktitle">Proceedings of the 11<sup>th</sup> International Conference on Autonomous Agents and Multiagent Systems (AAMAS)</span>, 1387-1388.
+            Valencia, Spain.
+        </td>
+        <td>2012</td>
+    </tr>
+</table>
+</div>
+
+<div class="no-break">
+<h4 id="presentations">Presentations</h4>
+
+<table class="cv-table">
+    <tr>
+        <td><em>Retracing the Rational Analysis of Memory</em>, at the <a href="https://soar.eecs.umich.edu/workshop/34/index.html">34<sup>th</sup> Soar Workshop</a></td>
+        <td>Summer 2014</td>
+    </tr>
+    <tr>
+        <td><em>Do's and Don't's of Episodic Memory</em>, at the <a href="https://soar.eecs.umich.edu/workshop/31/index.html">31<sup>st</sup> Soar Workshop</a></td>
+        <td>Summer 2011</td>
+    </tr>
+</table>
+</div>
+
+<div class="no-break">
+<h3 id="teaching">Teaching</h3>
+
+<h4 id="courses">College Courses</h4>
+
+<table class="cv-table">
+    <tr>
+        <td><a href="http://smartcatalog.co/Catalogs/Occidental-College/2016-2017/Catalog/Courses/COGS-Cognitive-Science/100/COGS-101">Introduction to Cognitive Science</a> </td>
         <td>Fall 2015 &ndash; present</td>
     </tr>
     <tr>
-        <td><a href="http://smartcatalog.co/Catalogs/Occidental-College/2016-2017/Catalog/Courses/COMP-Computer-Science/100/COMP-131">Computer Science through Media</a> (@ <a href="http://www.oxy.edu/">Oxy</a>)</td>
+        <td><a href="http://smartcatalog.co/Catalogs/Occidental-College/2016-2017/Catalog/Courses/COMP-Computer-Science/100/COMP-131">Fundamentals of Computer Science</a> </td>
         <td>Spring 2016 &ndash; present</td>
     </tr>
     <tr>
-        <td><a href="http://smartcatalog.co/Catalogs/Occidental-College/2016-2017/Catalog/Courses/COGS-Cognitive-Science/300/COGS-325">Topics in Artificial Intelligence</a> (@ <a href="http://www.oxy.edu/">Oxy</a>)</td>
-        <td>Fall 2015</td>
+        <td><a href="http://smartcatalog.co/Catalogs/Occidental-College/2016-2017/Catalog/Courses/COGS-Cognitive-Science/300/COGS-325">Topics in Artificial Intelligence</a> </td>
+        <td>Fall 2015 &ndash; present</td>
     </tr>
     <tr>
-        <td><a href="https://eecs183.org/">Elementary Programming Concepts</a> (@ <a href="http://umich.edu/">Michigan</a>)</td>
+        <td><a href="https://eecs183.org/">Elementary Programming Concepts</a> </td>
         <td>Winter 2015</td>
     </tr>
     <tr>
-        <td><a href="http://www.engin.umich.edu/college/academics/bulletin/courses/eecs">Introduction to Artificial Intelligence</a> (@ <a href="http://umich.edu/">Michigan</a>)</td>
+        <td><a href="http://www.engin.umich.edu/college/academics/bulletin/courses/eecs">Introduction to Artificial Intelligence</a> </td>
         <td>Winter 2014</td>
     </tr>
     <tr>
-        <td>Agent Based Modeling (@ <a href="http://umich.edu/">Michigan</a>)</td>
-        <td>Winter 2012</td>
-    </tr>
-    <tr>
-        <td><a href="http://www.engin.umich.edu/college/academics/bulletin/courses/eecs">Programming and Introductory Data Structures</a> (@ <a href="http://umich.edu/">Michigan</a>)</td>
+        <td><a href="http://www.engin.umich.edu/college/academics/bulletin/courses/eecs">Programming and Introductory Data Structures</a> </td>
         <td>2009 &ndash; 2010</td>
     </tr>
     <tr>
-        <td><a href="http://cty.jhu.edu/summer/grades2-6/catalog/math.html#irob">Introduction to Robotics</a> (@ <a href="http://cty.jhu.edu/">CTY</a>)</td>
-        <td>2008 &ndash; 2009</td>
-    </tr>
-    <tr>
-        <td><a href="http://eecs.northwestern.edu/~robby/courses/322-2009-spring/">Compiler Construction</a> (@ <a href="http://www.northwestern.edu/">Northwestern</a>)
+        <td><a href="http://eecs.northwestern.edu/~robby/courses/322-2009-spring/">Compiler Construction</a></td>
         <td>Spring 2009</td>
     </tr>
-    <tr>
-        <td><a href="http://www.mccormick.northwestern.edu/academics/undergraduate/core-curriculum/engineering-first.html#innovative-curriculum">Engineering Analysis</a> (@ <a href="http://www.northwestern.edu/searle/programs-events/undergrad/group-study/gsw/index.html">GSW</a>)</td>
-        <td>2006 &ndash; 2009</td>
-    </tr>
 </table>
--->
+</div>
 
-<h3 id="mentoring">Mentoring</h3>
+<div class="no-break">
+<h4 id="lectures">Guest Lectures</h4>
 
 <table class="cv-table">
     <tr>
-        <td>Emma Kohanyi: <em>Towards a Computational Model of False Memory Acquisition Through the Deese, Roediger, McDermott Task (1995)</em></td>
-        <td>2015-2016</td>
+        <td><em>Beyond Cool Apps: Doing Research in CS</em> for the <a href="https://www.oxy.edu/undergraduate-research-center/summer-opportunities/oxy-summer-research-program">Occidental Summer Research Program</a></td>
+        <td>Summer 2017</td>
     </tr>
     <tr>
-        <td>Saleem Karamali: <em>Automatic Extraction of English Loanwords from Urdu Text</em></td>
-        <td>2015-2016</td>
-    </tr>
-    <tr>
-        <td>Arthur Wandzel: <em>Solving the Tower of Hanoi Puzzle in Soar via an Activation-Based Model of Memory</em></td>
-        <td>2014</td>
+        <td><em>Where is the Gender in AI?</em> in <a href="http://smartcatalog.co/en/Catalogs/Occidental-College/2016-2017/Catalog/Courses/MAC-Media-Arts-and-Culture/200/MAC-244">From Cyborgs to Siri: Gender, Technology and Media</a></td>
+        <td>Fall 2016</td>
     </tr>
 </table>
+</div>
 
-<h3 id="service">Service</h3>
+<div class="no-break">
+<h4 id="workshops">Workshops, Summer Camps, and Peer Tutoring</h4>
 
 <table class="cv-table">
     <tr>
-        <td>Reviewer for GHC, IJAIT, ITICSE, SIGCSE</td>
-        <td></td>
+        <td><em>Computer Science and Middle/High School Math/Science</em>, for the <a href="http://www.oxy.edu/teaching-scholars-program">OxyMS Teaching Scholars Summer Institute</a></td>
+        <td>Summer 2017</td>
     </tr>
-    <tr>
-        <td>Computer Science Advisory Committee</td>
-        <td>2015 &ndash; present</td>
-    </tr>
-    <tr>
-        <td>GSI/IA Practice Teaching Facilitator</td>
-        <td>2012 &ndash; 2014</td>
-    </tr>
-    <tr>
-        <td><a href="https://um-cseg.github.io/">CSEG</a> Secretary, <a href="http://umich.edu/">University of Michigan</a></td>
-        <td>2012 &ndash; 2013</td>
-    </tr>
-</table>
-
-<h3 id="presentations">Presentations</h3>
-
-<table class="cv-table">
     <tr>
         <td><em>Scratch and AppInventor for Middle/High Schools</em>, for the <a href="http://www.oxy.edu/teaching-scholars-program">OxyMS Teaching Scholars Summer Institute</a></td>
         <td>Summer 2016</td>
@@ -287,8 +311,76 @@ short_title: CV
         <td><em>Handling Office Hours</em>, with Karishma Collette for the <a href="http://www.crlt.umich.edu/">Center for Research on Learning and Teaching</a></td>
         <td>Winter 2013</td>
     </tr>
+    <tr>
+        <td>Agent Based Modeling Mini-Course</td>
+        <td>Winter 2012</td>
+    </tr>
+    <tr>
+        <td><a href="http://cty.jhu.edu/summer/grades2-6/catalog/math.html#irob">Introduction to Robotics</a></td>
+        <td>2008 &ndash; 2009</td>
+    </tr>
+    <tr>
+        <td><a href="http://www.mccormick.northwestern.edu/academics/undergraduate/core-curriculum/engineering-first.html#innovative-curriculum">Engineering Analysis</a></td>
+        <td>2006 &ndash; 2009</td>
+    </tr>
 </table>
+</div>
 
+<div class="no-break">
+<h3 id="mentoring">Undergraduate Mentoring</h3>
+
+<table class="cv-table">
+    <tr>
+        <td>Chloe Zeller: <em>Efficient Search over Episodic Memory using Classification Labels</em></td>
+        <td>2017</td>
+    </tr>
+    <tr>
+        <td>Abel Quintero: <em>At the Crux of Memory Search and Web Search</em></td>
+        <td>2016</td>
+    </tr>
+    <tr>
+        <td>Nick Trzcinko: <em>Exploring the Problem Space of Memory Queries</em></td>
+        <td>2015 &ndash; 2016</td>
+    </tr>
+    <tr>
+        <td>Emma Kohanyi: <em>Towards a Computational Model of False Memory Acquisition Through the Deese, Roediger, McDermott Task (1995)</em></td>
+        <td>2015 &ndash; 2016</td>
+    </tr>
+    <tr>
+        <td>Saleem Karamali: <em>Automatic Extraction of English Loanwords from Urdu Text</em></td>
+        <td>2015 &ndash; 2016</td>
+    </tr>
+    <tr>
+        <td>Arthur Wandzel: <em>Solving the Tower of Hanoi Puzzle in Soar via an Activation-Based Model of Memory</em></td>
+        <td>2014</td>
+    </tr>
+</table>
+</div>
+
+<div class="no-break">
+<h3 id="service">Service</h3>
+
+<table class="cv-table">
+    <tr>
+        <td>Reviewer for GHC, IJAIT, ITICSE, SIGCSE</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Computer Science Advisory Committee</td>
+        <td>2015 &ndash; 2017</td>
+    </tr>
+    <tr>
+        <td>GSI/IA Practice Teaching Facilitator</td>
+        <td>2012 &ndash; 2014</td>
+    </tr>
+    <tr>
+        <td><a href="https://um-cseg.github.io/">CSEG</a> Secretary, <a href="http://umich.edu/">University of Michigan</a></td>
+        <td>2012 &ndash; 2013</td>
+    </tr>
+</table>
+</div>
+
+<div class="no-break">
 <h3 id="awards">Awards</h3>
 
 <table class="cv-table">
@@ -297,14 +389,16 @@ short_title: CV
         <td>Fall 2009</td>
     </tr>
 </table>
+</div>
 
+<div class="no-break">
 <h3 id="software">Software</h3>
 
 <table class="cv-table">
     <tr>
         <td>
             <span class="cv-me">Justin Li</span> and <a href="http://ccl.northwestern.edu/uri/">Uri Wilensky</a> (2009).
-            <a class="cv-title" href="http://ccl.northwestern.edu/netlogo/models/Sugarscape1ImmediateGrowback">NetLogo Sugarscape 1 Immediate Growback model</a>.
+            <a class="cv-title" href="http://ccl.northwestern.edu/netlogo/models/Sugarscape1ImmediateGrowback">NetLogo Sugarscape 1 Immediate Growback Model</a>.
             <a href="http://ccl.northwestern.edu/">Center for Connected Learning and Computer-Based Modeling</a>, <a href="http://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.
         </td>
         <td>2009</td>
@@ -312,7 +406,7 @@ short_title: CV
     <tr>
         <td>
             <span class="cv-me">Justin Li</span> and <a href="http://ccl.northwestern.edu/uri/">Uri Wilensky</a> (2009).
-            <a class="cv-title" href="http://ccl.northwestern.edu/netlogo/models/Sugarscape2ConstantGrowback">NetLogo Sugarscape 2 Constant Growback model</a>.
+            <a class="cv-title" href="http://ccl.northwestern.edu/netlogo/models/Sugarscape1ImmediateGrowback">NetLogo Sugarscape 1 Immediate Growback Model</a>.
             <a href="http://ccl.northwestern.edu/">Center for Connected Learning and Computer-Based Modeling</a>, <a href="http://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.
         </td>
         <td>2009</td>
@@ -320,13 +414,23 @@ short_title: CV
     <tr>
         <td>
             <span class="cv-me">Justin Li</span> and <a href="http://ccl.northwestern.edu/uri/">Uri Wilensky</a> (2009).
-            <a class="cv-title" href="http://ccl.northwestern.edu/netlogo/models/Sugarscape3WealthDistribution">NetLogo Sugarscape 3 Wealth Distribution model</a>.
+            <a class="cv-title" href="http://ccl.northwestern.edu/netlogo/models/Sugarscape2ConstantGrowback">NetLogo Sugarscape 2 Constant Growback Model</a>.
+            <a href="http://ccl.northwestern.edu/">Center for Connected Learning and Computer-Based Modeling</a>, <a href="http://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.
+        </td>
+        <td>2009</td>
+    </tr>
+    <tr>
+        <td>
+            <span class="cv-me">Justin Li</span> and <a href="http://ccl.northwestern.edu/uri/">Uri Wilensky</a> (2009).
+            <a class="cv-title" href="http://ccl.northwestern.edu/netlogo/models/Sugarscape3WealthDistribution">NetLogo Sugarscape 3 Wealth Distribution Model</a>.
             <a href="http://ccl.northwestern.edu/">Center for Connected Learning and Computer-Based Modeling</a>, <a href="http://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.
         </td>
         <td>2009</td>
     </tr>
 </table>
+</div>
 
+<div class="no-break">
 <h3 id="design">Design</h3>
 
 <table class="cv-table">
@@ -335,3 +439,4 @@ short_title: CV
         <td>Spring 2009</td>
     </tr>
 </table>
+</div>
