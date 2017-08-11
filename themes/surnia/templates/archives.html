@@ -4,9 +4,6 @@
 	<h2>Writings</h2>
 
 	<table id="archives">
-		<tr>
-			<th></th><td></td>
-		</tr>
 	{% for article in dates %}
 		<tr>
 			<th>{{ article.locale_date }}</th><td><a href="/{{ article.url }}">{{ article.title }}</a></td>
