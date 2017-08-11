@@ -4,7 +4,7 @@ SITEURL = "http://justinnhli.com"
 
 MENUITEMS = (
     ("Tweets", "https://twitter.com/justinnhli/"),
-    ("Writings", "http://justinnhli.com/writings.html"),
+    ("Writings", "/writings.html"),
     ("Code", "https://github.com/justinnhli?tab=repositories"),
 )
 
