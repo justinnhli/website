@@ -31,11 +31,15 @@
 		<ul id="nav" class="hidden-print">
 		{% if DISPLAY_PAGES_ON_MENU -%}
 		{% for pg in pages %}
-			<li{% if pg == page %} class="active"{% endif %}><a href="/{{ pg.url }}">{{ pg.short_title }}</a></li>
+			<li{% if pg == page %} class="active"{% endif %}>
+				<a href="/{{ pg.url }}">{{ pg.short_title }}</a>
+			</li>
 		{% endfor %}
 		{% endif %}
 		{% for title, link in MENUITEMS %}
-			<li><a href="{{ link }}">{{ title }}</a></li>
+			<li{% if title == "Writings" and (category is defined or output_file == ARCHIVES_SAVE_AS) %} class="active"{% endif %}>
+				<a href="{{ link }}">{{ title }}</a>
+			</li>
 		{% endfor %}
 		</ul>
 
