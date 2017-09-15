@@ -258,15 +258,15 @@ short_title: CV
         <td>Winter 2015</td>
     </tr>
     <tr>
-        <td><a href="http://www.engin.umich.edu/college/academics/bulletin/courses/eecs">Introduction to Artificial Intelligence</a> </td>
+        <td><a href="http://www.engin.umich.edu/college/academics/bulletin/courses/eecs">Introduction to Artificial Intelligence</a> (as a TA)</td>
         <td>Winter 2014</td>
     </tr>
     <tr>
-        <td><a href="http://www.engin.umich.edu/college/academics/bulletin/courses/eecs">Programming and Introductory Data Structures</a> </td>
+        <td><a href="http://www.engin.umich.edu/college/academics/bulletin/courses/eecs">Programming and Introductory Data Structures</a> (as a TA)</td>
         <td>2009 &ndash; 2010</td>
     </tr>
     <tr>
-        <td><a href="http://eecs.northwestern.edu/~robby/courses/322-2009-spring/">Compiler Construction</a></td>
+        <td><a href="http://eecs.northwestern.edu/~robby/courses/322-2009-spring/">Compiler Construction</a> (as a TA)</td>
         <td>Spring 2009</td>
     </tr>
 </table>
