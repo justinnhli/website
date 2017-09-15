@@ -25,7 +25,7 @@ little to no description. The idea is that the world is determined by
 what the player chooses to do. This is hard to explain, so let me
 demonstrate.
 
-The player starts the game, but seems the initial empty prompt. Pressing
+The player starts the game, but sees the initial empty prompt. Pressing
 enter and seeing nothing, they type "look", the standard descriptive
 command in IF. The description then replies with that the player
 discovers he "perceives" something.
@@ -48,23 +48,28 @@ the Deathly Hallows:
 > He lay face down, listening to the silence. He was perfectly alone.
 > Nobody was watching Nobody else was there. He was not perfectly sure
 > that he was there himself.  
+>
 > A long time later, or maybe no time at all, it came to him that he
 > must exist, must be more than disembodied though, because he was
 > lying, definitely lying, on some surface. Therefore, he had a sense of
 > touch, and the thing against which he lay existed too.  
+>
 > Almost as soon as he had reached this conclusion, Harry became
 > conscious that he was naked. Convinced as he was of his total
 > solitude, this did not concern him, but it did intrigue him slightly.
+
 > He wondered whether, as he could feel, he would be able to see. In
 > opening them, he discovered that he had eyes.  
+>
 > He lay in a bright mist, though it was not like mist he had ever
 > experienced before. his surroundings were not hidden by cloudly
 > vapour; rather the cloudy vapour had not yet formed into surroundings.
+>
 > The floor on which he lay seemed to be white, neither warm nor cold,
 > but simply there, a flat, blank something on which to be.  
+>
 > He sat up. His body appeared unscathed. He touched his face. He was
 > not wearing glasses anymore.
-> </p>
 
 This is the same way the player would discover the philosophical terrain
 around his character. Once the player understands what is going on (I
