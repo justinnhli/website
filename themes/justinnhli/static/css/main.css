@@ -16,8 +16,7 @@ a, a:active, a:visited {color:inherit; text-decoration:underline;}
 a:hover {color:#2F5609;}
 
 p {margin:0 0 1em 0;}
-blockquote {border-left-color:#D3D7CF; margin:0 0 20pt 0; padding-top:0; padding-bottom:0;}
-blockquote p {font-size:14pt; font-weight:normal; line-height:18pt; margin:0 0 20pt 0;}
+blockquote {border-left: 5px #D3D7CF solid; margin:0 0 1em 0; padding-left:1em;}
 img {max-width:100%;}
 code {background-color:transparent; color:inherit; font-family:monospace;}
 
