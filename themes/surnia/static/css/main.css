@@ -18,7 +18,7 @@ a:hover {color:#2F5609;}
 p {margin:0 0 1em 0;}
 blockquote {border-left: 5px #D3D7CF solid; margin:0 0 1em 0; padding-left:1em;}
 img {max-width:100%;}
-code {background-color:transparent; color:inherit; font-family:monospace;}
+code, pre {background-color:transparent; color:inherit; font-family:monospace; font-size:11pt;}
 
 /* lists */
 ul, ol, dl {margin:0 0 20pt 1em;}
