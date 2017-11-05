@@ -183,8 +183,14 @@ status: hidden
 <hr />
 
 <h1 id="misc">Misc Stuff - abbr, acronym, pre, code, sub, sup, etc.</h1>
-<p>Lorem <sup>superscript</sup> dolor <sub>subscript</sub> amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. <cite>cite</cite>. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. <acronym title="National Basketball Association">NBA</acronym> Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. <abbr title="Avenue">AVE</abbr></p>
-<pre><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. <acronym title="National Basketball Association">NBA</acronym> Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. <abbr title="Avenue">AVE</abbr></p></pre>
+<p>Lorem <sup>superscript</sup> ipsum <sub>subscript</sub> dolor <cite>cite</cite> amet, <acronym title="National Basketball Association">NBA</acronym> consectetur <abbr title="Avenue">AVE</abbr> adipiscing <code>__main__</code> elit.</p>
+<pre>
+public class Main {
+    public static void main(String[] args) {
+	    System.out.println("Hello, World!");
+	}
+}
+</pre>
 <blockquote>
 	"This stylesheet is going to help so freaking much." <br />-Blockquote
 </blockquote>
