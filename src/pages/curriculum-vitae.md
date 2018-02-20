@@ -27,7 +27,7 @@ short_title: CV
 
 <table class="cv-table">
     <tr>
-        <td>Assistant Professor, <a href="http://oxy.edu/">Occidental College</a>, Los Angeles, CA.</td>
+        <td>Assistant Professor in <a href="https://www.oxy.edu/computer-science/">Computer Science</a> and <a href="https://www.oxy.edu/cognitive-science/">Cognitive Science</a>, <a href="http://oxy.edu/">Occidental College</a>, Los Angeles, CA.</td>
         <td>2015 &ndash; present</td>
     </tr>
     <tr>
@@ -242,31 +242,38 @@ short_title: CV
 
 <table class="cv-table">
     <tr>
-        <td><a href="http://smartcatalog.co/Catalogs/Occidental-College/2016-2017/Catalog/Courses/COGS-Cognitive-Science/100/COGS-101">Introduction to Cognitive Science</a> </td>
+        <td>
+            Occidental College:
+            <ul>
+                <li><a href="">Computer Science Junior Seminar</a></li>
+                <li><a href="">Practicum in Computer Science</a></li>
+                <li><a href="">Cognitive Science Comprehensive Projects</a></li>
+                <li><a href="">Data Structures</a></li>
+                <li><a href="http://smartcatalog.co/Catalogs/Occidental-College/2016-2017/Catalog/Courses/COMP-Computer-Science/100/COMP-131">Fundamentals of Computer Science</a></li>
+                <li><a href="http://smartcatalog.co/Catalogs/Occidental-College/2016-2017/Catalog/Courses/COGS-Cognitive-Science/100/COGS-101">Introduction to Cognitive Science</a></li>
+                <li><a href="http://smartcatalog.co/Catalogs/Occidental-College/2016-2017/Catalog/Courses/COGS-Cognitive-Science/300/COGS-325">Topics in Artificial Intelligence</a></li>
+            </ul>
+        </td>
         <td>Fall 2015 &ndash; present</td>
     </tr>
     <tr>
-        <td><a href="http://smartcatalog.co/Catalogs/Occidental-College/2016-2017/Catalog/Courses/COMP-Computer-Science/100/COMP-131">Fundamentals of Computer Science</a> </td>
-        <td>Spring 2016 &ndash; present</td>
+        <td>
+            University of Michigan, Ann Arbor:
+            <ul>
+                <li><a href="https://eecs183.org/">Elementary Programming Concepts</a></li>
+                <li><a href="http://www.engin.umich.edu/college/academics/bulletin/courses/eecs">Introduction to Artificial Intelligence</a> (as a TA)</li>
+                <li><a href="http://www.engin.umich.edu/college/academics/bulletin/courses/eecs">Programming and Introductory Data Structures</a> (as a TA)</li>
+            </ul>
+        </td>
+        <td>Fall 2009 &ndash; Winter 2015</td>
     </tr>
     <tr>
-        <td><a href="http://smartcatalog.co/Catalogs/Occidental-College/2016-2017/Catalog/Courses/COGS-Cognitive-Science/300/COGS-325">Topics in Artificial Intelligence</a> </td>
-        <td>Fall 2015 &ndash; present</td>
-    </tr>
-    <tr>
-        <td><a href="https://eecs183.org/">Elementary Programming Concepts</a> </td>
-        <td>Winter 2015</td>
-    </tr>
-    <tr>
-        <td><a href="http://www.engin.umich.edu/college/academics/bulletin/courses/eecs">Introduction to Artificial Intelligence</a> (as a TA)</td>
-        <td>Winter 2014</td>
-    </tr>
-    <tr>
-        <td><a href="http://www.engin.umich.edu/college/academics/bulletin/courses/eecs">Programming and Introductory Data Structures</a> (as a TA)</td>
-        <td>2009 &ndash; 2010</td>
-    </tr>
-    <tr>
-        <td><a href="http://eecs.northwestern.edu/~robby/courses/322-2009-spring/">Compiler Construction</a> (as a TA)</td>
+        <td>
+            Northwestern University:
+            <ul>
+                <li><a href="http://eecs.northwestern.edu/~robby/courses/322-2009-spring/">Compiler Construction</a> (as a TA)</li>
+            </ul>
+        </td>
         <td>Spring 2009</td>
     </tr>
 </table>
@@ -366,6 +373,10 @@ short_title: CV
         <td></td>
     </tr>
     <tr>
+        <td>Core Standing Committee</td>
+        <td>2017 &ndash; 2018</td>
+    </tr>
+    <tr>
         <td>Computer Science Advisory Committee</td>
         <td>2015 &ndash; 2017</td>
     </tr>
@@ -395,14 +406,6 @@ short_title: CV
 <h3 id="software">Software</h3>
 
 <table class="cv-table">
-    <tr>
-        <td>
-            <span class="cv-me">Justin Li</span> and <a href="http://ccl.northwestern.edu/uri/">Uri Wilensky</a> (2009).
-            <a class="cv-title" href="http://ccl.northwestern.edu/netlogo/models/Sugarscape1ImmediateGrowback">NetLogo Sugarscape 1 Immediate Growback Model</a>.
-            <a href="http://ccl.northwestern.edu/">Center for Connected Learning and Computer-Based Modeling</a>, <a href="http://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.
-        </td>
-        <td>2009</td>
-    </tr>
     <tr>
         <td>
             <span class="cv-me">Justin Li</span> and <a href="http://ccl.northwestern.edu/uri/">Uri Wilensky</a> (2009).
