@@ -3,7 +3,7 @@ short_title: About
 url: index.html
 save_as: index.html
 
-I am an assistant professor at [Occidental College](http://www.oxy.edu/), in the [Cognitive Science department](http://www.oxy.edu/cognitive-science/) but also teaching in [Computer Science](http://www.oxy.edu/computer-science/).
+I am an assistant professor at [Occidental College](http://www.oxy.edu/), in the [Cognitive Science](http://www.oxy.edu/cognitive-science/) and [Computer Science](http://www.oxy.edu/computer-science/) departments.
 My research is broadly on the strategic search for knowledge.
 How does an agent recognize that more knowledge is needed?
 What knowledge should it search for, and how does it combine primitive search operations to do it?
