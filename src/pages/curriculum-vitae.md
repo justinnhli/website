@@ -245,13 +245,13 @@ short_title: CV
         <td>
             Occidental College:
             <ul>
-                <li><a href="">Computer Science Junior Seminar</a></li>
-                <li><a href="">Practicum in Computer Science</a></li>
-                <li><a href="">Cognitive Science Comprehensive Projects</a></li>
-                <li><a href="">Data Structures</a></li>
-                <li><a href="http://smartcatalog.co/Catalogs/Occidental-College/2016-2017/Catalog/Courses/COMP-Computer-Science/100/COMP-131">Fundamentals of Computer Science</a></li>
-                <li><a href="http://smartcatalog.co/Catalogs/Occidental-College/2016-2017/Catalog/Courses/COGS-Cognitive-Science/100/COGS-101">Introduction to Cognitive Science</a></li>
-                <li><a href="http://smartcatalog.co/Catalogs/Occidental-College/2016-2017/Catalog/Courses/COGS-Cognitive-Science/300/COGS-325">Topics in Artificial Intelligence</a></li>
+                <li><a href="http://oxy.smartcatalogiq.com/2017-2018/Catalog/Courses/COMP-Computer-Science/300/COMP-390">Computer Science Junior Seminar</a></li>
+                <li><a href="http://oxy.smartcatalogiq.com/2017-2018/Catalog/Courses/COMP-Computer-Science/300/COMP-367">Practicum in Computer Science</a></li>
+                <li><a href="http://oxy.smartcatalogiq.com/2017-2018/Catalog/Courses/COMP-Computer-Science/400/COMP-490">Cognitive Science Comprehensive Projects</a></li>
+                <li><a href="http://oxy.smartcatalogiq.com/2017-2018/Catalog/Courses/COMP-Computer-Science/200/COMP-229">Data Structures</a></li>
+                <li><a href="http://oxy.smartcatalogiq.com/2017-2018/Catalog/Courses/COMP-Computer-Science/100/COMP-131">Fundamentals of Computer Science</a></li>
+                <li><a href="http://oxy.smartcatalogiq.com/en/2017-2018/Catalog/Courses/COGS-Cognitive-Science/100/COGS-101">Introduction to Cognitive Science</a></li>
+                <li><a href="http://oxy.smartcatalogiq.com/en/2017-2018/Catalog/Courses/COGS-Cognitive-Science/300/COGS-325">Topics in Artificial Intelligence</a></li>
             </ul>
         </td>
         <td>Fall 2015 &ndash; present</td>
