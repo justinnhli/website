@@ -369,7 +369,7 @@ short_title: CV
 
 <table class="cv-table">
     <tr>
-        <td>Reviewer for GHC, IJAIT, ITICSE, SIGCSE</td>
+        <td>Reviewer for AI Review, GHC, IJAIT, ITICSE, SIGCSE</td>
         <td></td>
     </tr>
     <tr>
