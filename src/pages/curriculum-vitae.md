@@ -22,7 +22,6 @@ short_title: CV
     My research is broadly on the strategies that people and artificial agents might use in their search for knowledge during problem solving, from indicators that more knowledge is needed, to strategies for acquiring that knowledge, to the mechanisms, algorithms, and representations of knowledge for efficient retrieval.
 </p>
 
-<div class="no-break">
 <h3 id="experience">Experience</h3>
 
 <table class="cv-table">
@@ -51,9 +50,7 @@ short_title: CV
         <td>2006 &ndash; 2009</td>
     </tr>
 </table>
-</div>
 
-<div class="no-break">
 <h3 id="education">Education</h3>
 
 <table class="cv-table">
@@ -71,9 +68,7 @@ short_title: CV
         <td>2009</td>
     </tr>
 </table>
-</div>
 
-<div class="no-break">
 <h3 id="publications">Publications</h3>
 
 <p class="cv-note">Undergraduate co-authors are marked with an asterisk (*).</p>
@@ -90,9 +85,7 @@ short_title: CV
         <td>2017</td>
     </tr>
 </table>
-</div>
 
-<div class="no-break">
 <h4 id="conferences">Peer-Reviewed Conference Papers</h4>
 
 <table class="cv-table">
@@ -177,9 +170,7 @@ short_title: CV
         <td>2012</td>
     </tr>
 </table>
-</div>
 
-<div class="no-break">
 <h4 id="symposia">Peer-Reviewed Symposia Papers</h4>
 
 <table class="cv-table">
@@ -193,9 +184,7 @@ short_title: CV
         <td>2011</td>
     </tr>
 </table>
-</div>
 
-<div class="no-break">
 <h4 id="abstracts">Peer-Reviewed Abstracts</h4>
 
 <table class="cv-table">
@@ -218,9 +207,7 @@ short_title: CV
         <td>2012</td>
     </tr>
 </table>
-</div>
 
-<div class="no-break">
 <h4 id="presentations">Presentations</h4>
 
 <table class="cv-table">
@@ -233,9 +220,7 @@ short_title: CV
         <td>Summer 2011</td>
     </tr>
 </table>
-</div>
 
-<div class="no-break">
 <h3 id="teaching">Teaching</h3>
 
 <h4 id="courses">College Courses</h4>
@@ -277,9 +262,7 @@ short_title: CV
         <td>Spring 2009</td>
     </tr>
 </table>
-</div>
 
-<div class="no-break">
 <h4 id="lectures">Guest Lectures</h4>
 
 <table class="cv-table">
@@ -292,9 +275,7 @@ short_title: CV
         <td>Fall 2016</td>
     </tr>
 </table>
-</div>
 
-<div class="no-break">
 <h4 id="workshops">Workshops, Summer Camps, and Peer Tutoring</h4>
 
 <table class="cv-table">
@@ -331,9 +312,7 @@ short_title: CV
         <td>2006 &ndash; 2009</td>
     </tr>
 </table>
-</div>
 
-<div class="no-break">
 <h3 id="mentoring">Undergraduate Mentoring</h3>
 
 <table class="cv-table">
@@ -362,9 +341,7 @@ short_title: CV
         <td>2014</td>
     </tr>
 </table>
-</div>
 
-<div class="no-break">
 <h3 id="service">Service</h3>
 
 <table class="cv-table">
@@ -389,9 +366,7 @@ short_title: CV
         <td>2012 &ndash; 2013</td>
     </tr>
 </table>
-</div>
 
-<div class="no-break">
 <h3 id="awards">Awards</h3>
 
 <table class="cv-table">
@@ -400,9 +375,7 @@ short_title: CV
         <td>Fall 2009</td>
     </tr>
 </table>
-</div>
 
-<div class="no-break">
 <h3 id="software">Software</h3>
 
 <table class="cv-table">
@@ -431,9 +404,7 @@ short_title: CV
         <td>2009</td>
     </tr>
 </table>
-</div>
 
-<div class="no-break">
 <h3 id="media">Media Appearances</h3>
 
 <table class="cv-table">
@@ -452,9 +423,7 @@ short_title: CV
         <td></td>
     </tr>
 </table>
-</div>
 
-<div class="no-break">
 <h3 id="design">Design</h3>
 
 <table class="cv-table">
@@ -463,4 +432,3 @@ short_title: CV
         <td>Spring 2009</td>
     </tr>
 </table>
-</div>

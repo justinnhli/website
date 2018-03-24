@@ -4,7 +4,7 @@ h4 {margin-left:0.5em;}
 .indented {padding-left:2em;}
 .cv-table {padding-left:1em; width:100%;}
 .cv-table tr, .cv-table td {border-style:none;}
-.cv-table td:first-child {padding:5pt 0; width:75%;}
+.cv-table td:first-child {padding-left:0; width:75%;}
 .cv-table td:last-child {text-align:right; width:25%;}
 .cv-table span.addendum {padding-left:2em;}
 .cv-table ul {list-style-type:disc; margin:0; padding-left:1em;}
@@ -20,7 +20,9 @@ a.cv-title-2, a.cv-title-2:visited {color:#3D7A04;}
 
 @media print {
 	h2 {display:none;}
-	.cv-table {margin-left:0;}
+	h3, h4 {page-break-after:avoid; break-after:avoid;}
+	.cv-table {margin-left:0; page-break-before:avoid; break-before:avoid;}
+	.cv-table th, .cv-table td {padding:0;}
 	.cv-table td:first-child {padding-left:0;}
-	.cv-table tr, .no-break {page-break-inside:avoid;}
+	.cv-table tr {page-break-inside:avoid; break-inside:avoid;}
 }
