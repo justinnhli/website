@@ -413,14 +413,12 @@ short_title: CV
             <a href="http://www.latimes.com/local/lanow/la-me-occidental-computer-science-20180313-story.html"><span class="cv-title">A new kind of computer science major delves into how technology is reshaping society</span></a>.
             <a href="http://www.latimes.com/">LA Times</a>, March 13, 2018.
         </td>
-        <td></td>
     </tr>
     <tr>
         <td>
             <a href="https://aux.avclub.com/terminator-2-took-aim-at-the-ethics-of-artificial-intel-1798163663"><span class="cv-title">Terminator 2 took aim at the ethics of artificial intelligence</span></a>.
             <a href="https://www.avclub.com/">AV Club</a>, September 23, 2016.
         </td>
-        <td></td>
     </tr>
 </table>
 
