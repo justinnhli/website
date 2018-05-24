@@ -9,10 +9,11 @@ h4 {margin-left:0.5em;}
 .cv-table span.addendum {padding-left:2em;}
 .cv-table ul {list-style-type:disc; margin:0; padding-left:1em;}
 .cv-paragraph {margin:10px 0 10px 1em;}
-.cv-me {font-weight:bold;}
+.cv-me {font-weight:600;}
 .cv-student {font-size:small;}
-a.cv-title-2, a.cv-title-2:visited {color:#3D7A04;}
-.cv-title {font-style:italic;}
+a.cv-title, a.cv-title:visited {color:#3D7A04;}
+span.cv-title {font-style:italic;}
+.cv-venue {font-style:italic;}
 
 @media screen {
 	.hidden-screen {display:none;}
@@ -25,9 +26,9 @@ a.cv-title-2, a.cv-title-2:visited {color:#3D7A04;}
 	h3 {font-size:12pt;}
 	h4 {font-size:10pt; text-decoration:none;}
 	h3, h4 {page-break-after:avoid; break-after:avoid;}
-	a.cv-title-2, a.cv-title-2:visited {color:inherit;}
 	.cv-table {margin-left:0; page-break-before:avoid; break-before:avoid;}
 	.cv-table th, .cv-table td {padding:0.5em 0;}
 	.cv-table td:first-child {padding-left:0;}
 	.cv-table tr {page-break-inside:avoid; break-inside:avoid;}
+	a.cv-title, a.cv-title:visited {color:inherit;}
 }
