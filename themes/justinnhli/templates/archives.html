@@ -1,13 +1,13 @@
 {% extends "base.html" %}
 {% block title %}Writings - {{ SITENAME }}{% endblock %}
 {% block content %}
-	<h2>Writings</h2>
+    <h2>Writings</h2>
 
-	<table id="archives">
-	{% for article in dates %}
-		<tr>
-			<th>{{ article.locale_date }}</th><td><a href="/{{ article.url }}">{{ article.title }}</a></td>
-		</tr>
-	{% endfor %}
-	</table>
+    <table id="archives">
+    {% for article in dates %}
+        <tr>
+            <th>{{ article.locale_date }}</th><td><a href="/{{ article.url }}">{{ article.title }}</a></td>
+        </tr>
+    {% endfor %}
+    </table>
 {% endblock %}
