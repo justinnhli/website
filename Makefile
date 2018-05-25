@@ -5,7 +5,7 @@ PELICAN = $(shell which pelican)
 default: html
 
 html:
-	$(PELICAN) -v -o html -s settings.py src
+	$(PELICAN) --debug --verbose --settings settings.py --output html src
 
 serve: html
 	cd html && python3 -m http.server
