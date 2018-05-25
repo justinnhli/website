@@ -4,7 +4,7 @@ Slug: car-seating
 
 We have 19 people going on spring break, including myself. I've been thinking about how to organize people in the three vans, and came up with this:
 
-[![Social network and grouping of spring break students](http://justinnhli.files.wordpress.com/2009/03/da48a-seating_final.png)](http://justinnhli.files.wordpress.com/2009/03/da48a-seating_final.png)
+[![Social network and grouping of spring break students](/files/car-seating/da48a-seating_final.png)](/files/car-seating/da48a-seating_final.png)
 
 A legend is [available](http://xkcd.com/173/), although I did not show the single arrow relations... :D
 
@@ -12,7 +12,7 @@ The problem is that only the people in blue and red are drivers, and the people 
 
 I assigned points to the relationships (1 to acquaintances, 2 to friends, 4 to boy/girl friends), and derived this:
 
-[![Spreadsheet for figuring out seating assignment](http://justinnhli.files.wordpress.com/2009/03/59555-seating-2.png)](http://justinnhli.files.wordpress.com/2009/03/59555-seating-2.png)
+[![Spreadsheet for figuring out seating assignment](/files/car-seating/59555-seating-2.png)](/files/car-seating/59555-seating-2.png)
 
 Clearly the current solution is better than the old one (by a whole 8 points!).
 

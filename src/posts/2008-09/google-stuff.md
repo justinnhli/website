@@ -8,6 +8,6 @@ Google has been pretty busy this week:
 
 * Picasa got a face detector, and I tagged all the faces it could find. It was a nice distraction from whatever I was doing. The most amusing thing, however, is shown in the following picture:
 
-    [![Google detecting a drawing of a face](http://justinnhli.files.wordpress.com/2008/09/ceef4-faces.png)](http://justinnhli.files.wordpress.com/2008/09/ceef4-faces.png)
+    [![Google detecting a drawing of a face](/files/google-stuff/ceef4-faces.png)](/files/google-stuff/ceef4-faces.png)
 
 I therefore conclude that Google's face recognition software is really quite good :D

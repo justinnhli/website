@@ -40,15 +40,15 @@ In the future I'm considering writing a script that generates gnuplot scripts. I
 
 And here are the resulting plots. The first one is on my use of online services. You can clearly tell when I started using Reddit and how quickly it dominated my life. The growth of Twitter is much slower comparatively. Facebook is huge mostly because it's my main source of how other people are doing.
 
-[![Plot comparing different social networks in my journal](http://justinnhli.files.wordpress.com/2011/02/eb548-online-services.png)](http://justinnhli.files.wordpress.com/2011/02/eb548-online-services.png)
+[![Plot comparing different social networks in my journal](/files/some-trends/eb548-online-services.png)](/files/some-trends/eb548-online-services.png)
 
 Next are some hobbies of mine, at least those I can think of off the top of my head. It's obvious when I started climbing more often (and therefore better); it's also clear that when I teach at CTY, it becomes a big part of my life. As a computer science major and now a grad student, I clearly code more than the chart shows; one could consider that as habituation, I guess.
 
-[![Plot comparing different periods of my life](http://justinnhli.files.wordpress.com/2011/02/74af8-hobbies.png)](http://justinnhli.files.wordpress.com/2011/02/74af8-hobbies.png)
+[![Plot comparing different periods of my life](/files/some-trends/74af8-hobbies.png)](/files/some-trends/74af8-hobbies.png)
 
 Here's another one, on academic topics. These were all topics I considered studying in college. I eventually majored in computer science and got a certificate in engineering design, but took extra classes in all these subjects. I think it's neat that these topics has all been mentioned more often over time - that I'm still into the same subjects I was in high school and college... except design, which I haven't done any of since junior year.
 
-[![Plot comparing subjects in my journal](http://justinnhli.files.wordpress.com/2011/02/d7d75-subjects.png)](http://justinnhli.files.wordpress.com/2011/02/d7d75-subjects.png)
+[![Plot comparing subjects in my journal](/files/some-trends/d7d75-subjects.png)](/files/some-trends/d7d75-subjects.png)
 
 I would love to do more of these, but I can't think of anymore sets of terms to compare. Comment if you can.
 

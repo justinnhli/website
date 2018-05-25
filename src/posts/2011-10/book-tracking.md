@@ -10,7 +10,7 @@ Anyway, in the process of switching to Goodreads I had to export my library from
 
 To make sure that this wouldn't happen again, I checked the file that Goodreads would export. It had more information than Shefari, which was nice. What caught my eye was that, in addition to the ratings I gave my books, the exported spreadsheet also contained other reader's average ratings. Which allowed me to make the following plot:
 
-[![Plot of my book ratings versus the average Goodreads rating](http://justinnhli.files.wordpress.com/2011/10/55c9d-rating.png)](http://justinnhli.files.wordpress.com/2011/10/55c9d-rating.png)
+[![Plot of my book ratings versus the average Goodreads rating](/files/book-tracking/55c9d-rating.png)](/files/book-tracking/55c9d-rating.png)
 
 The x-axis is the average rating of other people of any particular book on Goodreads, while on the y-axis is my own rating. The red crosses are the books on this scale, while the red line is a linear regression over these points. The blue line is *y=x*; that is, what the regression should look like if my ratings were exactly in line with the average reader. As you can see, I have a slightly lower opinion of books in general, especially on the lower end of the scale. Qualitatively, my tastes agree with the average reader, but the discrete ratings on my side makes it hard to give a good regression.
 
