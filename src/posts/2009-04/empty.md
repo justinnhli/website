@@ -2,12 +2,6 @@ Title: Empty
 Date: 2009-04-08 05:00
 Slug: empty
 
-<div class="separator" style="clear:both;text-align:center;">
+[![Screenshot of Amazon that offers to "look inside" Bush's Brain](http://justinnhli.files.wordpress.com/2009/04/17644-bushs-brain.png)](http://justinnhli.files.wordpress.com/2009/04/17644-bushs-brain.png)
 
-[![](http://justinnhli.files.wordpress.com/2009/04/17644-bushs-brain.png?w=300)](http://justinnhli.files.wordpress.com/2009/04/17644-bushs-brain.png)
-
-</div>
-
-I really know nothing about politics. This is more a play on words than
-anything else.
-
+I really know nothing about politics. This is more a play on words than anything else.
