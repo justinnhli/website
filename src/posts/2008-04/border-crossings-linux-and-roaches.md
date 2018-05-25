@@ -8,7 +8,7 @@ Stories of people's laptops being "[searched](http://tkyte.blogspot.com/2007/03/
 
 I would dearly love to do my part in confusing border agents. This is what they will see if they manage to get as far as my desktop (after a GRUB menu, lines and lines of scrolling text, and a SLiM login screen):
 
-[![Screenshot of my desktop.](http://justinnhli.files.wordpress.com/2008/04/84abf-desktop.png)](http://justinnhli.files.wordpress.com/2008/04/84abf-desktop.png)
+[![Screenshot of my desktop.](/files/border-crossings-linux-and-roaches/84abf-desktop.png)](/files/border-crossings-linux-and-roaches/84abf-desktop.png)
 
 Not much to look at, mainly because there's not much there at all. [Fluxbox](http://www.fluxbox.org/), people.
 

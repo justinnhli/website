@@ -6,4 +6,4 @@ Lately I've been getting lazier about actually *writing* content. Every so often
 
 I drew this last week:
 
-[![Comic](http://justinnhli.files.wordpress.com/2009/04/0a175-comic.png)](http://justinnhli.files.wordpress.com/2009/04/0a175-comic.png)
+[![Comic](/files/picture-week/0a175-comic.png)](/files/picture-week/0a175-comic.png)

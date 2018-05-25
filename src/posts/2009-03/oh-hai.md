@@ -4,6 +4,6 @@ Slug: oh-hai
 
 ### Im in ur mekanicle systemz
 
-[![A spring](http://justinnhli.files.wordpress.com/2009/03/bacc2-spring-breaking.png)](http://justinnhli.files.wordpress.com/2009/03/bacc2-spring-breaking.png)
+[![A spring](/files/oh-hai/bacc2-spring-breaking.png)](/files/oh-hai/bacc2-spring-breaking.png)
 
 ### breakin ur springz.  

@@ -8,10 +8,10 @@ It was a picture from last year's spring break which brought me the greatest joy
 
 Here's a picture from the trip:
 
-[![Picture from Observation Point in Zion National Park.](http://justinnhli.files.wordpress.com/2008/02/c5449-img_4029.jpg)](http://justinnhli.files.wordpress.com/2008/02/c5449-img_4029.jpg)
+[![Picture from Observation Point in Zion National Park.](/files/zion-national-park/c5449-img_4029.jpg)](/files/zion-national-park/c5449-img_4029.jpg)
 
 And here's what I can get from Google Earth:
 
-[![Picture from Observation Point in Zion National Park in Google Earth.](http://justinnhli.files.wordpress.com/2008/02/a47a6-googleearth.png)](http://justinnhli.files.wordpress.com/2008/02/a47a6-googleearth.png)
+[![Picture from Observation Point in Zion National Park in Google Earth.](/files/zion-national-park/a47a6-googleearth.png)](/files/zion-national-park/a47a6-googleearth.png)
 
 That's pretty amazing. That's why we all love Google.

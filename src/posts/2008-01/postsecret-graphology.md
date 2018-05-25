@@ -9,7 +9,7 @@ should be what you're focusing on.
 I think it will be fun to do handwriting analysis on the postcards.
 
 From this past Sunday's post, the
-[postcard](http://justinnhli.files.wordpress.com/2008/01/ef0f5-caged.jpg)
+[postcard](/files/postsecret-graphology/ef0f5-caged.jpg)
 with "my Husband and I moved to A smaller house so the kids will
 \_\_Stop\_\_ Visiting as \_MUCH\_!" scares me. Not only are the capitals
 out of place, but considering it's a mom who has kids (and is possibly

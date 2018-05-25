@@ -12,18 +12,18 @@ They are done in the style of [Indexed](http://thisisindexed.com/). I don't foll
 
 First, a correction on one of the links above (the "are"):
 
-[![An updated Indexed plot](http://justinnhli.files.wordpress.com/2009/01/edde3-things-we-know.png)](http://justinnhli.files.wordpress.com/2009/01/edde3-things-we-know.png)
+[![An updated Indexed plot](/files/the-shape-of-an-educated-man/edde3-things-we-know.png)](/files/the-shape-of-an-educated-man/edde3-things-we-know.png)
 
 Then, quotes by John Ziman:
 
 "A philosopher is a person who knows less and less about more and more, until he knows nothing about everything."
 
-[![A plot of what a philosopher knows](http://justinnhli.files.wordpress.com/2009/01/77295-philosophers.png)](http://justinnhli.files.wordpress.com/2009/01/77295-philosophers.png)
+[![A plot of what a philosopher knows](/files/the-shape-of-an-educated-man/77295-philosophers.png)](/files/the-shape-of-an-educated-man/77295-philosophers.png)
 
 "A scientist is a person who knows more and more about less and less, until he knows everything about nothing."
 
-[![A plot of what a scientist knows](http://justinnhli.files.wordpress.com/2009/01/20f21-scientists.png)](http://justinnhli.files.wordpress.com/2009/01/20f21-scientists.png)
+[![A plot of what a scientist knows](/files/the-shape-of-an-educated-man/20f21-scientists.png)](/files/the-shape-of-an-educated-man/20f21-scientists.png)
 
 Finally, Homo universalis, which Thomas Huxley puts succinctly, "Try to learn something about everything and everything about something."
 
-[![A plot of what a homo universalis knows](http://justinnhli.files.wordpress.com/2009/01/6e889-homo-universalis.png)](http://justinnhli.files.wordpress.com/2009/01/6e889-homo-universalis.png)
+[![A plot of what a homo universalis knows](/files/the-shape-of-an-educated-man/6e889-homo-universalis.png)](/files/the-shape-of-an-educated-man/6e889-homo-universalis.png)
