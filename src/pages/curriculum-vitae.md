@@ -26,7 +26,7 @@ short_title: CV
 
 <table class="cv-table">
     <tr>
-        <td>Assistant Professor in <a href="https://www.oxy.edu/computer-science/">Computer Science</a> and <a href="https://www.oxy.edu/cognitive-science/">Cognitive Science</a>, <a href="http://oxy.edu/">Occidental College</a>, Los Angeles, CA.</td>
+        <td>Assistant Professor in <a href="https://www.oxy.edu/computer-science/">Computer Science</a> and <a href="https://www.oxy.edu/cognitive-science/">Cognitive Science</a>, <a href="https://www.oxy.edu/">Occidental College</a>, Los Angeles, CA.</td>
         <td>2015 &ndash; present</td>
     </tr>
     <tr>
@@ -42,11 +42,11 @@ short_title: CV
         <td>2008 &ndash; 2009</td>
     </tr>
     <tr>
-        <td>Teaching Assistant, <a href="http://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.</td>
+        <td>Teaching Assistant, <a href="https://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.</td>
         <td>Spring 2009</td>
     </tr>
     <tr>
-        <td><a href="http://www.northwestern.edu/searle/programs-events/undergrad/group-study/gsw/index.html">Gateway Science Workshop</a> Facilitator, <a href="http://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.</td>
+        <td><a href="https://www.northwestern.edu/searle/programs-events/undergrad/group-study/gsw/index.html">Gateway Science Workshop</a> Facilitator, <a href="https://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.</td>
         <td>2006 &ndash; 2009</td>
     </tr>
 </table>
@@ -62,7 +62,7 @@ short_title: CV
     </tr>
     <tr>
         <td>
-            BS in Computer Science, <em>cum laude</em>. <a href="http://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.<br>
+            BS in Computer Science, <em>cum laude</em>. <a href="https://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.<br>
             <span class="indented">with a <a href="http://design.northwestern.edu/programs/segal-design-certificate/">Certificate in Engineering Design</a></span>
         </td>
         <td>2009</td>
@@ -117,7 +117,7 @@ short_title: CV
     </tr>
     <tr>
         <td>
-            <span class="cv-me">Justin Li</span> and <a href="http://ai.eecs.umich.edu/people/laird/">John E. Laird</a>.
+            <span class="cv-me">Justin Li</span> and <a href="https://laird.engin.umich.edu/">John E. Laird</a>.
             <a class="cv-title" href="/files/publications/Li2015SpontaneousRetrievalFor.pdf">Spontaneous Retrieval for Prospective Memory: Effects of Encoding Specificity and Retention Interval</a>.
             In <span class="cv-venue">Proceedings of the 13<sup>th</sup> International Conference on Cognitive Modeling (ICCM)</span>, 142-147.
             Groningen, The Netherlands.
@@ -126,7 +126,7 @@ short_title: CV
     </tr>
     <tr>
         <td>
-            <span class="cv-me">Justin Li</span> and <a href="http://ai.eecs.umich.edu/people/laird/">John E. Laird</a>.
+            <span class="cv-me">Justin Li</span> and <a href="https://laird.engin.umich.edu/">John E. Laird</a>.
             <a class="cv-title" href="/files/publications/Li2015SpontaneousRetrievalFrom.pdf">Spontaneous Retrieval from Long-Term Memory in a Cognitive Architecture</a>.
             In <span class="cv-venue">Proceedings of the 29<sup>th</sup> AAAI Conference on Artificial Intelligence (AAAI)</span>, 544-550.
             Austin, TX.
@@ -135,7 +135,7 @@ short_title: CV
     </tr>
     <tr>
         <td>
-            <span class="cv-me">Justin Li</span> and <a href="http://ai.eecs.umich.edu/people/laird/">John E. Laird</a>.
+            <span class="cv-me">Justin Li</span> and <a href="https://laird.engin.umich.edu/">John E. Laird</a>.
             <a class="cv-title" href="/files/publications/Li2013TheComputationalProblem.pdf">The Computational Problem of Prospective Memory Retrieval</a>.
             In <span class="cv-venue">Proceedings of the 12<sup>th</sup> International Conference on Cognitive Modeling (ICCM)</span>, 155-160.
             Ottawa, Canada.
@@ -144,7 +144,7 @@ short_title: CV
     </tr>
     <tr>
         <td>
-            <span class="cv-me">Justin Li</span> and <a href="http://ai.eecs.umich.edu/people/laird/">John E. Laird</a>.
+            <span class="cv-me">Justin Li</span> and <a href="https://laird.engin.umich.edu/">John E. Laird</a>.
             <a class="cv-title" href="/files/publications/Li2013PreemptiveStrategiesFor.pdf">Preemptive Strategies for Overcoming the Forgetting of Goals</a>.
             In <span class="cv-venue">Proceedings of the 27<sup>th</sup> AAAI Conference on Artificial Intelligence (AAAI)</span>, 1234-1240.
             Bellevue, WA.
@@ -153,7 +153,7 @@ short_title: CV
     </tr>
     <tr>
         <td>
-            <a href="http://derbinsky.info/">Nate Derbinsky</a>, <span class="cv-me">Justin Li</span>, and <a href="http://ai.eecs.umich.edu/people/laird/">John E. Laird</a>.
+            <a href="http://derbinsky.info/">Nate Derbinsky</a>, <span class="cv-me">Justin Li</span>, and <a href="https://laird.engin.umich.edu/">John E. Laird</a>.
             <a class="cv-title" href="/files/publications/Derbinsky2012AMultiDomain.pdf">A Multi-Domain Evaluation of Scaling in a General Episodic Memory.</a>
             In <span class="cv-venue">Proceedings of the 26<sup>th</sup> AAAI Conference on Artificial Intelligence (AAAI)</span>, 193-199.
             Toronto, Canada.
@@ -162,7 +162,7 @@ short_title: CV
     </tr>
     <tr>
         <td>
-            <span class="cv-me">Justin Li</span>, <a href="http://derbinsky.info/">Nate Derbinsky</a>, and <a href="http://ai.eecs.umich.edu/people/laird/">John E. Laird</a>.
+            <span class="cv-me">Justin Li</span>, <a href="http://derbinsky.info/">Nate Derbinsky</a>, and <a href="https://laird.engin.umich.edu/">John E. Laird</a>.
             <a class="cv-title" href="/files/publications/Li2012FunctionalInteractionsBetween.pdf">Functional Interactions between Memory and Recognition Judgments.</a>
             In <span class="cv-venue">Proceedings of the 26<sup>th</sup> AAAI Conference on Artificial Intelligence (AAAI)</span>, 228-234.
             Toronto, Canada.
@@ -176,7 +176,7 @@ short_title: CV
 <table class="cv-table">
     <tr>
         <td>
-            <span class="cv-me">Justin Li</span> and <a href="http://ai.eecs.umich.edu/people/laird/">John E. Laird</a>.
+            <span class="cv-me">Justin Li</span> and <a href="https://laird.engin.umich.edu/">John E. Laird</a>.
             <a class="cv-title" href="/files/publications/Li2011PreliminaryEvaluationOf.pdf">Preliminary Evaluation of Long-term Memories for Fulfilling Delayed Intentions</a>.
             In <span class="cv-venue">Papers from the 2011 AAAI Fall Symposium Series: Advances in Cognitive Systems (ACS)</span>, 170-177.
             Arlington, VA.
@@ -199,7 +199,7 @@ short_title: CV
     </tr>
     <tr>
         <td>
-            <a href="http://derbinsky.info/">Nate Derbinsky</a>, <span class="cv-me">Justin Li</span>, and <a href="http://ai.eecs.umich.edu/people/laird/">John E. Laird</a>.
+            <a href="http://derbinsky.info/">Nate Derbinsky</a>, <span class="cv-me">Justin Li</span>, and <a href="https://laird.engin.umich.edu/">John E. Laird</a>.
             <a class="cv-title" href="/files/publications/Derbinsky2012AlgorithmsForScaling.pdf">Algorithms for Scaling in a General Episodic Memory (Extended Abstract)</a>.
             In <span class="cv-venue">Proceedings of the 11<sup>th</sup> International Conference on Autonomous Agents and Multiagent Systems (AAMAS)</span>, 1387-1388.
             Valencia, Spain.
@@ -246,8 +246,8 @@ short_title: CV
             University of Michigan, Ann Arbor:
             <ul>
                 <li><a href="https://eecs183.org/">Elementary Programming Concepts</a></li>
-                <li><a href="http://www.engin.umich.edu/college/academics/bulletin/courses/eecs">Introduction to Artificial Intelligence</a> (as a TA)</li>
-                <li><a href="http://www.engin.umich.edu/college/academics/bulletin/courses/eecs">Programming and Introductory Data Structures</a> (as a TA)</li>
+                <li><a href="https://bulletin.engin.umich.edu/courses/eecs/">Introduction to Artificial Intelligence</a> (as a TA)</li>
+                <li><a href="https://bulletin.engin.umich.edu/courses/eecs/">Programming and Introductory Data Structures</a> (as a TA)</li>
             </ul>
         </td>
         <td>Fall 2009 &ndash; Winter 2015</td>
@@ -280,11 +280,11 @@ short_title: CV
 
 <table class="cv-table">
     <tr>
-        <td><span class="cv-title">Computer Science and Middle/High School Math/Science</span>, for the <a href="http://www.oxy.edu/teaching-scholars-program">OxyMS Teaching Scholars Summer Institute</a></td>
+        <td><span class="cv-title">Computer Science and Middle/High School Math/Science</span>, for the <a href="https://www.oxy.edu/teaching-scholars-program">OxyMS Teaching Scholars Summer Institute</a></td>
         <td>Summer 2017</td>
     </tr>
     <tr>
-        <td><span class="cv-title">Scratch and AppInventor for Middle/High Schools</span>, for the <a href="http://www.oxy.edu/teaching-scholars-program">OxyMS Teaching Scholars Summer Institute</a></td>
+        <td><span class="cv-title">Scratch and AppInventor for Middle/High Schools</span>, for the <a href="https://www.oxy.edu/teaching-scholars-program">OxyMS Teaching Scholars Summer Institute</a></td>
         <td>Summer 2016</td>
     </tr>
     <tr>
@@ -384,7 +384,7 @@ short_title: CV
         <td>
             <span class="cv-me">Justin Li</span> and <a href="http://ccl.northwestern.edu/uri/">Uri Wilensky</a> (2009).
             <a class="cv-title" href="http://ccl.northwestern.edu/netlogo/models/Sugarscape1ImmediateGrowback">NetLogo Sugarscape 1 Immediate Growback Model</a>.
-            <a href="http://ccl.northwestern.edu/">Center for Connected Learning and Computer-Based Modeling</a>, <a href="http://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.
+            <a href="http://ccl.northwestern.edu/">Center for Connected Learning and Computer-Based Modeling</a>, <a href="https://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.
         </td>
         <td>2009</td>
     </tr>
@@ -392,7 +392,7 @@ short_title: CV
         <td>
             <span class="cv-me">Justin Li</span> and <a href="http://ccl.northwestern.edu/uri/">Uri Wilensky</a> (2009).
             <a class="cv-title" href="http://ccl.northwestern.edu/netlogo/models/Sugarscape2ConstantGrowback">NetLogo Sugarscape 2 Constant Growback Model</a>.
-            <a href="http://ccl.northwestern.edu/">Center for Connected Learning and Computer-Based Modeling</a>, <a href="http://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.
+            <a href="http://ccl.northwestern.edu/">Center for Connected Learning and Computer-Based Modeling</a>, <a href="https://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.
         </td>
         <td>2009</td>
     </tr>
@@ -400,7 +400,7 @@ short_title: CV
         <td>
             <span class="cv-me">Justin Li</span> and <a href="http://ccl.northwestern.edu/uri/">Uri Wilensky</a> (2009).
             <a class="cv-title" href="http://ccl.northwestern.edu/netlogo/models/Sugarscape3WealthDistribution">NetLogo Sugarscape 3 Wealth Distribution Model</a>.
-            <a href="http://ccl.northwestern.edu/">Center for Connected Learning and Computer-Based Modeling</a>, <a href="http://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.
+            <a href="http://ccl.northwestern.edu/">Center for Connected Learning and Computer-Based Modeling</a>, <a href="https://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.
         </td>
         <td>2009</td>
     </tr>
