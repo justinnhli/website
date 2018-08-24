@@ -411,6 +411,12 @@ short_title: CV
 <table class="cv-table">
     <tr>
         <td>
+            <a href="https://www.pcmag.com/news/362827/what-do-you-need-ai-might-soon-know-before-you-do">What Do You Need? AI Might Soon Know Before You Do</a>.
+            <a class="cv-venue" href="https://www.pcmag.com/">PC Magazine</a>, August 16, 2018.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://www.latimes.com/local/lanow/la-me-occidental-computer-science-20180313-story.html">A new kind of computer science major delves into how technology is reshaping society</a>.
             <a class="cv-venue" href="http://www.latimes.com/">LA Times</a>, March 13, 2018.
         </td>
