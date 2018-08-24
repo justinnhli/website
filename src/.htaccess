@@ -1,6 +1,9 @@
 # set 404 page
 ErrorDocument 404 /pages/404.html
 
+# redirect /meet to Doodle
+Redirect /meet https://doodle.com/justinnhli
+
 # redirect to https
 RewriteEngine On
 RewriteCond %{SERVER_PORT} 80
