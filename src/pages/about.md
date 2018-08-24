@@ -1,6 +1,6 @@
 title: About
 short_title: About
-url: index.html
+url: /index.html
 save_as: index.html
 
 I am an assistant professor at [Occidental College](http://www.oxy.edu/), in the [Cognitive Science](http://www.oxy.edu/cognitive-science/) and [Computer Science](http://www.oxy.edu/computer-science/) departments.
