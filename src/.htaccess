@@ -1,8 +1,15 @@
 # set 404 page
 ErrorDocument 404 /pages/404.html
 
+# redirect /cal[endar] to Google Calendar
+Redirect /cal https://calendar.google.com/calendar/embed?src=justinnhli@gmail.com
+Redirect /calendar https://calendar.google.com/calendar/embed?src=justinnhli@gmail.com
+
 # redirect /meet to Doodle
 Redirect /meet https://doodle.com/justinnhli
+
+# redirect /office-hours to Oxy Faculty page
+Redirect /office-hours https://www.oxy.edu/faculty/justin-li
 
 # redirect to https
 RewriteEngine On
