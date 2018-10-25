@@ -11,7 +11,7 @@ short_title: CV
     <p id="cv-contact-left">
         <a href="tel:13233414116">(323) 341-4116</a><br>
         <a href="mailto:justinnhli@oxy.edu">justinnhli@oxy.edu</a><br>
-        <a href="http://justinnhli.com/">http://justinnhli.com/</a><br>
+        <a href="https://justinnhli.com/">https://justinnhli.com/</a><br>
         <a href="https://twitter.com/justinnhli">@justinnhli</a>
     </p>
 </div>
@@ -30,15 +30,15 @@ short_title: CV
         <td>2015 &ndash; present</td>
     </tr>
     <tr>
-        <td>Graduate Student Research Assistant, <a href="http://umich.edu/">University of Michigan</a>, Ann Arbor, MI.</td>
+        <td>Graduate Student Research Assistant, <a href="https://umich.edu/">University of Michigan</a>, Ann Arbor, MI.</td>
         <td>2009 &ndash; 2015</td>
     </tr>
     <tr>
-        <td><a href="https://crlte.engin.umich.edu/gsi_serv/etc/what-are-the-etcs/">Engineering Teaching Consultant</a>, <a href="http://umich.edu/">University of Michigan</a>, Ann Arbor, MI.</td>
+        <td><a href="https://crlte.engin.umich.edu/gsi_serv/etc/what-are-the-etcs/">Engineering Teaching Consultant</a>, <a href="https://umich.edu/">University of Michigan</a>, Ann Arbor, MI.</td>
         <td>2012 &ndash; 2014</td>
     </tr>
     <tr>
-        <td>Teaching Assistant, <a href="http://cty.jhu.edu/">Center for Talented Youth</a>, Baltimore, MD.</td>
+        <td>Teaching Assistant, <a href="https://cty.jhu.edu/">Center for Talented Youth</a>, Baltimore, MD.</td>
         <td>2008 &ndash; 2009</td>
     </tr>
     <tr>
@@ -56,14 +56,14 @@ short_title: CV
 <table class="cv-table">
     <tr>
         <td>
-            PhD in Computer Science. <a href="http://umich.edu/">University of Michigan</a>, Ann Arbor, MI.
+            PhD in Computer Science. <a href="https://umich.edu/">University of Michigan</a>, Ann Arbor, MI.
         </td>
         <td>2016</td>
     </tr>
     <tr>
         <td>
             BS in Computer Science, <em>cum laude</em>. <a href="https://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.<br>
-            <span class="indented">with a <a href="http://design.northwestern.edu/programs/segal-design-certificate/">Certificate in Engineering Design</a></span>
+            <span class="indented">with a <a href="https://design.northwestern.edu/programs/segal-design-certificate/">Certificate in Engineering Design</a></span>
         </td>
         <td>2009</td>
     </tr>
@@ -78,7 +78,7 @@ short_title: CV
 <table class="cv-table">
     <tr>
         <td>
-            <span class="cv-me">Justin Li</span> and <a href="http://emmakohanyi.com/">Emma Kohanyi</a><sup class="cv-student">*</sup>.
+            <span class="cv-me">Justin Li</span> and <a href="https://emmakohanyi.com/">Emma Kohanyi</a><sup class="cv-student">*</sup>.
             <a class="cv-title" href="/files/publications/Li2017TowardsModelingFalse.pdf">Towards Modeling False Memory with Computational Knowledge Bases</a>.
             <span class="cv-venue">Topics in Cognitive Science (TopiCS)</span>, 9(1), 102-116.
         </td>
@@ -91,7 +91,7 @@ short_title: CV
 <table class="cv-table">
     <tr>
         <td>
-            <span class="cv-me">Justin Li</span> and <a href="http://emmakohanyi.com/">Emma Kohanyi</a><sup class="cv-student">*</sup>.
+            <span class="cv-me">Justin Li</span> and <a href="https://emmakohanyi.com/">Emma Kohanyi</a><sup class="cv-student">*</sup>.
             <a class="cv-title" href="/files/publications/Li2017TowardsModelingFalse.pdf">Towards Modeling False Memory with Computational Knowledge Bases</a>.
             <span class="cv-venue">Topics in Cognitive Science (TopiCS)</span>, 9(1), 102-116.
         </td>
@@ -99,7 +99,7 @@ short_title: CV
     </tr>
     <tr>
         <td>
-            <span class="cv-me">Justin Li</span> and <a href="http://emmakohanyi.com/">Emma Kohanyi</a><sup class="cv-student">*</sup>.
+            <span class="cv-me">Justin Li</span> and <a href="https://emmakohanyi.com/">Emma Kohanyi</a><sup class="cv-student">*</sup>.
             <a class="cv-title" href="/files/publications/Li2016TowardsModelingFalse.pdf">Towards Modeling False Memory with Computational Knowledge Bases</a>.
             In <span class="cv-venue">Proceedings of the 14<sup>th</sup> International Conference on Cognitive Modeling (ICCM)</span>.
             State College, PA.
@@ -108,7 +108,7 @@ short_title: CV
     </tr>
     <tr>
         <td>
-            <span class="cv-me">Justin Li</span>, Steven Jones, <a href="http://www.shiwali.me/">Shiwali Mohan</a>, and <a href="http://derbinsky.info/">Nate Derbinsky</a>.
+            <span class="cv-me">Justin Li</span>, Steven Jones, <a href="https://www.shiwali.me/">Shiwali Mohan</a>, and <a href="https://derbinsky.info/">Nate Derbinsky</a>.
             <a class="cv-title" href="/files/publications/Li2016ArchitecturalMechanismsFor.pdf">Architectural Mechanisms for Mitigating Uncertainty during Long-Term Declarative Knowledge Access</a>.
             In <span class="cv-venue">Proceedings of the 4<sup>th</sup> Annual Conference on Advances in Cognitive Systems (ACS)</span>.
             Evanston, IL.
@@ -153,7 +153,7 @@ short_title: CV
     </tr>
     <tr>
         <td>
-            <a href="http://derbinsky.info/">Nate Derbinsky</a>, <span class="cv-me">Justin Li</span>, and <a href="https://laird.engin.umich.edu/">John E. Laird</a>.
+            <a href="https://derbinsky.info/">Nate Derbinsky</a>, <span class="cv-me">Justin Li</span>, and <a href="https://laird.engin.umich.edu/">John E. Laird</a>.
             <a class="cv-title" href="/files/publications/Derbinsky2012AMultiDomain.pdf">A Multi-Domain Evaluation of Scaling in a General Episodic Memory.</a>
             In <span class="cv-venue">Proceedings of the 26<sup>th</sup> AAAI Conference on Artificial Intelligence (AAAI)</span>, 193-199.
             Toronto, Canada.
@@ -162,7 +162,7 @@ short_title: CV
     </tr>
     <tr>
         <td>
-            <span class="cv-me">Justin Li</span>, <a href="http://derbinsky.info/">Nate Derbinsky</a>, and <a href="https://laird.engin.umich.edu/">John E. Laird</a>.
+            <span class="cv-me">Justin Li</span>, <a href="https://derbinsky.info/">Nate Derbinsky</a>, and <a href="https://laird.engin.umich.edu/">John E. Laird</a>.
             <a class="cv-title" href="/files/publications/Li2012FunctionalInteractionsBetween.pdf">Functional Interactions between Memory and Recognition Judgments.</a>
             In <span class="cv-venue">Proceedings of the 26<sup>th</sup> AAAI Conference on Artificial Intelligence (AAAI)</span>, 228-234.
             Toronto, Canada.
@@ -199,7 +199,7 @@ short_title: CV
     </tr>
     <tr>
         <td>
-            <a href="http://derbinsky.info/">Nate Derbinsky</a>, <span class="cv-me">Justin Li</span>, and <a href="https://laird.engin.umich.edu/">John E. Laird</a>.
+            <a href="https://derbinsky.info/">Nate Derbinsky</a>, <span class="cv-me">Justin Li</span>, and <a href="https://laird.engin.umich.edu/">John E. Laird</a>.
             <a class="cv-title" href="/files/publications/Derbinsky2012AlgorithmsForScaling.pdf">Algorithms for Scaling in a General Episodic Memory (Extended Abstract)</a>.
             In <span class="cv-venue">Proceedings of the 11<sup>th</sup> International Conference on Autonomous Agents and Multiagent Systems (AAMAS)</span>, 1387-1388.
             Valencia, Spain.
@@ -230,13 +230,13 @@ short_title: CV
         <td>
             Occidental College:
             <ul>
-                <li><a href="http://oxy.smartcatalogiq.com/2017-2018/Catalog/Courses/COMP-Computer-Science/300/COMP-390">Computer Science Junior Seminar</a></li>
-                <li><a href="http://oxy.smartcatalogiq.com/2017-2018/Catalog/Courses/COMP-Computer-Science/300/COMP-367">Practicum in Computer Science</a></li>
-                <li><a href="http://oxy.smartcatalogiq.com/en/2017-2018/Catalog/Courses/COGS-Cognitive-Science/400/COGS-490">Senior Seminar in Cognitive Science</a></li>
-                <li><a href="http://oxy.smartcatalogiq.com/2017-2018/Catalog/Courses/COMP-Computer-Science/200/COMP-229">Data Structures</a></li>
-                <li><a href="http://oxy.smartcatalogiq.com/2017-2018/Catalog/Courses/COMP-Computer-Science/100/COMP-131">Fundamentals of Computer Science</a></li>
-                <li><a href="http://oxy.smartcatalogiq.com/en/2017-2018/Catalog/Courses/COGS-Cognitive-Science/100/COGS-101">Introduction to Cognitive Science</a></li>
-                <li><a href="http://oxy.smartcatalogiq.com/en/2017-2018/Catalog/Courses/COGS-Cognitive-Science/300/COGS-325">Topics in Artificial Intelligence</a></li>
+                <li><a href="https://oxy.smartcatalogiq.com/2017-2018/Catalog/Courses/COMP-Computer-Science/300/COMP-390">Computer Science Junior Seminar</a></li>
+                <li><a href="https://oxy.smartcatalogiq.com/2017-2018/Catalog/Courses/COMP-Computer-Science/300/COMP-367">Practicum in Computer Science</a></li>
+                <li><a href="https://oxy.smartcatalogiq.com/en/2017-2018/Catalog/Courses/COGS-Cognitive-Science/400/COGS-490">Senior Seminar in Cognitive Science</a></li>
+                <li><a href="https://oxy.smartcatalogiq.com/2017-2018/Catalog/Courses/COMP-Computer-Science/200/COMP-229">Data Structures</a></li>
+                <li><a href="https://oxy.smartcatalogiq.com/2017-2018/Catalog/Courses/COMP-Computer-Science/100/COMP-131">Fundamentals of Computer Science</a></li>
+                <li><a href="https://oxy.smartcatalogiq.com/en/2017-2018/Catalog/Courses/COGS-Cognitive-Science/100/COGS-101">Introduction to Cognitive Science</a></li>
+                <li><a href="https://oxy.smartcatalogiq.com/en/2017-2018/Catalog/Courses/COGS-Cognitive-Science/300/COGS-325">Topics in Artificial Intelligence</a></li>
             </ul>
         </td>
         <td>Fall 2015 &ndash; present</td>
@@ -256,7 +256,7 @@ short_title: CV
         <td>
             Northwestern University:
             <ul>
-                <li><a href="http://eecs.northwestern.edu/~robby/courses/322-2009-spring/">Compiler Construction</a> (as a TA)</li>
+                <li><a href="https://eecs.northwestern.edu/~robby/courses/322-2009-spring/">Compiler Construction</a> (as a TA)</li>
             </ul>
         </td>
         <td>Spring 2009</td>
@@ -271,7 +271,7 @@ short_title: CV
         <td>Summer 2017</td>
     </tr>
     <tr>
-        <td><span class="cv-title">Where is the Gender in AI?</span> in <a href="http://smartcatalog.co/en/Catalogs/Occidental-College/2016-2017/Catalog/Courses/MAC-Media-Arts-and-Culture/200/MAC-244">From Cyborgs to Siri: Gender, Technology and Media</a></td>
+        <td><span class="cv-title">Where is the Gender in AI?</span> in <a href="https://smartcatalog.co/en/Catalogs/Occidental-College/2016-2017/Catalog/Courses/MAC-Media-Arts-and-Culture/200/MAC-244">From Cyborgs to Siri: Gender, Technology and Media</a></td>
         <td>Fall 2016</td>
     </tr>
 </table>
@@ -304,11 +304,11 @@ short_title: CV
         <td>Winter 2012</td>
     </tr>
     <tr>
-        <td><a href="http://cty.jhu.edu/summer/grades2-6/catalog/math.html#irob">Introduction to Robotics</a></td>
+        <td><a href="https://cty.jhu.edu/summer/grades2-6/catalog/math.html#irob">Introduction to Robotics</a></td>
         <td>2008 &ndash; 2009</td>
     </tr>
     <tr>
-        <td><a href="http://www.mccormick.northwestern.edu/academics/undergraduate/core-curriculum/engineering-first.html#innovative-curriculum">Engineering Analysis</a></td>
+        <td><a href="https://www.mccormick.northwestern.edu/academics/undergraduate/core-curriculum/engineering-first.html#innovative-curriculum">Engineering Analysis</a></td>
         <td>2006 &ndash; 2009</td>
     </tr>
 </table>
@@ -363,7 +363,7 @@ short_title: CV
         <td>2012 &ndash; 2014</td>
     </tr>
     <tr>
-        <td><a href="https://um-cseg.github.io/">CSEG</a> Secretary, <a href="http://umich.edu/">University of Michigan</a></td>
+        <td><a href="https://um-cseg.github.io/">CSEG</a> Secretary, <a href="https://umich.edu/">University of Michigan</a></td>
         <td>2012 &ndash; 2013</td>
     </tr>
 </table>
@@ -372,7 +372,7 @@ short_title: CV
 
 <table class="cv-table">
     <tr>
-        <td>Outstanding Graduate Student Instructor Award, <a href="http://www.eecs.umich.edu/">EECS Department</a>, <a href="http://umich.edu/">University of Michigan</a></td>
+        <td>Outstanding Graduate Student Instructor Award, <a href="https://www.eecs.umich.edu/">EECS Department</a>, <a href="https://umich.edu/">University of Michigan</a></td>
         <td>Fall 2009</td>
     </tr>
 </table>
@@ -382,25 +382,25 @@ short_title: CV
 <table class="cv-table">
     <tr>
         <td>
-            <span class="cv-me">Justin Li</span> and <a href="http://ccl.northwestern.edu/uri/">Uri Wilensky</a> (2009).
-            <a class="cv-title" href="http://ccl.northwestern.edu/netlogo/models/Sugarscape1ImmediateGrowback">NetLogo Sugarscape 1 Immediate Growback Model</a>.
-            <a href="http://ccl.northwestern.edu/">Center for Connected Learning and Computer-Based Modeling</a>, <a href="https://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.
+            <span class="cv-me">Justin Li</span> and <a href="https://ccl.northwestern.edu/Uri.shtml">Uri Wilensky</a> (2009).
+            <a class="cv-title" href="https://ccl.northwestern.edu/netlogo/models/Sugarscape1ImmediateGrowback">NetLogo Sugarscape 1 Immediate Growback Model</a>.
+            <a href="https://ccl.northwestern.edu/">Center for Connected Learning and Computer-Based Modeling</a>, <a href="https://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.
         </td>
         <td>2009</td>
     </tr>
     <tr>
         <td>
-            <span class="cv-me">Justin Li</span> and <a href="http://ccl.northwestern.edu/uri/">Uri Wilensky</a> (2009).
-            <a class="cv-title" href="http://ccl.northwestern.edu/netlogo/models/Sugarscape2ConstantGrowback">NetLogo Sugarscape 2 Constant Growback Model</a>.
-            <a href="http://ccl.northwestern.edu/">Center for Connected Learning and Computer-Based Modeling</a>, <a href="https://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.
+            <span class="cv-me">Justin Li</span> and <a href="https://ccl.northwestern.edu/Uri.shtml">Uri Wilensky</a> (2009).
+            <a class="cv-title" href="https://ccl.northwestern.edu/netlogo/models/Sugarscape2ConstantGrowback">NetLogo Sugarscape 2 Constant Growback Model</a>.
+            <a href="https://ccl.northwestern.edu/">Center for Connected Learning and Computer-Based Modeling</a>, <a href="https://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.
         </td>
         <td>2009</td>
     </tr>
     <tr>
         <td>
-            <span class="cv-me">Justin Li</span> and <a href="http://ccl.northwestern.edu/uri/">Uri Wilensky</a> (2009).
-            <a class="cv-title" href="http://ccl.northwestern.edu/netlogo/models/Sugarscape3WealthDistribution">NetLogo Sugarscape 3 Wealth Distribution Model</a>.
-            <a href="http://ccl.northwestern.edu/">Center for Connected Learning and Computer-Based Modeling</a>, <a href="https://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.
+            <span class="cv-me">Justin Li</span> and <a href="https://ccl.northwestern.edu/Uri.shtml">Uri Wilensky</a> (2009).
+            <a class="cv-title" href="https://ccl.northwestern.edu/netlogo/models/Sugarscape3WealthDistribution">NetLogo Sugarscape 3 Wealth Distribution Model</a>.
+            <a href="https://ccl.northwestern.edu/">Center for Connected Learning and Computer-Based Modeling</a>, <a href="https://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.
         </td>
         <td>2009</td>
     </tr>
@@ -417,8 +417,8 @@ short_title: CV
     </tr>
     <tr>
         <td>
-            <a href="http://www.latimes.com/local/lanow/la-me-occidental-computer-science-20180313-story.html">A new kind of computer science major delves into how technology is reshaping society</a>.
-            <a class="cv-venue" href="http://www.latimes.com/">LA Times</a>, March 13, 2018.
+            <a href="https://www.latimes.com/local/lanow/la-me-occidental-computer-science-20180313-story.html">A new kind of computer science major delves into how technology is reshaping society</a>.
+            <a class="cv-venue" href="https://www.latimes.com/">LA Times</a>, March 13, 2018.
         </td>
     </tr>
     <tr>
