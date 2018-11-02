@@ -11,7 +11,7 @@ And when it receives an answer, how does it verify its accuracy, or when does it
 Specifically, I am interested in:
 
 * human information seeking behavior
-* memory mechanisms in cognitive architectures
+* memory mechanisms in agent architectures
 * inference in semantic networks
 * reinforcement learning of memory use
 
