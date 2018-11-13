@@ -4,8 +4,12 @@ PELICAN = $(shell which pelican)
 
 default: html
 
-html:
+html: html/files/pygments.css
 	$(PELICAN) --debug --verbose --settings settings.py --output html src
+
+html/files/pygments.css:
+	mkdir -p html/files
+	pygmentize -S bw -f html -a .codehilite > $@
 
 serve: html
 	cd html && python3 -m http.server

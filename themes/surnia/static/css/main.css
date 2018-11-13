@@ -68,6 +68,8 @@ input[type=radio], input[type=checkbox] {display:inline;}
 #nav li.active {font-weight:600;}
 #nav li.active a {text-decoration:none;}
 
+div.codehilite {background-color:transparent;}
+
 #archives {width:100%; margin:0 0 1em 0;}
 #archives tr:first-child th:first-child {text-align:right;}
 #archives th {border-style:none; font-weight:normal; padding:1.5pt 0; min-width:5em;}
