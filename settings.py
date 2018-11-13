@@ -30,6 +30,17 @@ TIMEZONE = 'America/Detroit'
 
 THEME = 'themes/justinnhli'
 
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {
+            'css_class': 'codehilite',
+        },
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+    },
+    'output_format': 'html5',
+}
+
 USE_FOLDER_AS_CATEGORY = False
 DISPLAY_CATEGORIES_ON_MENU = False
 
