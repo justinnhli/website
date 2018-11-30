@@ -8,9 +8,9 @@ No.
 
 But I really won't be surprised if people have gotten lost for over 15 minutes in the building. Consider what would happen, for example, if you walked through the following doors:
 
-[![A floating door.](http://4.bp.blogspot.com/_9nsdouM4WPg/Rz-YpghsDFI/AAAAAAAAAq0/VPDOuH68SG0/s200/pb150002.jpg)](http://4.bp.blogspot.com/_9nsdouM4WPg/Rz-YpghsDFI/AAAAAAAAAq0/VPDOuH68SG0/s1600/pb150002.jpg)  
+[![A floating door.](/files/the-labyrinth-called-tech/pb150002.jpg)](/files/the-labyrinth-called-tech/pb150002.jpg)
 
-[![A door to the balcony.](http://2.bp.blogspot.com/_9nsdouM4WPg/Rz-YiAhsDEI/AAAAAAAAAqs/uaizpFTsI5w/s200/pb150001.jpg)](http://2.bp.blogspot.com/_9nsdouM4WPg/Rz-YiAhsDEI/AAAAAAAAAqs/uaizpFTsI5w/s1600/pb150001.jpg)  
+[![A door to the balcony.](/files/the-labyrinth-called-tech/pb150001.jpg)](/files/the-labyrinth-called-tech/pb150001.jpg)
 
 The first one is a door from the 4th floor to the fifth floor, and it just hangs above the turn in the staircase. I believe it is just outside [L552](http://www.mccormick.northwestern.edu/maps/roomfinder.php?room=L552), but it could be on the other side too. The second photo was taken from the third floor of Ford, meaning the door is on the second floor of the G wing, right about where [G225](http://www.mccormick.northwestern.edu/maps/roomfinder.php?room=G225) is.
 
