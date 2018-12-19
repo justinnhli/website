@@ -13,7 +13,7 @@ Author's Note: I wrote this to be an example of a detailed design critique for m
 
 It would not be an overstatement to say that I'm obsessed with note-taking systems. I've kept a personal journal for almost 17 years - for more than half my life - and have developed a system for it: I would jot down events and thoughts during the day, then in the evening (or over the weekend) I will revisit them to write my journal in full sentences. Although I still carry a [paper notebook](http://twitter.com/justinnhli/status/642236525502042112) with me most days of the week, now I tend to write them either on my clipboard, or more likely, through a note-taking app on my phone.
 
-Strangely though, I've never found a note-taking app that I've liked. I suspect it's because I've grown so accustomed to [`vim` bindings](https://github.com/justinnhli/journal.vim) that nothing felt equally intuitive. I've tried a lot of apps: [Evernote](https://evernote.com/), [Ginko](https://gingkoapp.com/), [Google Keep](https://keep.google.com/), [Notational Velocity](http://notational.net/), [Orgzly](http://www.orgzly.com/), [TiddlyWiki](https://tiddlywiki.com/), [WorkFlowy](https://workflowy.com/), [Wunderlist](https://www.wunderlist.com/), [Zotero](https://www.zotero.org/) - they all had their shortcomings.
+Strangely though, I've never found a note-taking app that I've liked. I suspect it's because I've grown so accustomed to [`vim` bindings](https://github.com/justinnhli/journal.vim) that nothing felt equally intuitive. I've tried a lot of apps: [Evernote](https://evernote.com/), [Ginko](https://gingkoapp.com/), [Google Keep](https://keep.google.com/), [Notational Velocity](http://notational.net/), [Orgzly](http://www.orgzly.com/), [TiddlyWiki](https://tiddlywiki.com/), [WorkFlowy](https://workflowy.com/), [Wunderlist](https://www.wunderlist.com/), [Zotero](https://www.zotero.org/) - none of them fit how I take notes, and I always felt slowed down by the app.
 
 So earlier this year when I discovered a new note-taking app, Dynalist, I installed it out of idle curiosity and with no real expectations. But within a month, it replaced my previous app (Orgzly). I even used [their API](https://apidocs.dynalist.io/) to write a [script that syncs Dynalist to my computer](https://github.com/justinnhli/dotfiles/blob/master/bin/bin/dynalist.py) and vice versa. Why did Dynalist succeed where other apps failed?
 
@@ -55,6 +55,7 @@ Comparatively, WorkFlowy is much simpler. Adding a note is simply pressing Enter
 
 <div class="dynalist-center">
 <a href="/files/dynalist/workflowy.png"><img src="/files/dynalist/workflowy.png" alt="The WorkFlowy interface" title="The WorkFlowy interface"></a>
+<a href="/files/dynalist/workflowy-edit.png"><img src="/files/dynalist/workflowy-edit.png" alt="Editing an item in WorkFlowy" title="Editing an item in WorkFlowy"></a>
 <a href="/files/dynalist/workflowy-zoom.png"><img src="/files/dynalist/workflowy-zoom.png" alt="Zooming into a list in WorkFlowy" title="Zooming into a list in WorkFlowy"></a>
 </div>
 
@@ -62,7 +63,7 @@ My biggest issue with WorkFlowy is that, with a free account, [you are only allo
 
 **Dynalist: Appearance**
 
-And so I discovered Dynalist several weeks ago. Functionally and even visually, Dynalist is very similar to WorkFlowy - in fact, the [founders were WorkFlowy users until they found missing features](https://dynalist.io/about). The app allows you to make arbitrarily nested lists, lets you "zoom" into sublists, and has the additional features to add checkboxes, due dates, and so on.
+And so I discovered Dynalist several weeks ago. Functionally and even visually, Dynalist is very similar to WorkFlowy - in fact, [the founders were WorkFlowy users until they ran into missing features](https://dynalist.io/about). The app allows you to make arbitrarily nested lists, lets you "zoom" into sublists, and has the additional features to add checkboxes, due dates, and so on.
 
 <div class="dynalist-center">
 <a href="/files/dynalist/dynalist-home.png"><img src="/files/dynalist/dynalist-home.png" alt="The Dyanlist interface" title="The Dynalist interface"></a>
@@ -122,4 +123,4 @@ If I were to tweak the Dynalist app, it would be to allow long-presses to trigge
 
 **Conclusion**
 
-Despite my annoyance with the crowded, indecipherable toolbar and the crowded, untappable right side, the Dynalist is an intuitive and efficient note-taking app. Unlike Orgzly and Workflowy, all the editing and viewing functions are available at once, greatly reducing the friction for common tasks like adding a note or rearranging items. Reading my notes on Dynalist works well, with an expand-/collapse-all button being my only suggestion. Dynalist has made taking notes on my phone almost as easy as it is on my laptop, and maybe even more *joyful*. I won't give up my `vim` note system any time soon, but in the mean time, I am happily surprised that Dynalist has let me take notes on my phone.
+Despite my annoyance with the crowded, indecipherable toolbar and the crowded, untappable right side, the Dynalist is an intuitive and efficient note-taking app. Unlike Orgzly and WorkFlowy, all the editing and viewing functions are available at once, greatly reducing the friction for common tasks like adding a note or rearranging items. Reading my notes on Dynalist works well, with an expand-/collapse-all button being my only suggestion. Dynalist has made taking notes on my phone almost as easy as it is on my laptop, and maybe even more *joyful*. I won't give up my `vim` note system any time soon, but in the mean time, I am happily surprised that Dynalist has let me take notes on my phone.
