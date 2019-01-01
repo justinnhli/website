@@ -12,7 +12,11 @@ short_title: CV
         <a href="tel:13233414116">(323) 341-4116</a><br>
         <a href="mailto:justinnhli@oxy.edu">justinnhli@oxy.edu</a><br>
         <a href="https://justinnhli.com/">https://justinnhli.com/</a><br>
-        <a href="https://twitter.com/justinnhli">@justinnhli</a>
+
+        <a href="https://twitter.com/justinnhli">
+            @justinnhli
+            <img src="/files/twitter.svg" style="display:inline; height:1.25em; vertical-align:text-bottom;">
+        </a>
     </p>
 </div>
 
