@@ -1,6 +1,5 @@
 title:Software Engineers
 date:2015-11-21
-status:draft
 
 There is an Atlantic article [on software "engineers"](https://en.wikipedia.org/wiki/Shellshock_%28software_bug%29#Background) that got a lot of press, and in general I agree with the message that programmers need to be conscious of the societal implications of their work. But I actually find its thesis a little confused. The author seems to be arguing that we should stop using the "software engineer" *label*, while simultaneously saying that software failures can lead to increasingly large disasters - a problem that removing a label won't fix.
 
