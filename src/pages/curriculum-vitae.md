@@ -82,6 +82,15 @@ short_title: CV
 <table class="cv-table">
     <tr>
         <td>
+            <span class="cv-me">Justin Li</span>.
+            <a class="cv-title" href="/files/publications/Li2019ExplorableWebApps.pdf">Explorable Web Apps to Teach AI to Non-Majors</a>.
+            <span class="cv-venue">The Journal of Computing Sciences in Colleges</span>, 34(4).
+            <!-- FIXME pages -->
+        </td>
+        <td>2019</td>
+    </tr>
+    <tr>
+        <td>
             <span class="cv-me">Justin Li</span> and <a href="https://emmakohanyi.com/">Emma Kohanyi</a><sup class="cv-student">*</sup>.
             <a class="cv-title" href="/files/publications/Li2017TowardsModelingFalse.pdf">Towards Modeling False Memory with Computational Knowledge Bases</a>.
             <span class="cv-venue">Topics in Cognitive Science (TopiCS)</span>, 9(1), 102-116.
