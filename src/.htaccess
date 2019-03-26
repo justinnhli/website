@@ -5,6 +5,9 @@ ErrorDocument 404 /pages/404.html
 Redirect /cal https://calendar.google.com/calendar/embed?src=justinnhli@gmail.com
 Redirect /calendar https://calendar.google.com/calendar/embed?src=justinnhli@gmail.com
 
+# redirect /cv to CV
+Redirect /cv /pages/curriculum-vitae.html
+
 # redirect /meet to Doodle
 Redirect /meet https://doodle.com/justinnhli
 
