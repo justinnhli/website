@@ -360,7 +360,16 @@ short_title: CV
 <table class="cv-table">
     <tr>
         <!-- FIXME link to journal/conference websites -->
-        <td>Reviewer for AI Review, GHC, IJAIT, ITICSE, SIGCSE</td>
+        <td>
+            Reviewer for
+            <a href="https://link.springer.com/journal/10462">AI Review</a>,
+            <a href="https://www.journals.elsevier.com/cognition">Cognition</a>,
+            <a href="https://ghc.anitab.org/">GHC</a>,
+            <a href="https://www.worldscientific.com/worldscinet/ijait">IJAIT</a>,
+            <a href="https://iticse.acm.org/">ITICSE</a>,
+            <a href="https://www.ncwit.org/programs-campaigns/ncwit-awards/ncwit-aa-seed-fund">NCWIT Seed Fund</a>,
+            <a href="http://sigcse.org/sigcse/events/symposia">SIGCSE</a>
+        </td>
         <td></td>
     </tr>
     <tr>
