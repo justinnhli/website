@@ -13,9 +13,15 @@ short_title: CV
         <a href="mailto:justinnhli@oxy.edu">justinnhli@oxy.edu</a><br>
         <a href="https://justinnhli.com/">https://justinnhli.com/</a><br>
 
+        @justinnhli
         <a href="https://twitter.com/justinnhli">
-            @justinnhli
-            <img src="/files/twitter.svg" style="display:inline; height:1.25em; vertical-align:text-bottom;">
+            <img src="/files/social-media/twitter.svg" class="social-media-logo">
+        </a>
+        <a href="https://github.com/justinnhli">
+            <img src="/files/social-media/github.svg" class="social-media-logo">
+        </a>
+        <a href="https://www.linkedin.com/in/justinnhli">
+            <img src="/files/social-media/linkedin.svg" class="social-media-logo">
         </a>
     </p>
 </div>
