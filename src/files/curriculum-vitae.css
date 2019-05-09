@@ -1,6 +1,7 @@
 h4 {margin-left:0.5em;}
 .cv-table + h3, .cv-table + h4 {margin-top:0.75em;}
 #cv-contact-right {float:right; text-align:right;}
+.social-media-logo {display:inline; height:1em; vertical-align:top;}
 .indented {padding-left:2em;}
 .cv-table {padding-left:1em; width:100%;}
 .cv-table tr, .cv-table td {border-style:none;}
