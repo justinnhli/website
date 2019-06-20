@@ -63,10 +63,10 @@ input[type=radio], input[type=checkbox] {display:inline;}
 
 #site-title {margin:0.75em 0;}
 
-#nav {display:table; margin:0 0 0.5em 0; padding:0; width:100%;}
-#nav li {display:table-cell; width:1%; text-align:center;}
-#nav li.active {font-weight:600;}
-#nav li.active a {text-decoration:none;}
+nav {display:table; margin:0 0 0.5em 0; padding:0; width:100%;}
+nav a {display:table-cell; width:1%; text-align:center;}
+nav a.active {font-weight:600;}
+nav a.active a {text-decoration:none;}
 
 div.codehilite {background-color:transparent;}
 
