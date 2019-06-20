@@ -61,7 +61,7 @@ input[type=radio], input[type=checkbox] {display:inline;}
 
 /* SITE ELEMENTS */
 
-#site-title {margin:0.75em 0;}
+h1 {margin:0.75em 0;}
 
 nav {display:table; margin:0 0 0.5em 0; padding:0; width:100%;}
 nav a {display:table-cell; width:1%; text-align:center;}
