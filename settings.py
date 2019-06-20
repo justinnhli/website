@@ -26,7 +26,7 @@ ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{slug}.html'
 RELATIVE_URLS = True
 
 DATE_FORMATS = {'en':'%Y-%m-%d',}
-TIMEZONE = 'America/Detroit'
+TIMEZONE = 'America/Los_Angeles'
 
 THEME = 'themes/justinnhli'
 
