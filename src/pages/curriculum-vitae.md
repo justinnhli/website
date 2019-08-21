@@ -90,8 +90,7 @@ short_title: CV
         <td>
             <span class="cv-me">Justin Li</span>.
             <a class="cv-title" href="/files/publications/Li2019ExplorableWebApps.pdf">Explorable Web Apps to Teach AI to Non-Majors</a>.
-            <span class="cv-venue">The Journal of Computing Sciences in Colleges</span>, 34(4).
-            <!-- FIXME pages -->
+            <span class="cv-venue">The Journal of Computing Sciences in Colleges</span>, 34(4), 128-133.
         </td>
         <td>2019</td>
     </tr>
@@ -286,6 +285,10 @@ short_title: CV
 
 <table class="cv-table">
     <tr>
+        <td><span class="cv-title">Computational Redistricting</span> for the <a href="https://www.oxy.edu/multicultural-summer-institute">Multicultural Summer Institute</a></td>
+        <td>Summer 2019</td>
+    </tr>
+    <tr>
         <td><span class="cv-title">Beyond Cool Apps: Doing Research in CS</span> for the <a href="https://www.oxy.edu/undergraduate-research-center/summer-opportunities/oxy-summer-research-program">Occidental Summer Research Program</a></td>
         <td>Summer 2017</td>
     </tr>
@@ -336,6 +339,10 @@ short_title: CV
 
 <table class="cv-table">
     <tr>
+        <td>Lijia Li: <span class="cv-title">Comparing Word Embeddings and Information Retrieval Approaches to Affordance Extraction</span></td>
+        <td>2018</td>
+    </tr>
+    <tr>
         <td>Chloe Zeller: <span class="cv-title">Efficient Search over Episodic Memory using Classification Labels</span></td>
         <td>2017</td>
     </tr>
@@ -365,7 +372,6 @@ short_title: CV
 
 <table class="cv-table">
     <tr>
-        <!-- FIXME link to journal/conference websites -->
         <td>
             Reviewer for
             <a href="https://link.springer.com/journal/10462">AI Review</a>,
