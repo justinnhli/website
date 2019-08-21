@@ -110,6 +110,14 @@ short_title: CV
 <table class="cv-table">
     <tr>
         <td>
+            <span class="cv-me">Justin Li</span>.
+            <a class="cv-title" href="/files/publications/Li2019AHeuristicStrategy.pdf">A Heuristic Strategy for Identifying Misclassified Data Using Classification Labels</a>.
+            In <span class="cv-venue">Proceedings of the 7<sup>th</sup> Annual Conference on Advances in Cognitive Systems (ACS)</span>.
+        </td>
+        <td>2019</td>
+    </tr>
+    <tr>
+        <td>
             <span class="cv-me">Justin Li</span> and <a href="https://emmakohanyi.com/">Emma Kohanyi</a><sup class="cv-student">*</sup>.
             <a class="cv-title" href="/files/publications/Li2016TowardsModelingFalse.pdf">Towards Modeling False Memory with Computational Knowledge Bases</a>.
             In <span class="cv-venue">Proceedings of the 14<sup>th</sup> International Conference on Cognitive Modeling (ICCM)</span>.
