@@ -111,7 +111,7 @@ short_title: CV
         <td>
             <span class="cv-me">Justin Li</span>.
             <a class="cv-title" href="/files/publications/Li2019AHeuristicStrategy.pdf">A Heuristic Strategy for Identifying Misclassified Data Using Classification Labels</a>.
-            In <span class="cv-venue">Proceedings of the 7<sup>th</sup> Annual Conference on Advances in Cognitive Systems (ACS)</span>.
+            In <span class="cv-venue">Proceedings of the 7<sup>th</sup> Annual Conference on Advances in Cognitive Systems (ACS)</span>, 75-93.
         </td>
         <td>2019</td>
     </tr>
