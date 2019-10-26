@@ -239,6 +239,18 @@ short_title: CV
     </tr>
 </table>
 
+<h3 id="grants">Grants</h3>
+
+<table class="cv-table">
+    <tr>
+        <td>
+            <span class="cv-me">Justin Li</span> (PI), Jeff Cannon, Diana Ngo, Janet Scheel, Amanda Zellmer (co-PIs).
+            <a class="cv-title" href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1919771">Acquisition of a High-Performance Computing Cluster for Occidental College</a>, <a href="https://www.nsf.gov/mri">NSF MRI</a>, $493,878.
+        </td>
+        <td>2019</td>
+    </tr>
+</table>
+
 <h3 id="teaching">Teaching</h3>
 
 <h4 id="courses">College Courses</h4>
