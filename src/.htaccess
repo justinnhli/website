@@ -14,6 +14,9 @@ Redirect /meet https://doodle.com/justinnhli
 # redirect /office-hours to Oxy Faculty page
 Redirect /office-hours https://www.oxy.edu/faculty/justin-li
 
+# redirect /slack to personal Slack workspace
+Redirect /slack https://justinnhli.slack.com/
+
 # redirect to https
 RewriteEngine On
 RewriteCond %{SERVER_PORT} 80
