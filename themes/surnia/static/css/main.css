@@ -1,6 +1,6 @@
 /* GENERIC ELEMENTS */
 
-body {background-color:#EEEEEC; color:#2E3436; font-family:'EB Garamond',Garamond,serif; font-size:1.25em; line-height:1.25em; margin:0 auto; max-width:38em; padding:0 5px;}
+body {background-color:#EEEEEC; color:#2E3436; font-display:swap; font-family:'EB Garamond',Garamond,serif; font-size:1.25em; line-height:1.25em; margin:0 auto; max-width:38em; padding:0 5px;}
 
 h1, h2, h3, h4, h5, h6 {font-variant:small-caps; font-weight:600; letter-spacing:0.05em; line-height:1.25em;}
 h1, h2, h3 {font-family:'Cardo',serif;}
