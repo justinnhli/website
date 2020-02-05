@@ -11,7 +11,8 @@ Redirect /cv /pages/curriculum-vitae.html
 # redirect /meet to Doodle
 Redirect /meet https://doodle.com/justinnhli
 
-# redirect /office-hours to Oxy Faculty page
+# redirect /oh and /office-hours to Oxy Faculty page
+Redirect /oh https://www.oxy.edu/faculty/justin-li
 Redirect /office-hours https://www.oxy.edu/faculty/justin-li
 
 # redirect /slack to personal Slack workspace
