@@ -457,6 +457,13 @@ short_title: CV
 <table class="cv-table">
     <tr>
         <td>
+            <a href="https://insidehighered.com/blogs/call-action-marketing-and-communications-higher-education/how-redditcom%E2%80%99s-rprofessors-provides">How Reddit.com’s /r/professors Provides a Glimpse Into Future Brand Issues for Universities</a>.
+            <a class="cv-venue" href="https://insidehighered.com/">Inside Higher Ed</a>, April 2, 2020.<br>
+            <span class="indented">[I'm the "mathematics professor" <a href="https://www.reddit.com/r/Professors/comments/fo78y3/youtube_took_down_my_lecture_because_it_violates/">whose YouTube lecture was taken down</a>.]</span>
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.pcmag.com/news/362827/what-do-you-need-ai-might-soon-know-before-you-do">What Do You Need? AI Might Soon Know Before You Do</a>.
             <a class="cv-venue" href="https://www.pcmag.com/">PC Magazine</a>, August 16, 2018.
         </td>
