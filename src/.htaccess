@@ -9,7 +9,7 @@ Redirect /calendar https://calendar.google.com/calendar/embed?src=justinnhli@gma
 Redirect /cv /pages/curriculum-vitae.html
 
 # redirect /meet to Doodle
-Redirect /meet https://doodle.com/justinnhli
+Redirect /meet https://doodle.com/mm/justinli135/meet
 
 # redirect /oh and /office-hours to Oxy Faculty page
 Redirect /oh https://www.oxy.edu/faculty/justin-li
