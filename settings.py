@@ -23,8 +23,6 @@ ARCHIVES_SAVE_AS = 'writings.html'
 ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{slug}.html'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{slug}.html'
 
-RELATIVE_URLS = True
-
 DATE_FORMATS = {'en':'%Y-%m-%d',}
 TIMEZONE = 'America/Los_Angeles'
 
