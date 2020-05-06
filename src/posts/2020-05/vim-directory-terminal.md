@@ -1,7 +1,7 @@
 title: Open a Directory in Vim Terminal
 date: 2020-05-05
 
-I've never found (neo)vim's [netrw](https://neovim.io/doc/user/pi_netrw.html) to be particularly useful, and have generally much preferred to navigate via the [built-in terminal](https://neovim.io/doc/user/nvim_terminal_emulator.html). I've generally managed to avoid netrw, with the one exception being when I `:tabnew` a directory. I finally fixed that configuring vim to open a terminal at that directory instead:
+I've never found (neo)vim's [netrw](https://neovim.io/doc/user/pi_netrw.html) to be particularly useful, and have generally much preferred to navigate via the [built-in terminal](https://neovim.io/doc/user/nvim_terminal_emulator.html). I've generally managed to avoid netrw, with the one exception being when I `:tabnew` a directory. I finally fixed that by configuring vim to open a terminal at that directory instead:
 
 ```vim
 function s:isdir(dir) abort
