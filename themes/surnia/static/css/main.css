@@ -22,6 +22,7 @@ a:hover {color:#2F5609;}
 p {margin:0 0 1em 0;}
 blockquote {border-left:5px #D3D7CF solid; margin:0 0 1em 0; padding-left:1em;}
 img {display:block; margin:0 auto; max-width:100%;}
+pre {border:1px #000000 solid; width:100%; overflow-x:scroll;}
 code, pre {background-color:transparent; color:inherit; font-family:monospace; font-size:1em;}
 
 /* lists */
