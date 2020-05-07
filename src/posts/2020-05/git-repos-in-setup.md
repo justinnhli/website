@@ -16,24 +16,24 @@ To get it working in `setup.py`, I had to create dependency links:
 
 ```python
 setup(
-	# ...
+    # ...
     install_requires=[
-		# ...
+        # ...
         # experiment packages
         'permspace',
         'clusterun',
-		# ...
+        # ...
     ],
     dependency_links=[
-		'https://github.com/justinnhli/permspace.git#egg=permspace',
-		'https://github.com/justinnhli/clusterun.git#egg=clusterun',
+        'https://github.com/justinnhli/permspace.git#egg=permspace',
+        'https://github.com/justinnhli/clusterun.git#egg=clusterun',
     ],
 )
 ```
 
 The `egg=` component tells setuptools which package it provides. I could [specified more details as well](https://setuptools.readthedocs.io/en/latest/setuptools.html#dependencies-that-aren-t-in-pypi), including a version, but it wasn't necessary here.
 
-The second problem I ran into is that I now have two places to list dependencies, which set off my [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) alarm. It would be ideal if I can make `pip install` read `setup.py`, which is how I learned about the `-e`/`--editable` option. I don't completely understand the documentation rather obtuse - "Install a project in editable mode (i.e. setuptools "develop mode") from a local project path or a VCS url." - but regardless, it doesn't work by itself:
+The second problem I ran into is that I now have two places to list dependencies, which set off my [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) alarm. It would be ideal if I can make `pip install` read `setup.py`, which is how I learned about the `-e`/`--editable` option. I don't completely understand the rather obtuse documentation - "Install a project in editable mode (i.e. setuptools "develop mode") from a local project path or a VCS url." - but regardless, it doesn't work by itself:
 
 ```
 $ pip install -e .
@@ -47,17 +47,17 @@ It turns out `pip install` doesn't read `dependency_links`, which is why it fail
 
 ```python
 setup(
-	# ...
+    # ...
     install_requires=[
-		# ...
+        # ...
         # experiment packages
         'permspace @ git+https://github.com/justinnhli/permspace.git',
         'clusterun @ git+https://github.com/justinnhli/clusterun.git',
-		# ...
+        # ...
     ],
     dependency_links=[
-		'https://github.com/justinnhli/permspace.git#egg=permspace',
-		'https://github.com/justinnhli/clusterun.git#egg=clusterun',
+        'https://github.com/justinnhli/permspace.git#egg=permspace',
+        'https://github.com/justinnhli/clusterun.git#egg=clusterun',
     ],
 )
 ```
@@ -80,13 +80,13 @@ def get_dependency(package, location):
         raise ValueError(f'Unknown location: {location}')
 
 setup(
-	# ...
+    # ...
     install_requires=[
-		# ...
+        # ...
         # experiment packages
         get_dependency('permspace', location='install'),
         get_dependency('clusterun', location='install'),
-		# ...
+        # ...
     ],
     dependency_links=[
         get_dependency('permspace', location='link'),
