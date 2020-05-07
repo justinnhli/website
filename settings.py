@@ -31,6 +31,7 @@ THEME = 'themes/justinnhli'
 MARKDOWN = {
     'extension_configs': {
         'markdown.extensions.codehilite': {
+            'guess_lang': False,
             'css_class': 'codehilite',
         },
         'markdown.extensions.extra': {},
