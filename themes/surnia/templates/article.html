@@ -1,11 +1,11 @@
 {% extends "base.html" %}
 {% block title %}{{ article.title }} - {{ SITENAME }}{% endblock %}
 {% block content %}
-    <h2><a href="/{{ article.url }}">{{ article.title}}</a></h2>
-    <div class="entry-content">
-        <p>{{ article.locale_date }}</p>
-        {{ article.content }}
-    </div>
+<h2><a href="/{{ article.url }}">{{ article.title}}</a></h2>
+<div class="entry-content">
+    <p>{{ article.locale_date }}</p>
+    {{ article.content }}
+</div>
 {% endblock %}
 {% block footer %}
             <p>Have something to add? <a href="https://twitter.com/justinnhli">Tweet</a> or <a href="mailto:justinnhli@gmail.com">Email</a> me!</p>
