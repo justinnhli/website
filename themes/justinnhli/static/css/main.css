@@ -48,7 +48,6 @@ tr:first-child th:first-child {text-align:center; border-right-style:none;}
 th:first-child {border-right:2px solid #D3D7CF; text-align:right;}
 /* last row */
 
-
 /* forms */
 input[type=radio], input[type=checkbox] {display:inline;}
 
