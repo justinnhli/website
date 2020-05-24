@@ -15,13 +15,13 @@ short_title: CV
 
         @justinnhli
         <a href="https://twitter.com/justinnhli">
-            <img src="/files/social-media/twitter.svg" class="social-media-logo">
+            <img src="/files/social-media/twitter.svg" class="social-media-logo" alt="Twitter Logo">
         </a>
         <a href="https://github.com/justinnhli">
-            <img src="/files/social-media/github.svg" class="social-media-logo">
+            <img src="/files/social-media/github.svg" class="social-media-logo" alt="GitHub Logo">
         </a>
         <a href="https://www.linkedin.com/in/justinnhli">
-            <img src="/files/social-media/linkedin.svg" class="social-media-logo">
+            <img src="/files/social-media/linkedin.svg" class="social-media-logo" alt="LinkedIn Logo">
         </a>
     </p>
 </div>
