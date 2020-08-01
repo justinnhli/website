@@ -110,6 +110,24 @@ short_title: CV
     <tr>
         <td>
             <span class="cv-me">Justin Li</span>.
+            Integrating Declarative Long-Term Memory Retrievals into Reinforcement Learning
+            In <span class="cv-venue">Proceedings of the 8<sup>th</sup> Annual Conference on Advances in Cognitive Systems (ACS)</span>, in press.
+        </td>
+        <td>2020</td>
+    </tr>
+    <!--
+    <tr>
+        <td>
+            <span class="cv-me">Justin Li</span>.
+            <a class="cv-title" href="/files/publications/Li2020IntegratingDeclarativeLong.pdf">Integrating Declarative Long-Term Memory Retrievals into Reinforcement Learning</a>.
+            In <span class="cv-venue">Proceedings of the 7<sup>th</sup> Annual Conference on Advances in Cognitive Systems (ACS)</span>, FIXME-FIXME.
+        </td>
+        <td>2020</td>
+    </tr>
+    -->
+    <tr>
+        <td>
+            <span class="cv-me">Justin Li</span>.
             <a class="cv-title" href="/files/publications/Li2019AHeuristicStrategy.pdf">A Heuristic Strategy for Identifying Misclassified Data Using Classification Labels</a>.
             In <span class="cv-venue">Proceedings of the 7<sup>th</sup> Annual Conference on Advances in Cognitive Systems (ACS)</span>, 75-93.
         </td>
