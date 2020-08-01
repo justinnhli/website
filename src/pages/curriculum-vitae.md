@@ -391,19 +391,6 @@ short_title: CV
 
 <table class="cv-table">
     <tr>
-        <td>
-            Reviewer for
-            <a href="https://link.springer.com/journal/10462">AI Review</a>,
-            <a href="https://www.journals.elsevier.com/cognition">Cognition</a>,
-            <a href="https://ghc.anitab.org/">GHC</a>,
-            <a href="https://www.worldscientific.com/worldscinet/ijait">IJAIT</a>,
-            <a href="https://iticse.acm.org/">ITICSE</a>,
-            <a href="https://www.ncwit.org/programs-campaigns/ncwit-awards/ncwit-aa-seed-fund">NCWIT Seed Fund</a>,
-            <a href="http://sigcse.org/sigcse/events/symposia">SIGCSE</a>
-        </td>
-        <td></td>
-    </tr>
-    <tr>
         <td>Core Standing Committee</td>
         <td>2017 &ndash; present</td>
     </tr>
@@ -418,6 +405,21 @@ short_title: CV
     <tr>
         <td><a href="https://um-cseg.github.io/">CSEG</a> Secretary, <a href="https://umich.edu/">University of Michigan</a></td>
         <td>2012 &ndash; 2013</td>
+    </tr>
+    <tr>
+        <td>
+            Reviewer for
+            <a href="https://www.aaai.org/Conferences/AAAI/aaai.php">AAAI</a>,
+            <a href="https://link.springer.com/journal/10462">AI Review</a>,
+            <a href="https://www.journals.elsevier.com/cognition">Cognition</a>,
+            <a href="https://ghc.anitab.org/">GHC</a>,
+            <a href="https://www.worldscientific.com/worldscinet/ijait">IJAIT</a>,
+            <a href="https://www.ijcai.org/">IJCAI</a>,
+            <a href="https://iticse.acm.org/">ITICSE</a>,
+            <a href="https://www.ncwit.org/programs-campaigns/ncwit-awards/ncwit-aa-seed-fund">NCWIT Seed Fund</a>,
+            <a href="http://sigcse.org/sigcse/events/symposia">SIGCSE</a>
+        </td>
+        <td></td>
     </tr>
 </table>
 
