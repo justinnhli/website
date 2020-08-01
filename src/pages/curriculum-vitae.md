@@ -405,7 +405,7 @@ short_title: CV
     </tr>
     <tr>
         <td>Core Standing Committee</td>
-        <td>2017 &ndash; 2018</td>
+        <td>2017 &ndash; present</td>
     </tr>
     <tr>
         <td>Computer Science Advisory Committee</td>
