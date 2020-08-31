@@ -110,7 +110,7 @@ short_title: CV
     <tr>
         <td>
             <span class="cv-me">Justin Li</span>.
-            Integrating Declarative Long-Term Memory Retrievals into Reinforcement Learning
+            Integrating Declarative Long-Term Memory Retrievals into Reinforcement Learning.
             In <span class="cv-venue">Proceedings of the 8<sup>th</sup> Annual Conference on Advances in Cognitive Systems (ACS)</span>, in press.
         </td>
         <td>2020</td>
