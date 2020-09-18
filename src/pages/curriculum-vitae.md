@@ -238,7 +238,16 @@ short_title: CV
     </tr>
 </table>
 
-<h4 id="presentations">Presentations</h4>
+<h4 id="presentations">Invited Panels</h4>
+
+<table class="cv-table">
+    <tr>
+        <td><span class="cv-title">ACS Academia Panel</span>, at the <span class="cv-venue">Proceedings of the 8<sup>th</sup> Annual Conference on Advances in Cognitive Systems (ACS)</span>.</td>
+        <td>2020</td>
+    </tr>
+</table>
+
+<h4 id="presentations">Workshop Presentations</h4>
 
 <table class="cv-table">
     <tr>
