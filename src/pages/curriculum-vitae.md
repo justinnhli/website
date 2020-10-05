@@ -237,7 +237,7 @@ short_title: CV
     </tr>
 </table>
 
-<h4 id="presentations">Invited Panels</h4>
+<h4 id="panels">Invited Panels</h4>
 
 <table class="cv-table">
     <tr>
