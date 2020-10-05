@@ -118,7 +118,6 @@ short_title: CV
         </td>
         <td>2020</td>
     </tr>
-    -->
     <tr>
         <td>
             <span class="cv-me">Justin Li</span>.
