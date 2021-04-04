@@ -303,7 +303,7 @@ short_title: CV
                 <li><a href="https://oxy.smartcatalogiq.com/en/2017-2018/Catalog/Courses/COGS-Cognitive-Science/300/COGS-325">Topics in Artificial Intelligence</a></li>
             </ul>
         </td>
-        <td>Fall 2015 &ndash; present</td>
+        <td>2015 &ndash; present</td>
     </tr>
     <tr>
         <td>
@@ -314,7 +314,7 @@ short_title: CV
                 <li><a href="https://bulletin.engin.umich.edu/courses/eecs/">Programming and Introductory Data Structures</a> (as a TA)</li>
             </ul>
         </td>
-        <td>Fall 2009 &ndash; Winter 2015</td>
+        <td>2009 &ndash; 2015</td>
     </tr>
     <tr>
         <td>
