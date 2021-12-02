@@ -6,8 +6,8 @@
         <meta name="description" content="Website of Justin Li, Assistant Professor of Computer Science and Cognitive Science at Occidental College">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="shortcut icon" type="image/x-icon" href="/{{ THEME_STATIC_DIR }}/images/favicon.png">
-        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Cardo:700&display=swap">
-        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=EB+Garamond&display=swap">
+        <link rel="preload" as="style" type="text/css" href="https://fonts.googleapis.com/css?family=Cardo:700&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+        <link rel="preload" as="style" type="text/css" href="https://fonts.googleapis.com/css?family=EB+Garamond&display=swap" onload="this.onload=null;this.rel='stylesheet'">
         <link rel="stylesheet" type="text/css" href="/{{ THEME_STATIC_DIR }}/css/{{ CSS_FILE }}">
         <link rel="stylesheet" type="text/css" href="/{{ THEME_STATIC_DIR }}/css/pygments.css">
         {% block header %}{%endblock%}
