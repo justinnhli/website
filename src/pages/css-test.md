@@ -184,13 +184,13 @@ status: hidden
 
 <h1 id="misc">Misc Stuff - abbr, acronym, pre, code, sub, sup, etc.</h1>
 <p>Lorem <sup>superscript</sup> ipsum <sub>subscript</sub> dolor <cite>cite</cite> amet, <acronym title="National Basketball Association">NBA</acronym> consectetur <abbr title="Avenue">AVE</abbr> adipiscing <code>__main__</code> elit.</p>
-<pre>
+```java
 public class Main {
     public static void main(String[] args) {
 	    System.out.println("Hello, World!");
 	}
 }
-</pre>
+```
 <blockquote>
 	"This stylesheet is going to help so freaking much." <br />-Blockquote
 </blockquote>
