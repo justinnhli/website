@@ -15,6 +15,9 @@ Redirect /meet https://doodle.com/mm/justinli135/meet
 Redirect /oh https://www.oxy.edu/faculty/justin-li
 Redirect /office-hours https://www.oxy.edu/faculty/justin-li
 
+# redirect /subitize to Subitize
+Redirect /subitize https://subitize.herokuapp.com
+
 # redirect /slack to personal Slack workspace
 Redirect /slack https://justinnhli.slack.com/
 
