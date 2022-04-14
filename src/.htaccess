@@ -2,8 +2,8 @@
 ErrorDocument 404 /pages/404.html
 
 # redirect /cal[endar] to Google Calendar
-Redirect /cal https://calendar.google.com/calendar/embed?src=justinnhli@gmail.com
-Redirect /calendar https://calendar.google.com/calendar/embed?src=justinnhli@gmail.com
+Redirect /cal https://calendar.google.com/calendar/embed?src=justinnhli@gmail.com&mode=week
+Redirect /calendar https://calendar.google.com/calendar/embed?src=justinnhli@gmail.com&mode=week
 
 # redirect /cv to CV
 Redirect /cv /pages/curriculum-vitae.html
