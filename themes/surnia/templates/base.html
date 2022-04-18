@@ -21,31 +21,34 @@
 
     <body>
 
-        <h1><a href="/">{{ SITENAME }}</a></h1>
+        <header>
+            <h1><a href="/">{{ SITENAME }}</a></h1>
 
-        <nav class="hidden-print">
-        {% if DISPLAY_PAGES_ON_MENU -%}
-        {% for pg in pages %}
-            <a href="/{{ pg.url }}"{% if pg == page %} class="active"{% endif %}>{{ pg.short_title }}</a>
-        {% endfor %}
-        {% endif %}
-        {% for title, link in MENUITEMS %}
-            <a href="{{ link }}"{% if title == "Writings" and (category is defined or output_file == ARCHIVES_SAVE_AS) %} class="active"{% endif %}>{{ title }}</a>
-        {% endfor %}
-        </nav>
-
-        <hr class="hidden-print">
+            <nav class="hidden-print">
+            {% if DISPLAY_PAGES_ON_MENU -%}
+            {% for pg in pages %}
+                <a href="/{{ pg.url }}"{% if pg == page %} class="active"{% endif %}>{{ pg.short_title }}</a>
+            {% endfor %}
+            {% endif %}
+            {% for title, link in MENUITEMS %}
+                <a href="{{ link }}"{% if title == "Writings" and (category is defined or output_file == ARCHIVES_SAVE_AS) %} class="active"{% endif %}>{{ title }}</a>
+            {% endfor %}
+            </nav>
+            <hr class="hidden-print">
+        </header>
+        <main>
 
         {% block content %}{% endblock %}
 
-        <div id="footer" class="hidden-print">
+        </main>
+        <footer id="footer" class="hidden-print">
             <hr>
             {% block footer %}{% endblock %}
             <p>
                 &copy; Justin Li, licensed <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en_US" rel="license">CC-BY-SA</a>.<br>
                 <a href="https://github.com/justinnhli/website">Generated</a> with <a href="https://blog.getpelican.com">Pelican</a>.
             </p>
-        </div>
+        </footer>
 
     </body>
 
