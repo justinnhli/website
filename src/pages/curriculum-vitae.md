@@ -12,7 +12,6 @@ short_title: CV
         <a href="tel:13233414116">(323) 341-4116</a><br>
         <a href="mailto:justinnhli@oxy.edu">justinnhli@oxy.edu</a><br>
         <a href="https://justinnhli.com/">https://justinnhli.com/</a><br>
-
         @justinnhli
         <a href="https://twitter.com/justinnhli">
             <img src="/files/social-media/twitter.svg" class="social-media-logo" alt="Twitter Logo">
@@ -36,8 +35,12 @@ short_title: CV
 
 <table class="cv-table">
     <tr>
+        <td>Associate Professor in <a href="https://www.oxy.edu/computer-science/">Computer Science</a> and <a href="https://www.oxy.edu/cognitive-science/">Cognitive Science</a>, <a href="https://www.oxy.edu/">Occidental College</a>, Los Angeles, CA.</td>
+        <td>2021 &ndash; present</td>
+    </tr>
+    <tr>
         <td>Assistant Professor in <a href="https://www.oxy.edu/computer-science/">Computer Science</a> and <a href="https://www.oxy.edu/cognitive-science/">Cognitive Science</a>, <a href="https://www.oxy.edu/">Occidental College</a>, Los Angeles, CA.</td>
-        <td>2015 &ndash; present</td>
+        <td>2015 &ndash; 2021</td>
     </tr>
     <tr>
         <td>Graduate Student Research Assistant, <a href="https://umich.edu/">University of Michigan</a>, Ann Arbor, MI.</td>
