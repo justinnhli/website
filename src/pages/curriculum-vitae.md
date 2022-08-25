@@ -84,7 +84,7 @@ short_title: CV
 
 <h3 id="publications">Publications</h3>
 
-<p class="cv-note">Undergraduate co-authors are marked with an asterisk (*).</p>
+<p class="cv-note">Undergraduate co-authors are marked with an asterisk (<span class="cv-student"></span>).</p>
 
 <h4 id="journals">Journal Articles</h4>
 
@@ -99,7 +99,7 @@ short_title: CV
     </tr>
     <tr>
         <td>
-            <span class="cv-me">Justin Li</span> and <a href="https://emmakohanyi.com/">Emma Kohanyi</a><sup class="cv-student">*</sup>.
+            <span class="cv-me">Justin Li</span> and <span class="cv-student"><a href="https://emmakohanyi.com/">Emma Kohanyi</a></span>.
             <a class="cv-title" href="/files/publications/Li2017TowardsModelingFalse.pdf">Towards Modeling False Memory with Computational Knowledge Bases</a>.
             <span class="cv-venue">Topics in Cognitive Science (TopiCS)</span>, 9(1), 102-116.
         </td>
@@ -112,7 +112,7 @@ short_title: CV
 <table class="cv-table">
     <tr>
         <td>
-            <span class="cv-me">Justin Li</span>, Bryce Boyle<sup>*</sup>.
+            <span class="cv-me">Justin Li</span>, <span class="cv-student">Bryce Boyle</span>.
             <a class="cv-title" href="/files/publications/Li2022TowardsAComputational.pdf">Towards a Computational Model of a Dynamic Feeling of Knowing</a>.
             In <span class="cv-venue">Proceedings of the 19<sup>th</sup> International Conference on Cognitive Modeling (ICCM)</span>.
         </td>
@@ -136,7 +136,7 @@ short_title: CV
     </tr>
     <tr>
         <td>
-            <span class="cv-me">Justin Li</span> and <a href="https://emmakohanyi.com/">Emma Kohanyi</a><sup class="cv-student">*</sup>.
+            <span class="cv-me">Justin Li</span> and <span class="cv-student"><a href="https://emmakohanyi.com/">Emma Kohanyi</a></span>.
             <a class="cv-title" href="/files/publications/Li2016TowardsModelingFalse.pdf">Towards Modeling False Memory with Computational Knowledge Bases</a>.
             In <span class="cv-venue">Proceedings of the 14<sup>th</sup> International Conference on Cognitive Modeling (ICCM)</span>.
         </td>
