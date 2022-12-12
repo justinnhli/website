@@ -261,6 +261,16 @@ short_title: CV
 <table class="cv-table">
     <tr>
         <td>
+            Ron Buckmire, <span class="cv-me">Justin Li</span>, Amanda Zellmer (PIs), Carmel Levitan, Eileen Spain (co-PIs).
+            <a class="cv-title" href="https://www.hhmi.org/news/together-104-schools-pursue-inclusive-undergraduate-science-education">
+            Evaluating Effective Inclusive Teaching and its Use for Faculty Promotion and Tenure</a>,
+            <a href="https://www.hhmi.org/science-education/programs/inclusive-excellence-3">HHMI Inclusive Excellence 3 Iniitiative</a>,
+            $535,000.
+        </td>
+        <td>2022</td>
+    </tr>
+    <tr>
+        <td>
             Gretchen North (PI), Janet Scheel, Ron Buckmire, Aleksandra Sherman, <span class="cv-me">Justin Li</span> (co-PIs).
             <a class="cv-title" href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2030763">Creating Opportunities for High-Achieving Students in Science and Mathematics through Scholarships, Research Experiences, Leadership, and Community</a>,
             <a href="https://beta.nsf.gov/funding/opportunities/nsf-scholarships-science-technology-engineering">NSF S-STEM</a>,
