@@ -261,22 +261,28 @@ short_title: CV
 <table class="cv-table">
     <tr>
         <td>
-            Gretchen North, Janet Scheel, Ron Buckmire, Aleksandra Sherman, <span class="cv-me">Justin Li</span> (co-PIs).
-            <a class="cv-title" href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2030763">Creating Opportunities for High-Achieving Students in Science and Mathematics through Scholarships, Research Experiences, Leadership, and Community</a>, <a href="https://www.nsf.gov/">NSF S-STEM</a>, $1,000,000.
+            Gretchen North (PI), Janet Scheel, Ron Buckmire, Aleksandra Sherman, <span class="cv-me">Justin Li</span> (co-PIs).
+            <a class="cv-title" href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2030763">Creating Opportunities for High-Achieving Students in Science and Mathematics through Scholarships, Research Experiences, Leadership, and Community</a>,
+            <a href="https://beta.nsf.gov/funding/opportunities/nsf-scholarships-science-technology-engineering">NSF S-STEM</a>,
+            $1,000,000.
         </td>
         <td>2020</td>
     </tr>
     <tr>
         <td>
             <span class="cv-me">Justin Li</span> (PI).
-            <a class="cv-title" href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2015041">Attendee Support for the 2020 AAAI Doctorial Consortium</a>, <a href="https://www.nsf.gov/">NSF</a>, $17,100.
+            <a class="cv-title" href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2015041">Attendee Support for the 2020 AAAI Doctorial Consortium</a>,
+            <a href="https://www.nsf.gov/">NSF</a>,
+            $17,100.
         </td>
         <td>2020</td>
     </tr>
     <tr>
         <td>
             <span class="cv-me">Justin Li</span> (PI), Jeff Cannon, Diana Ngo, Janet Scheel, Amanda Zellmer (co-PIs).
-            <a class="cv-title" href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1919771">Acquisition of a High-Performance Computing Cluster for Occidental College</a>, <a href="https://www.nsf.gov/mri">NSF MRI</a>, $493,878.
+            <a class="cv-title" href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1919771">Acquisition of a High-Performance Computing Cluster for Occidental College</a>,
+            <a href="https://www.nsf.gov/mri">NSF MRI</a>,
+            $493,878.
         </td>
         <td>2019</td>
     </tr>
