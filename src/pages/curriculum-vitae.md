@@ -1,5 +1,6 @@
 title: Curriculum Vitae
 short_title: CV
+category: menu
 
 <div id="cv-contact" class="hidden-screen">
     <p id="cv-contact-right">
