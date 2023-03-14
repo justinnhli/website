@@ -1,5 +1,5 @@
 title: CSS Test
-status: hidden
+category: hidden
 
 <!-- Sample Content to Plugin to Template -->
 <h1>CSS Basic Elements</h1>

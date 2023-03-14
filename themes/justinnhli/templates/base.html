@@ -27,7 +27,9 @@
             <nav class="hidden-print">
             {% if DISPLAY_PAGES_ON_MENU -%}
             {% for pg in pages %}
+                {% if pg.category == "menu" %}
                 <a href="/{{ pg.url }}"{% if pg == page %} class="active"{% endif %}>{{ pg.short_title }}</a>
+                {% endif %}
             {% endfor %}
             {% endif %}
             {% for title, link in MENUITEMS %}

@@ -2,6 +2,7 @@ title: About
 short_title: About
 url: index.html
 save_as: index.html
+category: menu
 
 I am an associate professor at [Occidental College](http://www.oxy.edu/), in the [Cognitive Science](http://www.oxy.edu/cognitive-science/) and [Computer Science](http://www.oxy.edu/computer-science/) departments.
 My research is broadly on the strategic search for knowledge.
