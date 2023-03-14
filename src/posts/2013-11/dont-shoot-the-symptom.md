@@ -1,6 +1,5 @@
 Title: Don't Shoot the Symptom
 Date: 2013-11-27 19:12
-Category: ifttt
 Slug: dont-shoot-the-symptom
 
 *The usual disclaimers about not seeing outside my life experience apply.*
