@@ -33,7 +33,13 @@
             {% endfor %}
             {% endif %}
             {% for title, link in MENUITEMS %}
-                <a href="{{ link }}"{% if title == "Writings" and (category is defined or output_file == ARCHIVES_SAVE_AS) %} class="active"{% endif %}>{{ title }}</a>
+                {% if title == "Writings" and output_file == ARCHIVES_SAVE_AS %}
+                <a href="{{ link }}" class="active">{{ title }}</a>
+                {% elif title == "Resources" and output_file == CATEGORIES_SAVE_AS %}
+                <a href="{{ link }}" class="active">{{ title }}</a>
+                {% else %}
+                <a href="{{ link }}">{{ title }}</a>
+                {% endif %}
             {% endfor %}
             </nav>
             <hr class="hidden-print">

@@ -6,6 +6,7 @@ MENUITEMS = (
     ('Tweets', 'https://twitter.com/justinnhli/'),
     ('Writings', '/writings.html'),
     ('Code', 'https://github.com/justinnhli?tab=repositories'),
+    ('Resources', '/resources.html'),
 )
 
 STATIC_PATHS = (
@@ -20,12 +21,16 @@ IGNORE_FILES = (
 
 # this controls which collections pages are generated
 # possible values: index, authors, categories, tags, archives
-DIRECT_TEMPLATES = ('archives',)
+DIRECT_TEMPLATES = ('archives', 'categories')
 
 ARCHIVES_SAVE_AS = 'writings.html'
+# hijacking the "categories" page to list all resource pages
+CATEGORIES_SAVE_AS = 'resources.html'
 
 ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{slug}.html'
 ARTICLE_SAVE_AS = ARTICLE_URL
+
+DEFAULT_CATEGORY = 'default'
 
 DATE_FORMATS = {'en':'%Y-%m-%d',}
 TIMEZONE = 'America/Los_Angeles'
@@ -52,9 +57,6 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
-
-AUTHORS_SAVE_AS = False
-TAGS_SAVE_AS = False
 
 AUTHOR_SAVE_AS = ''
 CATEGORY_SAVE_AS = ''
