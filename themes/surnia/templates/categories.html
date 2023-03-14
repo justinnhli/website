@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block title %}Resources - {{ SITENAME }}{% endblock %}
+{% block content %}
+    <h2>Resources</h2>
+
+    <ul>
+    {% for page in pages %}
+        {% if page.category == 'resource' %}
+        <li>
+            <a href="/{{ page.url }}">{{ page.title }}</a>
+        </li>
+        {% endif %}
+    {% endfor %}
+    </ul>
+{% endblock %}
