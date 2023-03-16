@@ -27,7 +27,7 @@ code, pre {background-color:transparent; color:inherit; font-family:monospace; f
 
 /* lists */
 ul, ol, dl {margin:0 0 1em 1em;}
-ul ul, ul ol, ol ul, ol ol {margin-left:-0.75em;}
+ul ul, ul ol, ol ul, ol ol {margin-left:-0.75em; margin-bottom:0;}
 ul {list-style-type:circle;}
 ol li {list-style-type:decimal;}
 ol li ol li {list-style-type:lower-latin;}
@@ -43,7 +43,7 @@ th, td {border-style:none; padding:0.5em; vertical-align:top;}
 th {font-weight:600; text-align:center;}
 /* column header */
 tr:first-child th {border-bottom:2px solid #D3D7CF;}
-tr:first-child th:first-child {text-align:center; border-right-style:none;}
+tr:first-child th:first-child {text-align:center;}
 /* row header */
 th:first-child {border-right:2px solid #D3D7CF; text-align:right;}
 /* last row */
