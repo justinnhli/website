@@ -92,6 +92,10 @@ category: resources
 * [*Programming Languages: Application and Interpretation*, by Shriram Krishnamurthi](https://cs.brown.edu/courses/cs173/2012/book/)
 * [Advance Compilers](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
 
+### Databases
+
+* [*Build Your Own Database From Scratch*, by James Smith](https://build-your-own.org/database/)
+
 ### SQL
 
 * [*SQL Murder Mystery*](http://mystery.knightlab.com/)
