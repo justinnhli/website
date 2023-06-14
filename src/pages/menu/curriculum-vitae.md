@@ -145,7 +145,7 @@ category: menu
     </tr>
     <tr>
         <td>
-            <span class="cv-me">Justin Li</span>, Steven Jones, <a href="https://www.shiwali.me/">Shiwali Mohan</a>, and <a href="https://derbinsky.info/">Nate Derbinsky</a>.
+            <span class="cv-me">Justin Li</span>, <a href="https://scijones.github.io/">Steven Jones</a>, <a href="https://www.shiwali.me/">Shiwali Mohan</a>, and <a href="https://derbinsky.info/">Nate Derbinsky</a>.
             <a class="cv-title" href="/files/publications/Li2016ArchitecturalMechanismsFor.pdf">Architectural Mechanisms for Mitigating Uncertainty during Long-Term Declarative Knowledge Access</a>.
             In <span class="cv-venue">Proceedings of the 4<sup>th</sup> Annual Conference on Advances in Cognitive Systems (ACS)</span>.
         </td>
