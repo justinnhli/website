@@ -442,8 +442,8 @@ category: menu
 
 <table class="cv-table">
     <tr>
-        <td>Core Standing Committee</td>
-        <td>2017 &ndash; present</td>
+        <td>Core Steering Committee</td>
+        <td>2017 &ndash; 2022</td>
     </tr>
     <tr>
         <td>Computer Science Advisory Committee</td>
