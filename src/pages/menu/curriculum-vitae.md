@@ -275,7 +275,7 @@ category: menu
             Ron Buckmire, <span class="cv-me">Justin Li</span>, Amanda Zellmer (PIs), Carmel Levitan, Eileen Spain (co-PIs).
             <a class="cv-title" href="https://www.hhmi.org/news/together-104-schools-pursue-inclusive-undergraduate-science-education">
             Evaluating Effective Inclusive Teaching and its Use for Faculty Promotion and Tenure</a>,
-            <a href="https://www.hhmi.org/science-education/programs/inclusive-excellence-3">HHMI Inclusive Excellence 3 Iniitiative</a>,
+            <a href="https://www.hhmi.org/science-education/programs/inclusive-excellence-3">HHMI Inclusive Excellence 3 Initiative</a>,
             $535,000.
         </td>
         <td>2022</td>
