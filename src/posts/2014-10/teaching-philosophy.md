@@ -5,7 +5,7 @@ Date: 2014-10-11
 
 The hardest part about writing a teaching philosophy is to not write a life philosophy.
 
-It's difficult to remember a time when I didn't want to be a teacher. Back when I was a senior in high school, I was part of a group called the Math Center. Led by the math math department teachers, this group in theory helped other students with their math homework. This being high school, very few students came to use the service. I was also on the speech and debate team, and helped train younger students by giving critique on their talks.
+It's difficult to remember a time when I didn't want to be a teacher. Back when I was a senior in high school, I was part of a group called the Math Center. Led by the math department teachers, this group in theory helped other students with their math homework. This being high school, very few students came to use the service. I was also on the speech and debate team, and helped train younger students by giving critique on their talks.
 
 It wasn't until two years later, as a sophomore in college, that I became a teacher in any official capacity. My alma mater, Northwestern University, ran Gateway Science Workshops for introductory classes in maths, the basic sciences, and the engineering sequence. The goal of the workshops was to provide peer tutoring, as well as to present more advanced material to interested students. I was a student in the engineering workshops my freshman year, but did not find the material particularly challenging; in fact, I found that I often had a more intuitive explanation of the material than my facilitator. At the end of the year, I applied to be a facilitator myself, and for the next three years of college, GSW became the constant backdrop against my ever-changing classes.
 
