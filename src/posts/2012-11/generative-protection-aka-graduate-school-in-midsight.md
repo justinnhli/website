@@ -30,7 +30,7 @@ That sentence put words to an idea I've had since high school. An
 episode from 2004-01-16 in my journal, when someone asked me how I did
 in my chemistry exam and it was better than the scores they've heard so
 far, I wrote, "I knew, and I kind of felt sorry, like survivor's guilt,
-since every did so poorly but I was unscathed." This feeling was touched
+since everyone did so poorly but I was unscathed." This feeling was touched
 on in an earlier [blog post about grad
 school](http://justinnhli.com/posts/2009/11/challenges.html). A month
 later, a friend asked me why I think I'm not good at taking compliments,

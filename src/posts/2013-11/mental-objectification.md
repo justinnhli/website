@@ -12,7 +12,7 @@ One answer that comes up almost immediately is that the first scenario is object
 
 > 1.  Instrumentality: The objectifier treats the object as a tool of his or her purposes.
 > 2.  Denial of autonomy: The objectifier treats the object as lacking in autonomy and self-determination.
-> 3.  Inertness: The objectifier treats the object as lacking in agency,and perhaps also in activity.
+> 3.  Inertness: The objectifier treats the object as lacking in agency, and perhaps also in activity.
 > 4.  Fungibility: The objectifier treats the object as interchangeable (a) with other objects of the same type, and/or (b) with objects of other types.
 > 5.  Violability: The objectifier treats the object as lacking in boundary-integrity, as something that it is permissible to break up, smash, break into.
 > 6.  Ownership: The objectifier treats the object as something that is owned by another, can be bought or sold, etc.
