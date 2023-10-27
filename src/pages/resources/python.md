@@ -14,4 +14,5 @@ category: resources
 * [PySnooper](https://github.com/cool-RR/pysnooper), trace all executions of some lines of code
 * [Py-Spy](https://github.com/benfred/py-spy), a sampling profiler for Python
 * [Scrapy](https://scrapy.org/), a web crawler and scraper
+* [Shiv](https://github.com/linkedin/shiv), another way to convert Python scripts into executables
 * [TPOT](https://github.com/EpistasisLab/tpot), automatically create machine learning pipelines
