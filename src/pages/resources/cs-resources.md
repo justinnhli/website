@@ -52,6 +52,10 @@ category: resources
 * [*Connecting Discrete Mathematics and Computer Science*, by David Liben-Nowell](https://cs.carleton.edu/faculty/dln/book/)
 * [*Foundations of Computer Science*, by Al Aho and Jeff Ullman](http://infolab.stanford.edu/~ullman/focs.html)
 
+### Linear Algebra
+
+* [*Linear Algebra Done Right*, by Sheldon Axler](https://linear.axler.net/)
+
 ### Algorithms
 
 * [*Algorithms*, by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms)
