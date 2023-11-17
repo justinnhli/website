@@ -35,34 +35,62 @@ category: menu
 <h3 id="experience">Experience</h3>
 
 <table class="cv-table">
+    <tbody class="grouping">
     <tr>
-        <td>Associate Professor in <a href="https://www.oxy.edu/computer-science/">Computer Science</a> and <a href="https://www.oxy.edu/cognitive-science/">Cognitive Science</a>, <a href="https://www.oxy.edu/">Occidental College</a>, Los Angeles, CA.</td>
+        <td colspan="2">
+            <a href="https://www.oxy.edu/">Occidental College</a>, Los Angeles, CA
+        </td>
+    </tr>
+    <tr>
+        <td>Associate Professor in <a href="https://www.oxy.edu/computer-science/">Computer Science</a> and <a href="https://www.oxy.edu/cognitive-science/">Cognitive Science</a></td>
         <td>2021 &ndash; present</td>
     </tr>
     <tr>
-        <td>Assistant Professor in <a href="https://www.oxy.edu/computer-science/">Computer Science</a> and <a href="https://www.oxy.edu/cognitive-science/">Cognitive Science</a>, <a href="https://www.oxy.edu/">Occidental College</a>, Los Angeles, CA.</td>
+        <td>Assistant Professor in <a href="https://www.oxy.edu/computer-science/">Computer Science</a> and <a href="https://www.oxy.edu/cognitive-science/">Cognitive Science</a></td>
         <td>2015 &ndash; 2021</td>
     </tr>
+    </tbody>
+    <tbody class="grouping">
     <tr>
-        <td>Graduate Student Research Assistant, <a href="https://umich.edu/">University of Michigan</a>, Ann Arbor, MI.</td>
+        <td colspan="2">
+            <a href="https://umich.edu/">University of Michigan</a>, Ann Arbor, MI
+        </td>
+    </tr>
+    <tr>
+        <td>Graduate Student Research Assistant</td>
         <td>2009 &ndash; 2015</td>
     </tr>
     <tr>
-        <td><a href="https://crlte.engin.umich.edu/gsi_serv/etc/what-are-the-etcs/">Engineering Teaching Consultant</a>, <a href="https://umich.edu/">University of Michigan</a>, Ann Arbor, MI.</td>
+        <td><a href="https://crlte.engin.umich.edu/gsi_serv/etc/what-are-the-etcs/">Engineering Teaching Consultant</a></td>
         <td>2012 &ndash; 2014</td>
     </tr>
+    </tbody>
+    <tbody class="grouping">
     <tr>
-        <td>Teaching Assistant, <a href="https://cty.jhu.edu/">Center for Talented Youth</a>, Baltimore, MD.</td>
-        <td>2008 &ndash; 2009</td>
+        <td colspan="2">
+            <a href="https://cty.jhu.edu/">Center for Talented Youth</a>, Baltimore, MD
+        </td>
     </tr>
     <tr>
-        <td>Teaching Assistant, <a href="https://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.</td>
+        <td>Teaching Assistant</td>
+        <td>2008 &ndash; 2009</td>
+    </tr>
+    </tbody>
+    <tbody class="grouping">
+    <tr>
+        <td colspan="2">
+            <a href="https://www.northwestern.edu/">Northwestern University</a>, Evanston, IL
+        </td>
+    </tr>
+    <tr>
+        <td>Teaching Assistant</td>
         <td>Spring 2009</td>
     </tr>
     <tr>
-        <td><a href="https://www.northwestern.edu/searle/programs-events/undergrad/group-study/gsw/index.html">Gateway Science Workshop</a> Facilitator, <a href="https://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.</td>
+        <td><a href="https://www.northwestern.edu/searle/programs-events/undergrad/group-study/gsw/index.html">Gateway Science Workshop</a> Facilitator</td>
         <td>2006 &ndash; 2009</td>
     </tr>
+    </tbody>
 </table>
 
 <h3 id="education">Education</h3>
@@ -77,7 +105,7 @@ category: menu
     <tr>
         <td>
             BS in Computer Science, <em>cum laude</em>. <a href="https://www.northwestern.edu/">Northwestern University</a>, Evanston, IL.<br>
-            <span class="indented">with a <a href="https://design.northwestern.edu/programs/segal-design-certificate/">Certificate in Engineering Design</a></span>
+            <span class="addendum">with a <a href="https://design.northwestern.edu/programs/segal-design-certificate/">Certificate in Engineering Design</a></span>
         </td>
         <td>2009</td>
     </tr>
@@ -259,11 +287,11 @@ category: menu
 <table class="cv-table">
     <tr>
         <td><span class="cv-title">Retracing the Rational Analysis of Memory</span>, at the <a href="https://soar.eecs.umich.edu/workshop/34/index.html">34<sup>th</sup> Soar Workshop</a></td>
-        <td>Summer 2014</td>
+        <td>2014</td>
     </tr>
     <tr>
         <td><span class="cv-title">Do's and Don't's of Episodic Memory</span>, at the <a href="https://soar.eecs.umich.edu/workshop/31/index.html">31<sup>st</sup> Soar Workshop</a></td>
-        <td>Summer 2011</td>
+        <td>2011</td>
     </tr>
 </table>
 
@@ -354,7 +382,7 @@ category: menu
         <td>
             <a href="https://insidehighered.com/blogs/call-action-marketing-and-communications-higher-education/how-redditcom%E2%80%99s-rprofessors-provides">How Reddit.com’s /r/professors Provides a Glimpse Into Future Brand Issues for Universities</a>.
             <a class="cv-venue" href="https://insidehighered.com/">Inside Higher Ed</a>, April 2, 2020.<br>
-            <span class="indented">[I'm the "mathematics professor" <a href="https://www.reddit.com/r/Professors/comments/fo78y3/youtube_took_down_my_lecture_because_it_violates/">whose YouTube lecture was taken down</a>.]</span>
+            <span class="addendum">[I'm the "mathematics professor" <a href="https://www.reddit.com/r/Professors/comments/fo78y3/youtube_took_down_my_lecture_because_it_violates/">whose YouTube lecture was taken down</a>.]</span>
         </td>
     </tr>
     <tr>

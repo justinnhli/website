@@ -2,14 +2,14 @@ h4 {margin-left:0.5em;}
 .cv-table + h3, .cv-table + h4 {margin-top:0.75em;}
 #cv-contact-right {float:right; text-align:right;}
 .social-media-logo {display:inline; height:1em; vertical-align:top;}
-.indented {padding-left:2em;}
-.cv-table {padding-left:1em; width:100%;}
-.cv-table tr, .cv-table td {border-style:none;}
-.cv-table td:first-child {padding-left:0; width:75%;}
-.cv-table td + td:last-child {text-align:right; width:25%;}
-.cv-table span.addendum {padding-left:2em;}
-.cv-table ul {list-style-type:disc; margin:0; padding-left:1em;}
-.cv-paragraph {margin:10px 0 10px 1em;}
+.cv-table {padding-left:0.5em; width:100%;}
+.cv-table td {border-style:none; padding:0.5em;}
+.cv-table td span.addendum {padding-left:2em;}
+.cv-table td + td:last-child {text-align:right;}
+.cv-table tbody.grouping tr:first-child td {padding-top:0.5em; padding-left:0}
+.cv-table tbody.grouping tr:last-child td {padding-bottom:0.5em;}
+.cv-table tbody.grouping tr td {padding-top:0; padding-bottom:0;}
+.cv-paragraph {margin:0.5em 0 0.5em 1em;}
 .cv-me {font-weight:600;}
 .cv-student::after {content:'*';}
 a.cv-title, a.cv-title:visited {color:#3D7A04;}
