@@ -113,6 +113,10 @@ category: resources
 * [*Computer Age Statistical Inference*, by Bradley Efron and Trevor Hastie](https://web.stanford.edu/~hastie/CASI/)
 * [*Python Data Science Handbook*, by Jake VanderPlas](https://github.com/jakevdp/PythonDataScienceHandbook)
 
+### Software Engineering
+
+* [*The Fuzzing Book*, by Andreas Zeller, Rahul Gopinath, Marcel Böhme, Gordon Fraser, and Christian Holler](https://www.fuzzingbook.org/)
+
 ### Graphics
 
 * [*Introduction to Computer Graphics*, David J. Eck](http://math.hws.edu/graphicsbook/index.html)
