@@ -122,6 +122,7 @@ category: resources
 * [*Introduction to Computer Graphics*, by David J. Eck](http://math.hws.edu/graphicsbook/index.html)
 * [*Computer Graphics from Scratch*, by Gabriel Gambetta](https://www.gabrielgambetta.com/computer-graphics-from-scratch/)
 * [*Physically Based Rendering: From Theory To Implementation*, by Matt Pharr, Wenzel Jakob, and Greg Humphreys](https://www.pbr-book.org/)
+* [*Scratchapixel*](https://www.scratchapixel.com/)
 
 ### Command Line
 
