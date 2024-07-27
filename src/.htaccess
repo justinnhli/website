@@ -18,9 +18,6 @@ Redirect /office-hours https://www.oxy.edu/faculty/justin-li
 # redirect /subitize to Subitize
 Redirect /subitize https://subitize.fly.dev 
 
-# redirect /slack to personal Slack workspace
-Redirect /slack https://justinnhli.slack.com/
-
 # redirect to https
 RewriteEngine On
 RewriteCond %{SERVER_PORT} 80
