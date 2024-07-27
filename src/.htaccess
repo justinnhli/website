@@ -1,3 +1,6 @@
+# disable directory listings
+Options -Indexes
+
 # set 404 page
 ErrorDocument 404 /pages/404.html
 
