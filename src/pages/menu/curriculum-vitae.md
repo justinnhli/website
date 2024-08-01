@@ -237,8 +237,7 @@ category: menu
             <span class="cv-me">Justin Li</span>, <a href="https://scijones.github.io/">Steven Jones</a>, and <a href="https://laird.engin.umich.edu/">John E. Laird</a>
             <a class="cv-title" href="">A Rational Analysis and Computational Modeling Perspective on IAM and Déjà Vu</a>.
             Commentary on <a href="https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/are-involuntary-autobiographical-memory-and-deja-vu-natural-products-of-memory-retrieval/C19E179B7806EEEE9493DA1879407694">Barzykowski and Moulin (2023), Are involuntary autobiographical memory and déjà vu natural products of memory retrieval?</a>
-            <!-- In <span class="cv-venue">Behavioral and Brain Sciences</span>, FIXME(FIXME), FIXME-FIXME. -->
-            In <span class="cv-venue">Behavioral and Brain Sciences</span>, (in print).
+            In <span class="cv-venue">Behavioral and Brain Sciences</span>, 46, 2023.
         </td>
         <td>2023</td>
     </tr>
