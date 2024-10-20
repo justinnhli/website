@@ -40,6 +40,7 @@ category: resources
 ### Computer Organization
 
 * [*Dive into Systems*, by Suzanne J. Matthews, Tia Newhall, and Kevin C. Webb](https://diveintosystems.org/)
+* [*Computer Organization*, by Stephen Marz](https://marz.utk.edu/my-courses/cosc230/book/)
 
 ### "Missing Semester" - command line, git, etc.
 
