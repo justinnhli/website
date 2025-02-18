@@ -26,6 +26,7 @@ category: resources
 * [*Think Java: How to Think Like a Computer Scientist*, by Allen Downey](http://www.greenteapress.com/thinkapjava/thinkapjava.pdf)
 * [*Python Tutor*](http://pythontutor.com/)
 * [*Practical Python*, by David Beazley](https://dabeaz-course.github.io/practical-python/)
+* [*Discovering Computer Science*, by Jessen Havill](https://www.discoveringcs.net)
 
 ### Data Structures
 
