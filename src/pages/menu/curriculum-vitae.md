@@ -120,6 +120,14 @@ category: menu
 <table class="cv-table">
     <tr>
         <td>
+            Julie Prebel and <span class="cv-me">Justin Li</span>.
+            <a class="cv-title" href="/files/publications/Prebel2024MultifacetedEquityCritiquing.pdf">Multifaceted Equity: Critiquing a First-Year Writing Assessment through Curricular, Performance, and Reliability Lenses</a>.
+            <span class="cv-venue">Journal of Writing Assessment</span>, 17(2).
+        </td>
+        <td>2024</td>
+    </tr>
+    <tr>
+        <td>
             <span class="cv-me">Justin Li</span>.
             <a class="cv-title" href="/files/publications/Li2019ExplorableWebApps.pdf">Explorable Web Apps to Teach AI to Non-Majors</a>.
             <span class="cv-venue">The Journal of Computing Sciences in Colleges</span>, 34(4), 128-133.
