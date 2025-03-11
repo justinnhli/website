@@ -71,6 +71,7 @@ category: resources
 ### Machine Learning
 
 * [*Interpretable Machine Learning*, by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/)
+* [*Algorithms for Optimization/Decision Making/Validation*, by Mykel J. Kochenderfer](https://algorithmsbook.com)
 
 ### Deep Learniing
 
