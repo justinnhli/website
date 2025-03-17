@@ -61,8 +61,8 @@ input[type=radio], input[type=checkbox] {display:inline;}
 
 /* SITE ELEMENTS */
 
-div#title {font-family:'Cardo',serif; font-variant:small-caps; font-weight:bolder; font-size:1.4em; color:#4E9A06; text-align:center; letter-spacing:0.05em; line-height:1.25em; margin:0.75em 0;}
-div#title a, div#title a:active, div#title a:hover, div#title a:visited {text-decoration:none;}
+#site-title {font-family:'Cardo',serif; font-variant:small-caps; font-weight:bolder; font-size:1.4em; color:#4E9A06; text-align:center; letter-spacing:0.05em; line-height:1.25em; margin:0.75em 0;}
+#site-title a, #site-title a:active, #site-title a:hover, #site-title a:visited {text-decoration:none;}
 
 nav {display:table; margin:0 0 0.5em 0; padding:0; width:100%;}
 nav a {display:table-cell; width:1%; text-align:center;}
