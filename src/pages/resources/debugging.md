@@ -43,7 +43,7 @@ It is important to remember here *symptoms are not the same as bugs*. Your progr
 Debugging is process where, given one or more symptoms, you determine the bug(s) that led to it, and (ideally) removing those bugs from the code. In this sense, debugging is like being a detective trying to figure out what happened from evidence left behind, or like a scientist trying to understand some puzzling phenomenon. Lucky for us as programmers, we have the ability to replay what happened by running the program again, and to ask the computer to tell us more about what is happening by adding diagnostic code.
 
 <!--
-TODO talk about the relationship between testing
+FIXME talk about the relationship between testing
 -->
 
 ## The Mental Game of Debugging <a id="mental-game"></a>
