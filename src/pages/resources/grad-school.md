@@ -9,7 +9,7 @@ __TL;DR__: If you are interested in going into a PhD program after you graduate,
 2. start looking at schools and, more importantly, potential professors whose research you are interested in
 3. identify professors and mentors who would be willing to write a recommendation letter for you
 
-## Why a (not) PhD?
+## Why (not) a PhD?
 
 Let me start off with some negatives:
 
