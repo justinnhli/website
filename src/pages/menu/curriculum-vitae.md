@@ -149,6 +149,14 @@ category: menu
 <table class="cv-table">
     <tr>
         <td>
+            <span class="cv-student">Lily Gebhart</span>, <span class="cv-me">Justin Li</span>.
+            <a class="cv-title" href="/files/publications/Gebhart2025ExploringIntegratedCooccurrence.pdf">Exploring Integrated Co-occurrence and Semantic Mechanisms for Long Term Memory Retrieval</a>.
+            In <span class="cv-venue">Proceedings of the 23<sup>rd</sup> International Conference on Cognitive Modeling (ICCM)</span>.
+        </td>
+        <td>2025</td>
+    </tr>
+    <tr>
+        <td>
             <span class="cv-me">Justin Li</span>, <span class="cv-student">Bryce Boyle</span>.
             <a class="cv-title" href="/files/publications/Li2022TowardsAComputational.pdf">Towards a Computational Model of a Dynamic Feeling of Knowing</a>.
             In <span class="cv-venue">Proceedings of the 19<sup>th</sup> International Conference on Cognitive Modeling (ICCM)</span>.
