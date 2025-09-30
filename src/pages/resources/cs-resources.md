@@ -78,6 +78,10 @@ category: resources
 * [*Deep Learning*, by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org/)
 * [*Dive into Deep Learning*, Aston Zhang and Zack C. Lipton and Mu Li and Alex J. Smola](http://d2l.ai/)
 
+### Computer Vision
+
+* [*Computer Vision: Algorithms and Applications*, by Richard Szeliski](https://szeliski.org/Book/)
+
 ### Knowledge Representation
 
 * [*Representations of Commonsense Knowledge*, by Ernest Davis](https://cs.nyu.edu/~davise/rck/rck.html)
