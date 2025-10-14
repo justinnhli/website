@@ -356,7 +356,17 @@ category: menu
 
 <table class="cv-table">
     <tr>
-        <td>Outstanding Graduate Student Instructor Award, <a href="https://www.eecs.umich.edu/">EECS Department</a>, <a href="https://umich.edu/">University of Michigan</a></td>
+        <td>
+            Linda and Tod White Teaching Prize (Finalist)<br>
+            <a href="https://www.oxy.edu/">Occidental College</a>
+        </td>
+        <td>April 2024</td>
+    </tr>
+    <tr>
+        <td>
+            Outstanding Graduate Student Instructor Award<br>
+            <a href="https://www.eecs.umich.edu/">EECS Department</a>, <a href="https://umich.edu/">University of Michigan</a>
+        </td>
         <td>Fall 2009</td>
     </tr>
 </table>
