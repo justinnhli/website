@@ -19,9 +19,16 @@ Redirect /oh https://www.oxy.edu/faculty/justin-li
 Redirect /office-hours https://www.oxy.edu/faculty/justin-li
 
 # redirect /subitize to Subitize
-Redirect /subitize https://subitize.fly.dev 
+Redirect /subitize https://subitize.fly.dev
+
+RewriteEngine On
 
 # redirect to https
-RewriteEngine On
 RewriteCond %{SERVER_PORT} 80
-RewriteRule ^(.*)$ https://justinnhli.com/$1 [R,L]
+RewriteRule ^(.*)$ https://justinnhli.com/$1 [L,R]
+
+# redirect away from trailing slash
+RewriteRule ^(.*\.html)/$ /$1 [L,R] 
+
+# redirect from /posts to /writings.html
+RewriteRule ^(posts/?)$ /writings.html [L,R] 
